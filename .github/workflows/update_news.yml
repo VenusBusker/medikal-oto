@@ -1,8 +1,8 @@
 name: Tıp Haberleri Güncelle
 on:
   schedule:
-    - cron: '0 */6 * * *' # 6 saatte bir çalışır
-  workflow_dispatch: # İstediğinde manuel çalıştırmanı sağlar
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -13,12 +13,18 @@ jobs:
 
       - name: Haberleri Çek ve Kaydet
         run: |
-          curl -s "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fmedicalxpress.com%2Frss-feed%2Ftransplant-news%2F" > haberler.json
+          # Önce eski dosyayı sil ki yenisi kesin oluşsun
+          rm -f haberler.json
+          curl -L -s "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fmedicalxpress.com%2Frss-feed%2Ftransplant-news%2F" > haberler.json
+          
+          # Dosyanın gerçekten indiğini kontrol et
+          ls -l haberler.json
 
       - name: Değişiklikleri Kaydet
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add haberler.json
-          git commit -m "Haberler güncellendi" || exit 0
+          # Zaman damgası ekleyerek değişikliği zorla
+          git commit -m "Haberler güncellendi: $(date)" || exit 0
           git push
