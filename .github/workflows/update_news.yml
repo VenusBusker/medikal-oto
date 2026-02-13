@@ -1,0 +1,24 @@
+name: Tıp Haberleri Güncelle
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Her 6 saatte bir çalışır
+  workflow_dispatch: # Manuel çalıştırmak istersen
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout depo
+        uses: actions/checkout@v2
+
+      - name: Haberleri Çek ve Kaydet
+        run: |
+          curl -s "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.sciencedaily.com%2Frss%2Fmatter_energy%2Fprosthetics.xml" > haberler.json
+
+      - name: Değişiklikleri Kaydet
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add haberler.json
+          git commit -m "Haberler güncellendi" || exit 0
+          git push
