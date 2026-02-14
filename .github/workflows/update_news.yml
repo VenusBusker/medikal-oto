@@ -1,7 +1,7 @@
 name: Tıp Haberleri Canlı Akış ve Arşiv
 on:
   schedule:
-    - cron: '*/30 * * * *' # TAM OLARAK HER 30 DAKİKADA BİR ÇALIŞIR
+    - cron: '*/30 * * * *' # Her 30 dakikada bir çalışır
   workflow_dispatch:
 
 jobs:
@@ -13,13 +13,14 @@ jobs:
       - name: Checkout depo
         uses: actions/checkout@v3
 
-      - name: Geniş Kapsamlı Haber Çekimi
+      - name: Kasim 2025 Sonrası Haber Çekimi
         run: |
-          # Arama terimlerini devasa genişlettik: Biyonik, Biyo-yazıcı, Xenotransplant, Nöral Arayüz vb.
-          QUERY="organ+transplant+OR+prosthetic+limbs+OR+bionic+OR+bio-printing+OR+xenotransplantation+OR+artificial+organs+after:2025-01-01"
+          # FİLTRE: 1 Kasım 2025'ten (2025-11-01) bugüne kadar olanları tarar
+          QUERY="organ+transplant+OR+prosthetic+OR+bionic+OR+artificial+organ+OR+neural+interface+after:2025-11-01"
           curl -L -s "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fnews.google.com%2Frss%2Fsearch%3Fq%3D$QUERY%26hl%3Den-US%26gl%3DUS%26ceid%3DUS%3Aen" > yeni_haberler.json
           
-          python3 - <<EOF
+      - name: Python ile Arşivi Birleştir
+        run: |
           import json, os
           try:
               new_items = []
@@ -32,22 +33,11 @@ jobs:
                       old_data = json.load(f)
                       old_items = old_data.get('items', []) if isinstance(old_data, dict) else []
               
-              # Link bazlı mükerrer kontrolü
               existing_links = {item.get('link') for item in old_items if item.get('link')}
               unique_new = [item for item in new_items if item.get('link') and item.get('link') not in existing_links]
               
-              # Arşivleme: Yeni haberleri üste ekle, toplam 500 kayıt tut
               combined = unique_new + old_items
               with open('haberler.json', 'w') as f:
                   json.dump({"status": "ok", "items": combined[:500]}, f, indent=2)
           except Exception as e:
               print(f"Hata: {e}")
-          EOF
-
-      - name: Arşivi Pushla
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add haberler.json
-          git commit -m "Canlı Güncelleme: $(date)" || exit 0
-          git push origin main
