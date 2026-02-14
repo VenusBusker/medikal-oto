@@ -15,16 +15,14 @@ jobs:
 
       - name: Haberleri Çek
         run: |
-          # Sorguyu en basit hale getirdik, tarihlerle Google'ı yormuyoruz, filtreyi Python'da yapacağız
-          QUERY="organ+transplant+prosthetic+bionic"
+          # Sorguyu olabildiğince genişlettik, tarih baskısı yapmıyoruz
+          QUERY="organ+transplant+OR+prosthetic+OR+bionic+OR+neural+interface"
           curl -L -s "https://news.google.com/rss/search?q=$QUERY&hl=en-US&gl=US&ceid=US:en" > google_news.xml
           
       - name: XML'i Zorla Parçala ve Birleştir
         shell: python
         run: |
-          import json
-          import os
-          import re
+          import json, os, re
           from datetime import datetime
 
           def get_val(item, tag):
@@ -35,40 +33,33 @@ jobs:
           if os.path.exists('google_news.xml'):
               with open('google_news.xml', 'r', encoding='utf-8') as f:
                   content = f.read()
-                  # <item> etiketlerini manuel yakalıyoruz (XML hatasına karşı en sağlam yol)
                   items = re.findall(r'<item>(.*?)</item>', content, re.DOTALL)
                   for it in items:
                       title = get_val(it, 'title').replace('<![CDATA[', '').replace(']]>', '')
                       link = get_val(it, 'link')
                       pub_date = get_val(it, 'pubDate')
-                      
-                      # TARİH FİLTRESİ: Kasım 2025 (11. ay) sonrası olanları al
-                      try:
-                          dt = datetime.strptime(pub_date, '%a, %d %b %Y %H:%M:%S %Z')
-                          if dt >= datetime(2025, 11, 1):
-                              new_items.append({'title': title, 'link': link, 'pubDate': pub_date})
-                      except:
-                          continue
+                      new_items.append({'title': title, 'link': link, 'pubDate': pub_date})
 
           old_items = []
           if os.path.exists('haberler.json'):
               try:
                   with open('haberler.json', 'r') as f:
                       old_data = json.load(f)
-                      old_items = old_data.get('items', [])
+                      old_items = old_data.get('items', []) if isinstance(old_data, dict) else []
               except: pass
 
           existing_links = {item.get('link') for item in old_items}
           unique_new = [item for item in new_items if item.get('link') not in existing_links]
           
+          # Yeni haberleri en başa koy, toplam 1000 kayıt tut
           combined = unique_new + old_items
           with open('haberler.json', 'w') as f:
-              json.dump({"status": "ok", "items": combined[:500]}, f, indent=2)
+              json.dump({"status": "ok", "items": combined[:1000]}, f, indent=2)
 
       - name: Değişiklikleri Kaydet
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add haberler.json
-          git commit -m "Kesin Güncelleme: $(date)" || exit 0
+          git commit -m "Arşiv Genişletildi: $(date)" || exit 0
           git push origin main
