@@ -13,18 +13,16 @@ jobs:
 
       - name: Haberleri Çek ve Kaydet
         run: |
-          # Önce eski dosyayı sil ki yenisi kesin oluşsun
+          # Önceki hatayı temizlemek için dosyayı tamamen silip sıfırdan oluşturuyoruz
           rm -f haberler.json
-          curl -L -s "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fmedicalxpress.com%2Frss-feed%2Ftransplant-news%2F" > haberler.json
+          # En stabil tıp haber akışı kaynağını kullanıyoruz
+          curl -L -s "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.news-medical.net%2Fsyndication.axd%3Ftype%3Drss%26tag%3DTransplantation" > haberler.json
           
-          # Dosyanın gerçekten indiğini kontrol et
-          ls -l haberler.json
-
       - name: Değişiklikleri Kaydet
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add haberler.json
-          # Zaman damgası ekleyerek değişikliği zorla
+          # Zaman damgası ekleyerek içeriği her saniye "farklı" gösteriyoruz, böylece push zorlanır
           git commit -m "Haberler güncellendi: $(date)" || exit 0
           git push
