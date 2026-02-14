@@ -1,7 +1,7 @@
 name: Tıp Haberleri Canlı Akış ve Arşiv
 on:
   schedule:
-    - cron: '*/30 * * * *' # Her 30 dakikada bir çalışır
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -15,29 +15,49 @@ jobs:
 
       - name: Kasim 2025 Sonrası Haber Çekimi
         run: |
-          # FİLTRE: 1 Kasım 2025'ten (2025-11-01) bugüne kadar olanları tarar
+          # FİLTRE: 1 Kasım 2025 sonrası
           QUERY="organ+transplant+OR+prosthetic+OR+bionic+OR+artificial+organ+OR+neural+interface+after:2025-11-01"
           curl -L -s "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fnews.google.com%2Frss%2Fsearch%3Fq%3D$QUERY%26hl%3Den-US%26gl%3DUS%26ceid%3DUS%3Aen" > yeni_haberler.json
           
       - name: Python ile Arşivi Birleştir
+        shell: python
         run: |
-          import json, os
-          try:
-              new_items = []
-              old_items = []
-              if os.path.exists('yeni_haberler.json'):
+          import json
+          import os
+
+          new_items = []
+          old_items = []
+
+          # 1. Yeni veriyi oku
+          if os.path.exists('yeni_haberler.json'):
+              try:
                   with open('yeni_haberler.json', 'r') as f:
                       new_items = json.load(f).get('items', [])
-              if os.path.exists('haberler.json'):
+              except:
+                  pass
+
+          # 2. Mevcut arşivi oku
+          if os.path.exists('haberler.json'):
+              try:
                   with open('haberler.json', 'r') as f:
                       old_data = json.load(f)
                       old_items = old_data.get('items', []) if isinstance(old_data, dict) else []
-              
-              existing_links = {item.get('link') for item in old_items if item.get('link')}
-              unique_new = [item for item in new_items if item.get('link') and item.get('link') not in existing_links]
-              
-              combined = unique_new + old_items
-              with open('haberler.json', 'w') as f:
-                  json.dump({"status": "ok", "items": combined[:500]}, f, indent=2)
-          except Exception as e:
-              print(f"Hata: {e}")
+              except:
+                  pass
+
+          # 3. Mükerrer kayıt kontrolü
+          existing_links = {item.get('link') for item in old_items if item.get('link')}
+          unique_new = [item for item in new_items if item.get('link') and item.get('link') not in existing_links]
+          
+          # 4. Birleştir ve Kaydet
+          combined = unique_new + old_items
+          with open('haberler.json', 'w') as f:
+              json.dump({"status": "ok", "items": combined[:500]}, f, indent=2)
+
+      - name: Değişiklikleri Kaydet
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add haberler.json
+          git commit -m "Canlı Arşiv Güncelleme: $(date)" || exit 0
+          git push origin main
