@@ -15,49 +15,52 @@ jobs:
 
       - name: Haberleri Çek
         run: |
-          # Sorguyu daha basit ve Google dostu hale getirdik
-          QUERY="organ+transplant+OR+prosthetic+OR+bionic+after:2025-11-01"
-          # RSS2JSON servisi bazen takılabiliyor, doğrudan Google'dan çekip Python ile işleyeceğiz
+          # Sorguyu en basit hale getirdik, tarihlerle Google'ı yormuyoruz, filtreyi Python'da yapacağız
+          QUERY="organ+transplant+prosthetic+bionic"
           curl -L -s "https://news.google.com/rss/search?q=$QUERY&hl=en-US&gl=US&ceid=US:en" > google_news.xml
           
-      - name: XML verisini JSON'a Çevir ve Birleştir
+      - name: XML'i Zorla Parçala ve Birleştir
         shell: python
         run: |
           import json
           import os
-          import xml.etree.ElementTree as ET
+          import re
           from datetime import datetime
 
-          new_items = []
-          # 1. Google'dan gelen XML'i oku ve parçala
-          if os.path.exists('google_news.xml'):
-              try:
-                  tree = ET.parse('google_news.xml')
-                  root = tree.getroot()
-                  for item in root.findall('.//item'):
-                      new_items.append({
-                          'title': item.find('title').text,
-                          'link': item.find('link').text,
-                          'pubDate': item.find('pubDate').text
-                      })
-              except Exception as e:
-                  print(f"XML Okuma Hatası: {e}")
+          def get_val(item, tag):
+              match = re.search(f'<{tag}>(.*?)</{tag}>', item, re.DOTALL)
+              return match.group(1) if match else ""
 
-          # 2. Mevcut arşivi oku
+          new_items = []
+          if os.path.exists('google_news.xml'):
+              with open('google_news.xml', 'r', encoding='utf-8') as f:
+                  content = f.read()
+                  # <item> etiketlerini manuel yakalıyoruz (XML hatasına karşı en sağlam yol)
+                  items = re.findall(r'<item>(.*?)</item>', content, re.DOTALL)
+                  for it in items:
+                      title = get_val(it, 'title').replace('<![CDATA[', '').replace(']]>', '')
+                      link = get_val(it, 'link')
+                      pub_date = get_val(it, 'pubDate')
+                      
+                      # TARİH FİLTRESİ: Kasım 2025 (11. ay) sonrası olanları al
+                      try:
+                          dt = datetime.strptime(pub_date, '%a, %d %b %Y %H:%M:%S %Z')
+                          if dt >= datetime(2025, 11, 1):
+                              new_items.append({'title': title, 'link': link, 'pubDate': pub_date})
+                      except:
+                          continue
+
           old_items = []
           if os.path.exists('haberler.json'):
               try:
                   with open('haberler.json', 'r') as f:
                       old_data = json.load(f)
                       old_items = old_data.get('items', [])
-              except:
-                  pass
+              except: pass
 
-          # 3. Mükerrer kontrolü
           existing_links = {item.get('link') for item in old_items}
           unique_new = [item for item in new_items if item.get('link') not in existing_links]
           
-          # 4. Birleştir ve Kaydet
           combined = unique_new + old_items
           with open('haberler.json', 'w') as f:
               json.dump({"status": "ok", "items": combined[:500]}, f, indent=2)
@@ -67,5 +70,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add haberler.json
-          git commit -m "Arşiv Güncelleme: $(date)" || exit 0
+          git commit -m "Kesin Güncelleme: $(date)" || exit 0
           git push origin main
