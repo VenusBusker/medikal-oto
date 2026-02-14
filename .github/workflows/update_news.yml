@@ -1,8 +1,8 @@
 name: Tıp Haberleri Güncelle ve Arşivle
 on:
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    - cron: '0 */6 * * *' # 6 saatte bir otomatik çalışır
+  workflow_dispatch: # İstediğinde manuel çalıştırmanı sağlar
 
 jobs:
   build:
@@ -13,10 +13,10 @@ jobs:
 
       - name: Haberleri Çek ve Birleştir
         run: |
-          # 1. Yeni haberleri çek
-          curl -L -s "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fnews.google.com%2Frss%2Fsearch%3Fq%3Dorgan%2Btransplant%2Bprosthetic%2Btechnology%2Bwhen%3A1y%26hl%3Den-US%26gl%3DUS%26ceid%3DUS%3Aen" > yeni_haberler.json
+          # AGRESİF FİLTRE: Sadece 2025 sonrası ve son 24 saatte yayınlanmış haberler
+          # q=organ+transplant+prosthetic+limbs+after:2025-01-01+when:1d
+          curl -L -s "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fnews.google.com%2Frss%2Fsearch%3Fq%3Dorgan%2Btransplant%2Bprosthetic%2Blimbs%2Bafter%3A2025-01-01%2Bwhen%3A1d%26hl%3Den-US%26gl%3DUS%26ceid%3DUS%3Aen" > yeni_haberler.json
           
-          # 2. Python ile güvenli birleştirme yap
           python3 - <<EOF
           import json
           import os
@@ -25,7 +25,7 @@ jobs:
               new_items = []
               old_items = []
               
-              # Yeni veriyi oku
+              # 1. Yeni veriyi oku
               if os.path.exists('yeni_haberler.json'):
                   try:
                       with open('yeni_haberler.json', 'r') as f:
@@ -33,30 +33,25 @@ jobs:
                           new_items = new_data.get('items', [])
                   except: pass
 
-              # Eski veriyi oku (dosya yoksa veya bozuksa boş liste kabul et)
+              # 2. Mevcut arşivi oku (dosya yoksa boş liste kabul et)
               if os.path.exists('haberler.json'):
                   try:
                       with open('haberler.json', 'r') as f:
                           old_data = json.load(f)
-                          old_items = old_data.get('items', [])
+                          # Eğer dosya "status:error" mesajıyla kaldıysa temizle
+                          if old_data.get('status') == 'error':
+                              old_items = []
+                          else:
+                              old_items = old_data.get('items', [])
                   except: pass
 
-              # Mükerrer kayıtları engelle (link bazlı)
-              existing_links = {item.get('link') for item in old_items if 'link' in item}
-              unique_new = [item for item in new_items if item.get('link') not in existing_links]
+              # 3. Mükerrer kayıtları (Link bazlı) ve boş kayıtları ele
+              existing_links = {item.get('link') for item in old_items if item.get('link')}
+              unique_new = [item for item in new_items if item.get('link') and item.get('link') not in existing_links]
               
-              # Birleştir ve kaydet (maksimum 300 kayıt)
+              # 4. Yeni gelenleri listenin EN ÜSTÜNE ekle
               combined = unique_new + old_items
+              
+              # 5. Arşivi güncelle (Maksimum 300 güncel kayıt tutar)
               with open('haberler.json', 'w') as f:
-                  json.dump({"status": "ok", "items": combined[:300]}, f, indent=2)
-
-          run()
-          EOF
-
-      - name: Değişiklikleri Kaydet
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add haberler.json
-          git commit -m "Arşiv güncellendi: $(date)" || exit 0
-          git push
+                  json.dump({"status": "ok", "items": combined[:300]}, f, indent=
