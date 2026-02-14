@@ -13,41 +13,49 @@ jobs:
       - name: Checkout depo
         uses: actions/checkout@v3
 
-      - name: Kasim 2025 Sonrası Haber Çekimi
+      - name: Haberleri Çek
         run: |
-          # FİLTRE: 1 Kasım 2025 sonrası
-          QUERY="organ+transplant+OR+prosthetic+OR+bionic+OR+artificial+organ+OR+neural+interface+after:2025-11-01"
-          curl -L -s "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fnews.google.com%2Frss%2Fsearch%3Fq%3D$QUERY%26hl%3Den-US%26gl%3DUS%26ceid%3DUS%3Aen" > yeni_haberler.json
+          # Sorguyu daha basit ve Google dostu hale getirdik
+          QUERY="organ+transplant+OR+prosthetic+OR+bionic+after:2025-11-01"
+          # RSS2JSON servisi bazen takılabiliyor, doğrudan Google'dan çekip Python ile işleyeceğiz
+          curl -L -s "https://news.google.com/rss/search?q=$QUERY&hl=en-US&gl=US&ceid=US:en" > google_news.xml
           
-      - name: Python ile Arşivi Birleştir
+      - name: XML verisini JSON'a Çevir ve Birleştir
         shell: python
         run: |
           import json
           import os
+          import xml.etree.ElementTree as ET
+          from datetime import datetime
 
           new_items = []
-          old_items = []
-
-          # 1. Yeni veriyi oku
-          if os.path.exists('yeni_haberler.json'):
+          # 1. Google'dan gelen XML'i oku ve parçala
+          if os.path.exists('google_news.xml'):
               try:
-                  with open('yeni_haberler.json', 'r') as f:
-                      new_items = json.load(f).get('items', [])
-              except:
-                  pass
+                  tree = ET.parse('google_news.xml')
+                  root = tree.getroot()
+                  for item in root.findall('.//item'):
+                      new_items.append({
+                          'title': item.find('title').text,
+                          'link': item.find('link').text,
+                          'pubDate': item.find('pubDate').text
+                      })
+              except Exception as e:
+                  print(f"XML Okuma Hatası: {e}")
 
           # 2. Mevcut arşivi oku
+          old_items = []
           if os.path.exists('haberler.json'):
               try:
                   with open('haberler.json', 'r') as f:
                       old_data = json.load(f)
-                      old_items = old_data.get('items', []) if isinstance(old_data, dict) else []
+                      old_items = old_data.get('items', [])
               except:
                   pass
 
-          # 3. Mükerrer kayıt kontrolü
-          existing_links = {item.get('link') for item in old_items if item.get('link')}
-          unique_new = [item for item in new_items if item.get('link') and item.get('link') not in existing_links]
+          # 3. Mükerrer kontrolü
+          existing_links = {item.get('link') for item in old_items}
+          unique_new = [item for item in new_items if item.get('link') not in existing_links]
           
           # 4. Birleştir ve Kaydet
           combined = unique_new + old_items
@@ -59,5 +67,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add haberler.json
-          git commit -m "Canlı Arşiv Güncelleme: $(date)" || exit 0
+          git commit -m "Arşiv Güncelleme: $(date)" || exit 0
           git push origin main
