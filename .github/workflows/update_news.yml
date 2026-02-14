@@ -13,47 +13,48 @@ jobs:
       - name: Checkout depo
         uses: actions/checkout@v3
 
-      - name: Haberleri Çek
-        run: |
-          QUERY="organ+transplant+OR+prosthetic+OR+bionic+OR+neural+interface"
-          curl -L -s "https://news.google.com/rss/search?q=$QUERY&hl=en-US&gl=US&ceid=US:en" > google_news.xml
-          
-      - name: Sızıntı Engelleme ve Birleştirme
+      - name: Haberleri Çek ve Filtrele
         shell: python
         run: |
-          import json, os, re
+          import json, os, re, urllib.request
+          from datetime import datetime
 
           def get_val(item, tag):
               match = re.search(f'<{tag}>(.*?)</{tag}>', item, re.DOTALL)
               return match.group(1) if match else ""
 
+          # Arama kategorileri (Ayrı ayrı aranacak ki veri kaybı olmasın)
+          queries = [
+              "organ+transplant+technology",
+              "bionic+limbs+prosthetic",
+              "neural+interface+brain+computer",
+              "artificial+organ+development"
+          ]
+
           new_items = []
-          # İzin verilen yıllar: Sadece 2025 ve 2026
           allowed_years = ["2025", "2026"]
-          # İzin verilmeyen aylar (Kasım öncesi için): Ocak'tan Ekim'e kadar
           disallowed_months_2025 = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct"]
 
-          if os.path.exists('google_news.xml'):
-              with open('google_news.xml', 'r', encoding='utf-8') as f:
-                  content = f.read()
-                  items = re.findall(r'<item>(.*?)</item>', content, re.DOTALL)
-                  for it in items:
-                      pub_date = get_val(it, 'pubDate')
-                      
-                      # YIL KONTROLÜ: Eğer 2025 veya 2026 değilse SİL
-                      is_valid_year = any(year in pub_date for year in allowed_years)
-                      if not is_valid_year:
-                          continue
-                      
-                      # KASIM 2025 KONTROLÜ: Eğer yıl 2025 ise ve aylar Kasım/Aralık değilse SİL
-                      if "2025" in pub_date:
-                          if any(month in pub_date for month in disallowed_months_2025):
-                              continue
+          for q in queries:
+              try:
+                  url = f"https://news.google.com/rss/search?q={q}+after:2025-11-01&hl=en-US&gl=US&ceid=US:en"
+                  with urllib.request.urlopen(url) as response:
+                      content = response.read().decode('utf-8')
+                      items = re.findall(r'<item>(.*?)</item>', content, re.DOTALL)
+                      for it in items:
+                          pub_date = get_val(it, 'pubDate')
+                          
+                          # Sert Tarih Filtresi
+                          if not any(year in pub_date for year in allowed_years): continue
+                          if "2025" in pub_date and any(month in pub_date for month in disallowed_months_2025): continue
 
-                      title = get_val(it, 'title').replace('<![CDATA[', '').replace(']]>', '')
-                      link = get_val(it, 'link')
-                      new_items.append({'title': title, 'link': link, 'pubDate': pub_date})
+                          title = get_val(it, 'title').replace('<![CDATA[', '').replace(']]>', '')
+                          link = get_val(it, 'link')
+                          new_items.append({'title': title, 'link': link, 'pubDate': pub_date})
+              except:
+                  continue
 
+          # Mevcut arşivi oku
           old_items = []
           if os.path.exists('haberler.json'):
               try:
@@ -62,17 +63,18 @@ jobs:
                       old_items = old_data.get('items', [])
               except: pass
 
+          # Mükerrerleri ele ve birleştir
           existing_links = {item.get('link') for item in old_items}
           unique_new = [item for item in new_items if item.get('link') not in existing_links]
           
           combined = unique_new + old_items
           with open('haberler.json', 'w') as f:
-              json.dump({"status": "ok", "items": combined[:500]}, f, indent=2)
+              json.dump({"status": "ok", "items": combined[:1000]}, f, indent=2)
 
       - name: Değişiklikleri Kaydet
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add haberler.json
-          git commit -m "Kesin Tarih Filtresi Uygulandı: $(date)" || exit 0
+          git commit -m "Veri Havuzu Genişletildi: $(date)" || exit 0
           git push origin main
