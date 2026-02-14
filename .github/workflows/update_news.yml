@@ -1,4 +1,4 @@
-name: Tıp Haberleri Güncelle
+name: Tıp Haberleri Güncelle ve Arşivle
 on:
   schedule:
     - cron: '0 */6 * * *'
@@ -11,16 +11,46 @@ jobs:
       - name: Checkout depo
         uses: actions/checkout@v2
 
-      - name: Haberleri Çek ve Kaydet
+      - name: Haberleri Çek ve Birleştir
         run: |
-          # Google News üzerinden Organ Nakli ve Protez araması yapıp doğrudan JSON çekiyoruz
-          # rss2json servisini kullanmadan, bir proxy üzerinden ham veriyi alıyoruz
-          curl -L -s "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fnews.google.com%2Frss%2Fsearch%3Fq%3Dorgan%2Btransplant%2Bprosthetic%2Blimbs%26hl%3Den-US%26gl%3DUS%26ceid%3DUS%3Aen" > haberler.json
+          # 1. Yeni haberleri geçici bir dosyaya çek
+          curl -L -s "https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fnews.google.com%2Frss%2Fsearch%3Fq%3Dorgan%2Btransplant%2Bprosthetic%2Btechnology%2Bwhen%3A1d%26hl%3Den-US%26gl%3DUS%26ceid%3DUS%3Aen" > yeni_haberler.json
           
+          # 2. Eğer daha önce haberler.json yoksa oluştur
+          if [ ! -f haberler.json ]; then
+            echo '{"items": []}' > haberler.json
+          fi
+
+          # 3. Python kullanarak yeni ve eski haberleri birleştir, mükerrer olanları (linke göre) ele
+          python3 - <<EOF
+          import json
+          try:
+              with open('haberler.json', 'r') as f:
+                  old_data = json.load(f)
+              with open('yeni_haberler.json', 'r') as f:
+                  new_data = json.load(f)
+              
+              old_items = old_data.get('items', [])
+              new_items = new_data.get('items', [])
+              
+              # Linkleri kontrol ederek sadece benzersiz olanları ekle
+              existing_links = {item['link'] for item in old_items}
+              unique_new_items = [item for item in new_items if item['link'] not in existing_links]
+              
+              # Yeni haberleri en başa koy, eskiyi arkasına ekle
+              combined_items = unique_new_items + old_items
+              
+              # Arşivi çok şişirmemek için son 200 kaydı tutalım (isteğe göre artırılabilir)
+              with open('haberler.json', 'w') as f:
+                  json.dump({"status": "ok", "items": combined_items[:500]}, f)
+          except Exception as e:
+              print(f"Hata: {e}")
+          EOF
+
       - name: Değişiklikleri Kaydet
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add haberler.json
-          git commit -m "Haberler güncellendi: $(date)" || exit 0
+          git commit -m "Arşiv güncellendi: $(date)" || exit 0
           git push
