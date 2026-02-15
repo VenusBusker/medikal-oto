@@ -17,31 +17,51 @@ jobs:
         shell: python
         run: |
           import json, os, re, urllib.request, urllib.parse
-          from datetime import datetime
-
+          
           def get_val(item, tag):
               match = re.search(f'<{tag}>(.*?)</{tag}>', item, re.DOTALL)
               return match.group(1) if match else ""
 
-          def get_real_image(google_url):
+          def get_really_real_image(google_url):
               try:
-                  # Google yönlendirmesini aş ve gerçek siteye git
-                  req = urllib.request.Request(google_url, headers={'User-Agent': 'Mozilla/5.0'})
-                  with urllib.request.urlopen(req, timeout=10) as resp:
+                  # Google News linkine git ve asıl haber sitesinin URL'sini al
+                  headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
+                  req = urllib.request.Request(google_url, headers=headers)
+                  with urllib.request.urlopen(req, timeout=15) as resp:
                       real_url = resp.geturl()
                   
-                  # Gerçek siteden görseli çek
-                  req_real = urllib.request.Request(real_url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'})
-                  with urllib.request.urlopen(req_real, timeout=10) as response:
-                      html = response.read().decode('utf-8', errors='ignore')
-                      img_match = re.search(r'property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']', html)
-                      if not img_match:
-                          img_match = re.search(r'content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']', html)
-                      return img_match.group(1) if img_match else ""
-              except: return ""
+                  # Google'da takılı kaldıysak çık (googleusercontent hatasını burada eliyoruz)
+                  if "google.com" in real_url and "news" in real_url:
+                      return ""
 
-          queries_en = ["medical+news", "healthcare+tech"]
-          queries_tr = ["tıp+haberleri", "sağlık+teknolojisi"]
+                  # Gerçek haber sitesine git ve görseli sök
+                  req_final = urllib.request.Request(real_url, headers=headers)
+                  with urllib.request.urlopen(req_final, timeout=15) as response:
+                      html = response.read().decode('utf-8', errors='ignore')
+                      
+                      # 1. Öncelik: og:image (Facebook/WhatsApp görseli)
+                      # 2. Öncelik: twitter:image (Twitter kartı görseli)
+                      # 3. Öncelik: link rel="image_src"
+                      img_patterns = [
+                          r'property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']',
+                          r'content=["\']([^"\']+)["\']\s+property=["\']og:image["\']',
+                          r'name=["\']twitter:image["\'][^>]+content=["\']([^"\']+)["\']',
+                          r'rel=["\']image_src["\'][^>]+href=["\']([^"\']+)["\']'
+                      ]
+                      
+                      for pattern in img_patterns:
+                          img_match = re.search(pattern, html, re.IGNORECASE)
+                          if img_match:
+                              img_url = img_match.group(1)
+                              # Googleusercontent linki gelirse kabul etme, aramaya devam et
+                              if "googleusercontent" not in img_url:
+                                  return img_url
+              except:
+                  pass
+              return ""
+
+          queries_en = ["medical+breakthrough", "clinical+trials+news"]
+          queries_tr = ["tıp+dünyasından+haberler", "sağlık+teknolojileri"]
 
           def fetch_data(query_list, lang_suffix):
               collected_items = []
@@ -53,15 +73,26 @@ jobs:
                       url = f"https://news.google.com/rss/search?q={q}+after:2025-11-01&hl={hl}&ceid={ceid}"
                       req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
                       with urllib.request.urlopen(req) as response:
-                          items = re.findall(r'<item>(.*?)</item>', response.read().decode('utf-8'), re.DOTALL)
-                          for it in items[:15]: # Her sorgu için en taze 15 haber
+                          content = response.read().decode('utf-8')
+                          items = re.findall(r'<item>(.*?)</item>', content, re.DOTALL)
+                          
+                          # Daha az ama daha kaliteli görsel için her sorgudan 10 haber alalım
+                          for it in items[:10]:
                               link = get_val(it, 'link')
-                              title = get_val(it, 'title').replace('<![CDATA[', '').replace(']]>', '')
+                              title = get_val(it, 'title').split(' - ')[0].replace('<![CDATA[', '').replace(']]>', '')
                               pub_date = get_val(it, 'pubDate')
-                              img = get_real_image(link)
                               
-                              collected_items.append({'title': title, 'link': link, 'pubDate': pub_date, 'image': img})
-                  except: continue
+                              image = get_really_real_image(link)
+                              
+                              if image: # Sadece görseli olan haberleri çekmek istersen bunu kullanabilirsin
+                                  collected_items.append({
+                                      'title': title, 
+                                      'link': link, 
+                                      'pubDate': pub_date, 
+                                      'image': image
+                                  })
+                  except:
+                      continue
               return collected_items
 
           new_en = fetch_data(queries_en, "en")
@@ -74,8 +105,10 @@ jobs:
                       with open(filename, 'r', encoding='utf-8') as f:
                           old_items = json.load(f).get('items', [])
                   except: pass
+              
               existing_links = {item.get('link') for item in old_items}
               unique_new = [item for item in new_data if item.get('link') not in existing_links]
+              
               combined = (unique_new + old_items)[:500]
               with open(filename, 'w', encoding='utf-8') as f:
                   json.dump({"status": "ok", "items": combined}, f, indent=2, ensure_ascii=False)
@@ -88,5 +121,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add haberler.json haberler_tr.json
-          git commit -m "Gerçek görseller çekildi" || exit 0
+          git commit -m "Kesin cozum denemesi: Googleusercontent temizlendi" || exit 0
           git push origin main
