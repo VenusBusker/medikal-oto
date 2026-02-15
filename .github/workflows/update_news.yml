@@ -13,71 +13,52 @@ jobs:
       - name: Checkout depo
         uses: actions/checkout@v3
 
-      - name: Bing News ile Haberleri Çek
+      - name: Haberleri Cek
         shell: python
         run: |
           import json, os, re, urllib.request, urllib.parse
           from datetime import datetime
 
           def get_val(item, tag):
-              # Bing RSS'te görseller 'enclosure' veya 'media:content' içinde olur
-              match = re.search(f'<{tag}.*?url=["\'](.*?)["\']', item, re.DOTALL)
+              match = re.search(f'<{tag}>(.*?)</{tag}>', item, re.DOTALL)
               return match.group(1) if match else ""
 
-          def fetch_bing_data(query, lang_code):
-              items_list = []
-              # Bing News RSS her zaman daha stabil görsel verir
-              url = f"https://www.bing.com/news/search?q={urllib.parse.quote(query)}&format=rss"
-              if lang_code == "tr":
-                  url += "&setlang=tr&cc=TR"
-              
-              try:
-                  req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-                  with urllib.request.urlopen(req) as resp:
-                      content = resp.read().decode('utf-8')
-                      items = re.findall(r'<item>(.*?)</item>', content, re.DOTALL)
-                      for it in items[:15]:
-                          title = re.search(r'<title>(.*?)</title>', it).group(1)
-                          link = re.search(r'<link>(.*?)</link>', it).group(1)
-                          pub_date = re.search(r'<pubDate>(.*?)</pubDate>', it).group(1)
-                          # Bing görseli genellikle 'enclosure' içinde sunar
-                          image = get_val(it, 'enclosure')
-                          
-                          items_list.append({
-                              'title': title,
-                              'link': link,
-                              'pubDate': pub_date,
-                              'image': image
-                          })
-              except: pass
-              return items_list
+          def fetch(q, lang):
+              items = []
+              url = f"https://news.google.com/rss/search?q={urllib.parse.quote(q)}&hl={lang}"
+              req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+              with urllib.request.urlopen(req) as resp:
+                  content = resp.read().decode('utf-8')
+                  matches = re.findall(r'<item>(.*?)</item>', content, re.DOTALL)
+                  for it in matches[:20]:
+                      items.append({
+                          'title': get_val(it, 'title').split(' - ')[0],
+                          'link': get_val(it, 'link'),
+                          'pubDate': get_val(it, 'pubDate'),
+                          'image': '' # Görseli boş bırakıyoruz, JS halledecek
+                      })
+              return items
 
-          # Senin orijinal kategorilerin
-          new_en = fetch_bing_data("medical news breakthrough", "en")
-          new_tr = fetch_bing_data("tıp dünyasından haberler", "tr")
+          data_en = fetch("medical news", "en-US")
+          data_tr = fetch("tıp haberleri", "tr")
 
-          def update_json(filename, new_data):
-              old_items = []
-              if os.path.exists(filename):
-                  try:
-                      with open(filename, 'r', encoding='utf-8') as f:
-                          old_items = json.load(f).get('items', [])
-                  except: pass
-              
-              existing_links = {item.get('link') for item in old_items}
-              unique_new = [n for n in new_data if n['link'] not in existing_links]
-              
-              combined = (unique_new + old_items)[:400]
-              with open(filename, 'w', encoding='utf-8') as f:
-                  json.dump({"status": "ok", "items": combined, "last_update": str(datetime.now())}, f, indent=2, ensure_ascii=False)
+          def save(file, items):
+              old = []
+              if os.path.exists(file):
+                  with open(file, 'r', encoding='utf-8') as f:
+                      old = json.load(f).get('items', [])
+              links = {i['link'] for i in old}
+              combined = ([i for i in items if i['link'] not in links] + old)[:300]
+              with open(file, 'w', encoding='utf-8') as f:
+                  json.dump({"items": combined, "sync": str(datetime.now())}, f, indent=2, ensure_ascii=False)
 
-          update_json('haberler.json', new_en)
-          update_json('haberler_tr.json', new_tr)
+          save('haberler.json', data_en)
+          save('haberler_tr.json', data_tr)
 
-      - name: Değişiklikleri Kaydet
+      - name: Kaydet
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git commit -m "Bing News Terminal Guncelleme: $(date)" || exit 0
+          git commit -m "Sync: $(date)" || exit 0
           git push origin main
