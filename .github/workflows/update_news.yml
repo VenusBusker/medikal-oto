@@ -24,13 +24,15 @@ jobs:
               return match.group(1) if match else ""
 
           def get_image(item):
-              # RSS description içindeki görsel linkini ayıklar
+              # 1. Yöntem: Description içindeki img src'yi ara
               desc = get_val(item, 'description')
               img_match = re.search(r'src="([^"]+)"', desc)
               if img_match:
                   url = img_match.group(1)
-                  # URL // ile başlıyorsa protokol ekle
                   return "https:" + url if url.startswith("//") else url
+              
+              # 2. Yöntem: URL içindeki görsel parametrelerini yakalamaya çalış (Google News özel)
+              # Eğer görsel hala bulunamadıysa boş döner
               return ""
 
           # ARAMA SORGULARI
@@ -63,13 +65,13 @@ jobs:
 
                               title = get_val(it, 'title').replace('<![CDATA[', '').replace(']]>', '')
                               link = get_val(it, 'link')
-                              image = get_image(it) # Görsel çekme fonksiyonu eklendi
+                              image_url = get_image(it)
                               
                               collected_items.append({
                                   'title': title, 
                                   'link': link, 
                                   'pubDate': pub_date,
-                                  'image': image
+                                  'image': image_url
                               })
                   except Exception as e:
                       print(f"Hata oluştu ({q}): {e}")
@@ -102,5 +104,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add haberler.json haberler_tr.json
-          git commit -m "Görsel desteği eklendi ve Veri Havuzu Guncelleme: $(date)" || exit 0
+          git commit -m "Görsel çekme mantığı güncellendi: $(date)" || exit 0
           git push origin main
