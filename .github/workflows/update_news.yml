@@ -1,69 +1,189 @@
 name: Otomedikal Dev Haber Guncelleyici
+
 on:
+
   schedule:
+
     - cron: '0 * * * *' 
+
   workflow_dispatch:
 
+
+
 jobs:
+
   build:
+
     runs-on: ubuntu-latest
+
     permissions:
+
       contents: write
+
     steps:
+
       - name: Checkout depo
+
         uses: actions/checkout@v3
 
-      - name: Haberleri Cek
+
+
+      - name: Haberleri Çek ve Filtrele
+
         shell: python
+
         run: |
+
           import json, os, re, urllib.request, urllib.parse
+
           from datetime import datetime
 
+
+
           def get_val(item, tag):
+
               match = re.search(f'<{tag}>(.*?)</{tag}>', item, re.DOTALL)
+
               return match.group(1) if match else ""
 
-          def fetch(q, lang):
-              items = []
-              # Filtreyi daha tıbbi terimlere odaklıyoruz
-              url = f"https://news.google.com/rss/search?q={urllib.parse.quote(q)}+after:2025-11-01&hl={lang}"
-              req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-              with urllib.request.urlopen(req) as resp:
-                  content = resp.read().decode('utf-8')
-                  matches = re.findall(r'<item>(.*?)</item>', content, re.DOTALL)
-                  for it in matches[:30]:
-                      full_title = get_val(it, 'title').replace('<![CDATA[', '').replace(']]>', '')
-                      # Burç ve alakasız haberleri eleme
-                      blacklist = ['burç', 'astroloji', 'magazin', 'dizi', 'transfer']
-                      if any(word in full_title.lower() for word in blacklist): continue
+
+
+          # ARAMA SORGULARI
+
+          queries_en = ["medical+news", "clinical+trials", "healthcare", "medicine+breakthrough"]
+
+          # Türkçe karakterleri URL'ye güvenli hale getirmek için quote kullanacağız
+
+          queries_tr = ["sağlık", "tıp", "hastane", "tedavi", "ilaç", "klinik"]
+
+
+
+          allowed_years = ["2025", "2026"]
+
+          disallowed_months_2025 = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct"]
+
+
+
+          def fetch_data(query_list, lang_suffix):
+
+              collected_items = []
+
+              # Google News Parametreleri
+
+              hl = "en-US" if lang_suffix == "en" else "tr"
+
+              gl = "US" if lang_suffix == "en" else "TR"
+
+              ceid = "US:en" if lang_suffix == "en" else "TR:tr"
+
+              
+
+              for q in query_list:
+
+                  try:
+
+                      # URL encoding ile Türkçe karakter sorununu çözelim
+
+                      encoded_q = urllib.parse.quote(q)
+
+                      url = f"https://news.google.com/rss/search?q={encoded_q}+after:2025-11-01&hl={hl}&gl={gl}&ceid={ceid}"
+
                       
-                      items.append({
-                          'title': full_title, # Kaynak ismini ayırmıyoruz, JS ayıracak
-                          'link': get_val(it, 'link'),
-                          'pubDate': get_val(it, 'pubDate')
-                      })
-              return items
 
-          data_en = fetch("medical breakthroughs clinical trials", "en-US")
-          data_tr = fetch("tıp dünyasından önemli gelişmeler", "tr")
+                      req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
 
-          def save(file, items):
-              old = []
-              if os.path.exists(file):
-                  with open(file, 'r', encoding='utf-8') as f:
-                      old = json.load(f).get('items', [])
-              links = {i['link'] for i in old}
-              combined = ([i for i in items if i['link'] not in links] + old)[:400]
-              with open(file, 'w', encoding='utf-8') as f:
-                  json.dump({"items": combined}, f, indent=2, ensure_ascii=False)
+                      with urllib.request.urlopen(req) as response:
 
-          save('haberler.json', data_en)
-          save('haberler_tr.json', data_tr)
+                          content = response.read().decode('utf-8')
 
-      - name: Kaydet
+                          items = re.findall(r'<item>(.*?)</item>', content, re.DOTALL)
+
+                          for it in items:
+
+                              pub_date = get_val(it, 'pubDate')
+
+                              
+
+                              # Tarih Filtresi
+
+                              if not any(year in pub_date for year in allowed_years): continue
+
+                              if "2025" in pub_date and any(month in pub_date for month in disallowed_months_2025): continue
+
+
+
+                              title = get_val(it, 'title').replace('<![CDATA[', '').replace(']]>', '')
+
+                              link = get_val(it, 'link')
+
+                              collected_items.append({'title': title, 'link': link, 'pubDate': pub_date})
+
+                  except Exception as e:
+
+                      print(f"Hata oluştu ({q}): {e}")
+
+                      continue
+
+              return collected_items
+
+
+
+          # Haberleri çek
+
+          new_en = fetch_data(queries_en, "en")
+
+          new_tr = fetch_data(queries_tr, "tr")
+
+
+
+          def update_json(filename, new_data):
+
+              old_items = []
+
+              if os.path.exists(filename):
+
+                  try:
+
+                      with open(filename, 'r', encoding='utf-8') as f:
+
+                          old_items = json.load(f).get('items', [])
+
+                  except: pass
+
+              
+
+              existing_links = {item.get('link') for item in old_items}
+
+              unique_new = [item for item in new_data if item.get('link') not in existing_links]
+
+              
+
+              # En yeni 1000 haberi sakla
+
+              combined = (unique_new + old_items)[:1000]
+
+              with open(filename, 'w', encoding='utf-8') as f:
+
+                  json.dump({"status": "ok", "items": combined}, f, indent=2, ensure_ascii=False)
+
+
+
+          update_json('haberler.json', new_en)
+
+          update_json('haberler_tr.json', new_tr)
+
+
+
+      - name: Değişiklikleri Kaydet
+
         run: |
+
           git config --local user.email "action@github.com"
+
           git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "Ciddi Medikal Veri Senkronizasyonu" || exit 0
+
+          git add haberler.json haberler_tr.json
+
+          git commit -m "TR Fix ve Veri Havuzu Guncelleme: $(date)" || exit 0
+
           git push origin main
