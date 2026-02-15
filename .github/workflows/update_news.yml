@@ -1,7 +1,7 @@
 name: Otomedikal Dev Haber Guncelleyici
 on:
   schedule:
-    - cron: '0 * * * *' # Her saat başı çalışır
+    - cron: '0 * * * *' 
   workflow_dispatch:
 
 jobs:
@@ -16,43 +16,50 @@ jobs:
       - name: Haberleri Çek ve Filtrele
         shell: python
         run: |
-          import json, os, re, urllib.request
+          import json, os, re, urllib.request, urllib.parse
           from datetime import datetime
 
           def get_val(item, tag):
               match = re.search(f'<{tag}>(.*?)</{tag}>', item, re.DOTALL)
               return match.group(1) if match else ""
 
-          # 1. İNGİLİZCE VE TÜRKÇE GENİŞ ARAMA SORGULARI
-          # İngilizce: Tüm tıbbi alanlar | Türkçe: Genel sağlık ve tıp dünyası
-          queries_en = ["medical+news", "clinical+trials", "healthcare+technology", "breakthrough+medicine"]
-          queries_tr = ["sağlık+haberleri", "tıp+dünyası", "klinik+araştırma", "yeni+tedavi+yöntemleri"]
+          # ARAMA SORGULARI
+          queries_en = ["medical+news", "clinical+trials", "healthcare", "medicine+breakthrough"]
+          # Türkçe karakterleri URL'ye güvenli hale getirmek için quote kullanacağız
+          queries_tr = ["sağlık", "tıp", "hastane", "tedavi", "ilaç", "klinik"]
 
           allowed_years = ["2025", "2026"]
           disallowed_months_2025 = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct"]
 
           def fetch_data(query_list, lang_suffix):
               collected_items = []
-              hl = "en-US" if lang_suffix == "en" else "tr-TR"
+              # Google News Parametreleri
+              hl = "en-US" if lang_suffix == "en" else "tr"
               gl = "US" if lang_suffix == "en" else "TR"
+              ceid = "US:en" if lang_suffix == "en" else "TR:tr"
               
               for q in query_list:
                   try:
-                      url = f"https://news.google.com/rss/search?q={q}+after:2025-11-01&hl={hl}&gl={gl}&ceid={gl}:{lang_suffix}"
-                      with urllib.request.urlopen(url) as response:
+                      # URL encoding ile Türkçe karakter sorununu çözelim
+                      encoded_q = urllib.parse.quote(q)
+                      url = f"https://news.google.com/rss/search?q={encoded_q}+after:2025-11-01&hl={hl}&gl={gl}&ceid={ceid}"
+                      
+                      req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+                      with urllib.request.urlopen(req) as response:
                           content = response.read().decode('utf-8')
                           items = re.findall(r'<item>(.*?)</item>', content, re.DOTALL)
                           for it in items:
                               pub_date = get_val(it, 'pubDate')
                               
-                              # Sert Tarih Filtresi (1 Kasım 2025 Öncesini Almaz)
+                              # Tarih Filtresi
                               if not any(year in pub_date for year in allowed_years): continue
                               if "2025" in pub_date and any(month in pub_date for month in disallowed_months_2025): continue
 
                               title = get_val(it, 'title').replace('<![CDATA[', '').replace(']]>', '')
                               link = get_val(it, 'link')
                               collected_items.append({'title': title, 'link': link, 'pubDate': pub_date})
-                  except:
+                  except Exception as e:
+                      print(f"Hata oluştu ({q}): {e}")
                       continue
               return collected_items
 
@@ -60,22 +67,22 @@ jobs:
           new_en = fetch_data(queries_en, "en")
           new_tr = fetch_data(queries_tr, "tr")
 
-          # DOSYALARI GÜNCELLEME FONKSİYONU
           def update_json(filename, new_data):
               old_items = []
               if os.path.exists(filename):
                   try:
-                      with open(filename, 'r') as f:
+                      with open(filename, 'r', encoding='utf-8') as f:
                           old_items = json.load(f).get('items', [])
                   except: pass
               
               existing_links = {item.get('link') for item in old_items}
               unique_new = [item for item in new_data if item.get('link') not in existing_links]
-              combined = unique_new + old_items
-              with open(filename, 'w') as f:
-                  json.dump({"status": "ok", "items": combined[:1000]}, f, indent=2, ensure_ascii=False)
+              
+              # En yeni 1000 haberi sakla
+              combined = (unique_new + old_items)[:1000]
+              with open(filename, 'w', encoding='utf-8') as f:
+                  json.dump({"status": "ok", "items": combined}, f, indent=2, ensure_ascii=False)
 
-          # İki dosyayı da kaydet
           update_json('haberler.json', new_en)
           update_json('haberler_tr.json', new_tr)
 
@@ -84,5 +91,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add haberler.json haberler_tr.json
-          git commit -m "Dev Veri Havuzu Guncellendi (EN+TR): $(date)" || exit 0
+          git commit -m "TR Fix ve Veri Havuzu Guncelleme: $(date)" || exit 0
           git push origin main
