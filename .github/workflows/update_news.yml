@@ -22,94 +22,69 @@ jobs:
               match = re.search(f'<{tag}>(.*?)</{tag}>', item, re.DOTALL)
               return match.group(1) if match else ""
 
-          def get_really_real_image(google_url):
+          def get_image(google_url):
               try:
-                  # Google News linkine git ve asıl haber sitesinin URL'sini al
-                  headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
+                  # Google'ın yönlendirmesini hızlıca çöz
+                  headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
                   req = urllib.request.Request(google_url, headers=headers)
-                  with urllib.request.urlopen(req, timeout=15) as resp:
+                  with urllib.request.urlopen(req, timeout=8) as resp:
                       real_url = resp.geturl()
                   
-                  # Google'da takılı kaldıysak çık (googleusercontent hatasını burada eliyoruz)
-                  if "google.com" in real_url and "news" in real_url:
-                      return ""
+                  if "google.com" in real_url: return ""
 
-                  # Gerçek haber sitesine git ve görseli sök
+                  # Asıl siteye git ve görsel ara
                   req_final = urllib.request.Request(real_url, headers=headers)
-                  with urllib.request.urlopen(req_final, timeout=15) as response:
+                  with urllib.request.urlopen(req_final, timeout=8) as response:
                       html = response.read().decode('utf-8', errors='ignore')
+                      # En yaygın görsel etiketlerini tara
+                      img_match = re.search(r'property=["\']og:image["\']\s+content=["\']([^"\']+)["\']', html)
+                      if not img_match:
+                          img_match = re.search(r'name=["\']twitter:image["\']\s+content=["\']([^"\']+)["\']', html)
                       
-                      # 1. Öncelik: og:image (Facebook/WhatsApp görseli)
-                      # 2. Öncelik: twitter:image (Twitter kartı görseli)
-                      # 3. Öncelik: link rel="image_src"
-                      img_patterns = [
-                          r'property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']',
-                          r'content=["\']([^"\']+)["\']\s+property=["\']og:image["\']',
-                          r'name=["\']twitter:image["\'][^>]+content=["\']([^"\']+)["\']',
-                          r'rel=["\']image_src["\'][^>]+href=["\']([^"\']+)["\']'
-                      ]
-                      
-                      for pattern in img_patterns:
-                          img_match = re.search(pattern, html, re.IGNORECASE)
-                          if img_match:
-                              img_url = img_match.group(1)
-                              # Googleusercontent linki gelirse kabul etme, aramaya devam et
-                              if "googleusercontent" not in img_url:
-                                  return img_url
-              except:
-                  pass
+                      if img_match:
+                          res_url = img_match.group(1)
+                          if "googleusercontent" not in res_url: return res_url
+              except: pass
               return ""
 
-          queries_en = ["medical+breakthrough", "clinical+trials+news"]
-          queries_tr = ["tıp+dünyasından+haberler", "sağlık+teknolojileri"]
+          queries_en = ["medical+news+2026", "clinical+trials"]
+          queries_tr = ["tıp+haberleri", "sağlık+bilimi"]
 
-          def fetch_data(query_list, lang_suffix):
-              collected_items = []
-              hl = "en-US" if lang_suffix == "en" else "tr"
-              ceid = "US:en" if lang_suffix == "en" else "TR:tr"
-              
+          def fetch_data(query_list, lang):
+              collected = []
+              hl = "en-US" if lang == "en" else "tr"
               for q in query_list:
                   try:
-                      url = f"https://news.google.com/rss/search?q={q}+after:2025-11-01&hl={hl}&ceid={ceid}"
+                      url = f"https://news.google.com/rss/search?q={q}&hl={hl}"
                       req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-                      with urllib.request.urlopen(req) as response:
-                          content = response.read().decode('utf-8')
-                          items = re.findall(r'<item>(.*?)</item>', content, re.DOTALL)
-                          
-                          # Daha az ama daha kaliteli görsel için her sorgudan 10 haber alalım
-                          for it in items[:10]:
+                      with urllib.request.urlopen(req) as resp:
+                          items = re.findall(r'<item>(.*?)</item>', resp.read().decode('utf-8'), re.DOTALL)
+                          for it in items[:8]: # Hız için her aramada 8 taze haber
                               link = get_val(it, 'link')
-                              title = get_val(it, 'title').split(' - ')[0].replace('<![CDATA[', '').replace(']]>', '')
-                              pub_date = get_val(it, 'pubDate')
-                              
-                              image = get_really_real_image(link)
-                              
-                              if image: # Sadece görseli olan haberleri çekmek istersen bunu kullanabilirsin
-                                  collected_items.append({
-                                      'title': title, 
-                                      'link': link, 
-                                      'pubDate': pub_date, 
-                                      'image': image
-                                  })
-                  except:
-                      continue
-              return collected_items
+                              title = get_val(it, 'title').split(' - ')[0]
+                              pub = get_val(it, 'pubDate')
+                              img = get_image(link)
+                              # SADECE GÖRSELİ OLANLARI EKLE (JSON'U TEMİZ TUTAR)
+                              if img:
+                                  collected.append({'title': title, 'link': link, 'pubDate': pub, 'image': img})
+                  except: continue
+              return collected
 
           new_en = fetch_data(queries_en, "en")
           new_tr = fetch_data(queries_tr, "tr")
 
-          def update_json(filename, new_data):
-              old_items = []
+          def update_json(filename, data):
+              if not data: return # Veri yoksa güncelleme yapma
+              old = []
               if os.path.exists(filename):
                   try:
                       with open(filename, 'r', encoding='utf-8') as f:
-                          old_items = json.load(f).get('items', [])
+                          old = json.load(f).get('items', [])
                   except: pass
               
-              existing_links = {item.get('link') for item in old_items}
-              unique_new = [item for item in new_data if item.get('link') not in existing_links]
-              
-              combined = (unique_new + old_items)[:500]
+              links = {i.get('link') for i in old}
+              unique = [i for i in data if i.get('link') not in links]
+              combined = (unique + old)[:300]
               with open(filename, 'w', encoding='utf-8') as f:
                   json.dump({"status": "ok", "items": combined}, f, indent=2, ensure_ascii=False)
 
@@ -120,6 +95,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add haberler.json haberler_tr.json
-          git commit -m "Kesin cozum denemesi: Googleusercontent temizlendi" || exit 0
+          git add .
+          git commit -m "Veri terminali guncellendi: $(date)" || exit 0
           git push origin main
