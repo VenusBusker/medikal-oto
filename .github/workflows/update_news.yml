@@ -23,19 +23,23 @@ jobs:
               match = re.search(f'<{tag}>(.*?)</{tag}>', item, re.DOTALL)
               return match.group(1) if match else ""
 
-          def get_image(item):
-              # 1. Yöntem: Description içindeki img src'yi ara
-              desc = get_val(item, 'description')
-              img_match = re.search(r'src="([^"]+)"', desc)
-              if img_match:
-                  url = img_match.group(1)
-                  return "https:" + url if url.startswith("//") else url
-              
-              # 2. Yöntem: URL içindeki görsel parametrelerini yakalamaya çalış (Google News özel)
-              # Eğer görsel hala bulunamadıysa boş döner
+          def get_real_image(url):
+              try:
+                  # Haberin asıl sitesine gidip og:image tagını arıyoruz
+                  req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'})
+                  with urllib.request.urlopen(req, timeout=5) as response:
+                      html = response.read().decode('utf-8', errors='ignore')
+                      # meta property="og:image" içeriğini yakala
+                      img_match = re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']', html)
+                      if not img_match:
+                          img_match = re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']', html)
+                      
+                      if img_match:
+                          return img_match.group(1)
+              except:
+                  pass
               return ""
 
-          # ARAMA SORGULARI
           queries_en = ["medical+news", "clinical+trials", "healthcare", "medicine+breakthrough"]
           queries_tr = ["sağlık", "tıp", "hastane", "tedavi", "ilaç", "klinik"]
 
@@ -59,13 +63,14 @@ jobs:
                           items = re.findall(r'<item>(.*?)</item>', content, re.DOTALL)
                           for it in items:
                               pub_date = get_val(it, 'pubDate')
-                              
                               if not any(year in pub_date for year in allowed_years): continue
                               if "2025" in pub_date and any(month in pub_date for month in disallowed_months_2025): continue
 
                               title = get_val(it, 'title').replace('<![CDATA[', '').replace(']]>', '')
                               link = get_val(it, 'link')
-                              image_url = get_image(it)
+                              
+                              # Haberin asıl linkine gidip görseli çekiyoruz
+                              image_url = get_real_image(link)
                               
                               collected_items.append({
                                   'title': title, 
@@ -74,7 +79,7 @@ jobs:
                                   'image': image_url
                               })
                   except Exception as e:
-                      print(f"Hata oluştu ({q}): {e}")
+                      print(f"Hata: {e}")
                       continue
               return collected_items
 
@@ -104,5 +109,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add haberler.json haberler_tr.json
-          git commit -m "Görsel çekme mantığı güncellendi: $(date)" || exit 0
+          git commit -m "Gerçek görsel linkleri çekildi: $(date)" || exit 0
           git push origin main
