@@ -23,64 +23,45 @@ jobs:
               match = re.search(f'<{tag}>(.*?)</{tag}>', item, re.DOTALL)
               return match.group(1) if match else ""
 
-          def get_real_image(url):
+          def get_real_image(google_url):
               try:
-                  # Haberin asıl sitesine gidip og:image tagını arıyoruz
-                  req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'})
-                  with urllib.request.urlopen(req, timeout=5) as response:
+                  # Google yönlendirmesini aş ve gerçek siteye git
+                  req = urllib.request.Request(google_url, headers={'User-Agent': 'Mozilla/5.0'})
+                  with urllib.request.urlopen(req, timeout=10) as resp:
+                      real_url = resp.geturl()
+                  
+                  # Gerçek siteden görseli çek
+                  req_real = urllib.request.Request(real_url, headers={'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'})
+                  with urllib.request.urlopen(req_real, timeout=10) as response:
                       html = response.read().decode('utf-8', errors='ignore')
-                      # meta property="og:image" içeriğini yakala
-                      img_match = re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']', html)
+                      img_match = re.search(r'property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']', html)
                       if not img_match:
-                          img_match = re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']', html)
-                      
-                      if img_match:
-                          return img_match.group(1)
-              except:
-                  pass
-              return ""
+                          img_match = re.search(r'content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']', html)
+                      return img_match.group(1) if img_match else ""
+              except: return ""
 
-          queries_en = ["medical+news", "clinical+trials", "healthcare", "medicine+breakthrough"]
-          queries_tr = ["sağlık", "tıp", "hastane", "tedavi", "ilaç", "klinik"]
-
-          allowed_years = ["2025", "2026"]
-          disallowed_months_2025 = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct"]
+          queries_en = ["medical+news", "healthcare+tech"]
+          queries_tr = ["tıp+haberleri", "sağlık+teknolojisi"]
 
           def fetch_data(query_list, lang_suffix):
               collected_items = []
               hl = "en-US" if lang_suffix == "en" else "tr"
-              gl = "US" if lang_suffix == "en" else "TR"
               ceid = "US:en" if lang_suffix == "en" else "TR:tr"
               
               for q in query_list:
                   try:
-                      encoded_q = urllib.parse.quote(q)
-                      url = f"https://news.google.com/rss/search?q={encoded_q}+after:2025-11-01&hl={hl}&gl={gl}&ceid={ceid}"
-                      
+                      url = f"https://news.google.com/rss/search?q={q}+after:2025-11-01&hl={hl}&ceid={ceid}"
                       req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
                       with urllib.request.urlopen(req) as response:
-                          content = response.read().decode('utf-8')
-                          items = re.findall(r'<item>(.*?)</item>', content, re.DOTALL)
-                          for it in items:
-                              pub_date = get_val(it, 'pubDate')
-                              if not any(year in pub_date for year in allowed_years): continue
-                              if "2025" in pub_date and any(month in pub_date for month in disallowed_months_2025): continue
-
-                              title = get_val(it, 'title').replace('<![CDATA[', '').replace(']]>', '')
+                          items = re.findall(r'<item>(.*?)</item>', response.read().decode('utf-8'), re.DOTALL)
+                          for it in items[:15]: # Her sorgu için en taze 15 haber
                               link = get_val(it, 'link')
+                              title = get_val(it, 'title').replace('<![CDATA[', '').replace(']]>', '')
+                              pub_date = get_val(it, 'pubDate')
+                              img = get_real_image(link)
                               
-                              # Haberin asıl linkine gidip görseli çekiyoruz
-                              image_url = get_real_image(link)
-                              
-                              collected_items.append({
-                                  'title': title, 
-                                  'link': link, 
-                                  'pubDate': pub_date,
-                                  'image': image_url
-                              })
-                  except Exception as e:
-                      print(f"Hata: {e}")
-                      continue
+                              collected_items.append({'title': title, 'link': link, 'pubDate': pub_date, 'image': img})
+                  except: continue
               return collected_items
 
           new_en = fetch_data(queries_en, "en")
@@ -93,11 +74,9 @@ jobs:
                       with open(filename, 'r', encoding='utf-8') as f:
                           old_items = json.load(f).get('items', [])
                   except: pass
-              
               existing_links = {item.get('link') for item in old_items}
               unique_new = [item for item in new_data if item.get('link') not in existing_links]
-              
-              combined = (unique_new + old_items)[:1000]
+              combined = (unique_new + old_items)[:500]
               with open(filename, 'w', encoding='utf-8') as f:
                   json.dump({"status": "ok", "items": combined}, f, indent=2, ensure_ascii=False)
 
@@ -109,5 +88,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add haberler.json haberler_tr.json
-          git commit -m "Gerçek görsel linkleri çekildi: $(date)" || exit 0
+          git commit -m "Gerçek görseller çekildi" || exit 0
           git push origin main
