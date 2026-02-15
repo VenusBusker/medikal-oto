@@ -13,74 +13,48 @@ jobs:
       - name: Checkout depo
         uses: actions/checkout@v3
 
-      - name: Haberleri Çek ve Filtrele
+      - name: Bing News ile Haberleri Çek
         shell: python
         run: |
           import json, os, re, urllib.request, urllib.parse
           from datetime import datetime
 
           def get_val(item, tag):
-              match = re.search(f'<{tag}>(.*?)</{tag}>', item, re.DOTALL)
+              # Bing RSS'te görseller 'enclosure' veya 'media:content' içinde olur
+              match = re.search(f'<{tag}.*?url=["\'](.*?)["\']', item, re.DOTALL)
               return match.group(1) if match else ""
 
-          def get_clean_image(google_url):
-              try:
-                  headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'}
-                  
-                  # Google News linkinden gerçek siteye zıpla
-                  req = urllib.request.Request(google_url, headers=headers)
-                  with urllib.request.urlopen(req, timeout=10) as resp:
-                      real_url = resp.geturl()
-                  
-                  if "google.com" in real_url: return ""
-
-                  # Gerçek siteden og:image ara
-                  req_final = urllib.request.Request(real_url, headers=headers)
-                  with urllib.request.urlopen(req_final, timeout=10) as response:
-                      html = response.read().decode('utf-8', errors='ignore')
-                      # Hem og:image hem twitter:image kontrolü
-                      img_match = re.search(r'property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']', html)
-                      if not img_match:
-                          img_match = re.search(r'name=["\']twitter:image["\'][^>]+content=["\']([^"\']+)["\']', html)
-                      
-                      if img_match:
-                          img_url = img_match.group(1)
-                          # KRİTİK FİLTRE: Google logolarını ve faviconları engelle
-                          if "googleusercontent" in img_url or "gstatic" in img_url or "favicon" in img_url:
-                              return ""
-                          return img_url
-              except: pass
-              return ""
-
-          queries_en = ["medical+news", "clinical+trials", "healthcare", "medicine+breakthrough"]
-          queries_tr = ["sağlık", "tıp", "hastane", "tedavi", "ilaç", "klinik"]
-          allowed_years = ["2025", "2026"]
-
-          def fetch_data(query_list, lang_suffix):
-              collected_items = []
-              hl = "en-US" if lang_suffix == "en" else "tr"
-              ceid = "US:en" if lang_suffix == "en" else "TR:tr"
+          def fetch_bing_data(query, lang_code):
+              items_list = []
+              # Bing News RSS her zaman daha stabil görsel verir
+              url = f"https://www.bing.com/news/search?q={urllib.parse.quote(query)}&format=rss"
+              if lang_code == "tr":
+                  url += "&setlang=tr&cc=TR"
               
-              for q in query_list:
-                  try:
-                      encoded_q = urllib.parse.quote(q)
-                      url = f"https://news.google.com/rss/search?q={encoded_q}+after:2025-11-01&hl={hl}&ceid={ceid}"
-                      req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
-                      with urllib.request.urlopen(req) as response:
-                          items = re.findall(r'<item>(.*?)</item>', response.read().decode('utf-8'), re.DOTALL)
-                          for it in items[:10]:
-                              title = get_val(it, 'title').replace('<![CDATA[', '').replace(']]>', '')
-                              link = get_val(it, 'link')
-                              pub_date = get_val(it, 'pubDate')
-                              if not any(year in pub_date for year in allowed_years): continue
-                              
-                              image = get_clean_image(link)
-                              collected_items.append({'title': title, 'link': link, 'pubDate': pub_date, 'image': image})
-                  except: continue
-              return collected_items
+              try:
+                  req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+                  with urllib.request.urlopen(req) as resp:
+                      content = resp.read().decode('utf-8')
+                      items = re.findall(r'<item>(.*?)</item>', content, re.DOTALL)
+                      for it in items[:15]:
+                          title = re.search(r'<title>(.*?)</title>', it).group(1)
+                          link = re.search(r'<link>(.*?)</link>', it).group(1)
+                          pub_date = re.search(r'<pubDate>(.*?)</pubDate>', it).group(1)
+                          # Bing görseli genellikle 'enclosure' içinde sunar
+                          image = get_val(it, 'enclosure')
+                          
+                          items_list.append({
+                              'title': title,
+                              'link': link,
+                              'pubDate': pub_date,
+                              'image': image
+                          })
+              except: pass
+              return items_list
 
-          new_en = fetch_data(queries_en, "en")
-          new_tr = fetch_data(queries_tr, "tr")
+          # Senin orijinal kategorilerin
+          new_en = fetch_bing_data("medical news breakthrough", "en")
+          new_tr = fetch_bing_data("tıp dünyasından haberler", "tr")
 
           def update_json(filename, new_data):
               old_items = []
@@ -91,17 +65,11 @@ jobs:
                   except: pass
               
               existing_links = {item.get('link') for item in old_items}
-              # Yeni haberleri ekle veya mevcut boş görselleri doldur
-              for n in new_data:
-                  if n['link'] not in existing_links:
-                      old_items.insert(0, n)
-                  else:
-                      for o in old_items:
-                          if o['link'] == n['link'] and not o.get('image') and n['image']:
-                              o['image'] = n['image']
+              unique_new = [n for n in new_data if n['link'] not in existing_links]
               
+              combined = (unique_new + old_items)[:400]
               with open(filename, 'w', encoding='utf-8') as f:
-                  json.dump({"status": "ok", "items": old_items[:500], "last_update": str(datetime.now())}, f, indent=2, ensure_ascii=False)
+                  json.dump({"status": "ok", "items": combined, "last_update": str(datetime.now())}, f, indent=2, ensure_ascii=False)
 
           update_json('haberler.json', new_en)
           update_json('haberler_tr.json', new_tr)
@@ -110,6 +78,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add haberler.json haberler_tr.json
-          git commit -m "Gorsel temizleme ve guncelleme: $(date)" || exit 0
+          git add .
+          git commit -m "Bing News Terminal Guncelleme: $(date)" || exit 0
           git push origin main
