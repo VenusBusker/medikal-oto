@@ -23,45 +23,38 @@ jobs:
               match = re.search(f'<{tag}>(.*?)</{tag}>', item, re.DOTALL)
               return match.group(1) if match else ""
 
-          def get_real_image(google_url):
+          def get_clean_image(google_url):
               try:
-                  # Google'ın yönlendirmesini aşmak için daha sağlam bir header
-                  headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
+                  headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'}
                   
-                  # 1. Aşama: Google linkini çöz
+                  # Google News linkinden gerçek siteye zıpla
                   req = urllib.request.Request(google_url, headers=headers)
                   with urllib.request.urlopen(req, timeout=10) as resp:
                       real_url = resp.geturl()
                   
                   if "google.com" in real_url: return ""
 
-                  # 2. Aşama: Gerçek siteye git ve görseli sök
+                  # Gerçek siteden og:image ara
                   req_final = urllib.request.Request(real_url, headers=headers)
                   with urllib.request.urlopen(req_final, timeout=10) as response:
                       html = response.read().decode('utf-8', errors='ignore')
+                      # Hem og:image hem twitter:image kontrolü
+                      img_match = re.search(r'property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']', html)
+                      if not img_match:
+                          img_match = re.search(r'name=["\']twitter:image["\'][^>]+content=["\']([^"\']+)["\']', html)
                       
-                      # Aranan meta etiketleri (Sırasıyla: Facebook, Twitter, Genel)
-                      patterns = [
-                          r'property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']',
-                          r'content=["\']([^"\']+)["\']\s+property=["\']og:image["\']',
-                          r'name=["\']twitter:image["\'][^>]+content=["\']([^"\']+)["\']',
-                          r'<link\s+rel=["\']image_src["\']\s+href=["\']([^"\']+)["\']'
-                      ]
-                      
-                      for p in patterns:
-                          m = re.search(p, html, re.IGNORECASE)
-                          if m:
-                              img_url = m.group(1)
-                              if "googleusercontent" not in img_url and img_url.startswith("http"):
-                                  return img_url
+                      if img_match:
+                          img_url = img_match.group(1)
+                          # KRİTİK FİLTRE: Google logolarını ve faviconları engelle
+                          if "googleusercontent" in img_url or "gstatic" in img_url or "favicon" in img_url:
+                              return ""
+                          return img_url
               except: pass
               return ""
 
-          # Senin orijinal sorguların ve tarih filtrelerin
           queries_en = ["medical+news", "clinical+trials", "healthcare", "medicine+breakthrough"]
           queries_tr = ["sağlık", "tıp", "hastane", "tedavi", "ilaç", "klinik"]
           allowed_years = ["2025", "2026"]
-          disallowed_months_2025 = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct"]
 
           def fetch_data(query_list, lang_suffix):
               collected_items = []
@@ -75,15 +68,13 @@ jobs:
                       req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
                       with urllib.request.urlopen(req) as response:
                           items = re.findall(r'<item>(.*?)</item>', response.read().decode('utf-8'), re.DOTALL)
-                          for it in items[:12]: # Her kategoriden en taze 12 haber
-                              pub_date = get_val(it, 'pubDate')
-                              if not any(year in pub_date for year in allowed_years): continue
-                              if "2025" in pub_date and any(month in pub_date for month in disallowed_months_2025): continue
-
+                          for it in items[:10]:
                               title = get_val(it, 'title').replace('<![CDATA[', '').replace(']]>', '')
                               link = get_val(it, 'link')
-                              image = get_real_image(link)
+                              pub_date = get_val(it, 'pubDate')
+                              if not any(year in pub_date for year in allowed_years): continue
                               
+                              image = get_clean_image(link)
                               collected_items.append({'title': title, 'link': link, 'pubDate': pub_date, 'image': image})
                   except: continue
               return collected_items
@@ -100,34 +91,25 @@ jobs:
                   except: pass
               
               existing_links = {item.get('link') for item in old_items}
-              
-              # GÜNCELLEME MANTIĞI: Link yoksa ekle, link varsa ama görseli eksikse görseli güncelle
-              updated_count = 0
-              for newItem in new_data:
-                  if newItem['link'] not in existing_links:
-                      old_items.insert(0, newItem)
-                      updated_count += 1
+              # Yeni haberleri ekle veya mevcut boş görselleri doldur
+              for n in new_data:
+                  if n['link'] not in existing_links:
+                      old_items.insert(0, n)
                   else:
-                      # Mevcut haberin görseli yoksa ama yeni çekilen de varsa, güncelle
-                      for oldItem in old_items:
-                          if oldItem['link'] == newItem['link'] and not oldItem.get('image') and newItem.get('image'):
-                              oldItem['image'] = newItem['image']
-                              updated_count += 1
+                      for o in old_items:
+                          if o['link'] == n['link'] and not o.get('image') and n['image']:
+                              o['image'] = n['image']
               
-              if updated_count > 0:
-                  combined = old_items[:600]
-                  with open(filename, 'w', encoding='utf-8') as f:
-                      json.dump({"status": "ok", "items": combined, "last_sync": str(datetime.now())}, f, indent=2, ensure_ascii=False)
-                  return True
-              return False
+              with open(filename, 'w', encoding='utf-8') as f:
+                  json.dump({"status": "ok", "items": old_items[:500], "last_update": str(datetime.now())}, f, indent=2, ensure_ascii=False)
 
-          up1 = update_json('haberler.json', new_en)
-          up2 = update_json('haberler_tr.json', new_tr)
+          update_json('haberler.json', new_en)
+          update_json('haberler_tr.json', new_tr)
 
       - name: Değişiklikleri Kaydet
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add haberler.json haberler_tr.json
-          git commit -m "Terminal guncellendi: $(date)" || exit 0
+          git commit -m "Gorsel temizleme ve guncelleme: $(date)" || exit 0
           git push origin main
