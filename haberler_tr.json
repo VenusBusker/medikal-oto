@@ -2,6 +2,881 @@
   "status": "ok",
   "items": [
     {
+      "title": "Hava Kuvvetleri sağlık personeli, acil tıbbi müdahale ve helikopterle yaralı nakli konusunda tatbikatlar gerçekleştiriyor. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVkZqSnFrRTlheTViOVhqZ3VqNEx1RGcxRlMyQl9ZLTdXTlZUSnk5dTEtNDY5aFFlamRGQVFCT0xQcmpaVXhSQlJydldwcnhvYVFCbkE4dUVVNllYZlk0TzBiVU05QmdpTlJLU2Y0MWRacWI3bU9uellEaUhwbmo1Zy1zcENHb2hqMW9wWXU2ZVFCdVZlSktfZ0RQZlU?oc=5",
+      "pubDate": "Tue, 26 May 2026 14:28:21 GMT"
+    },
+    {
+      "title": "Sağlık Bakanlığı, birimlerden dijital dönüşümdeki ilerlemeye ilişkin haftalık rapor sunmalarını talep etmektedir. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNWVhRndtc0lpc3ZhRnM4S3ZFZGZJSEptYURpNzlYNWZwblcxOU5TZzlBRU9tQXJqblhIZ1QydmFONkRvcm52LW5fYzR3dTN3ajFYSEVMYmRjbWlMbEd0UGhRajJXZmxhUnJPSFYzRG1HVjFwWVFpYmZEVmV3MHdXdk1PZ3JISUpHWXZCa3NRRWtaWEMxVFBJ?oc=5",
+      "pubDate": "Tue, 26 May 2026 13:01:11 GMT"
+    },
+    {
+      "title": "462 bin 198 sağlık çalışanı bayramda görev başında olacak - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSHVuM0FUOUdBbnhlbWtyWFFGSFV2bThpeW9BVHJGVWF3aFlNWjROTG52Mk1POXlQa1VGUkQxTFlYbHJRMkkyZjNob2VTek9NTXdsX3VfdTRiV0RhVDdTbDJnREpEcDRMUVZ3SmFUbjM3RFI2M0lnZzJLRnJMclVSWnBFYURha1VlVGttTU50Vm9MRnZLamFHUzNhQW5Od1JZZF96YldXVVF3ZFVud0JfcGhQYzctUk5sMnI0Ujl1YW8yOGlmc0VB?oc=5",
+      "pubDate": "Tue, 26 May 2026 08:47:51 GMT"
+    },
+    {
+      "title": "Bakan Memişoğlu: 462 bin sağlık çalışanı bayram boyunca sahada olacak - NTV Haber",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0pNVmZQVmU4cTZOT0xadDZxMndWa19GdHEtR1dfWjNTM24wNWRWRXJrT3Bsb1JQZXZaakdKemlaakoxZWc3Vk1xS003TFBpS1FaT2dOaElEZGRZa3h1a2F1M3IxZFZvN0RaNUl3ZjVMVWg1czFjR2NjMGNEQzgzSWk0UnRISkhqNE8tNEtNSDZzWWNPMjRZb29xazFOVXJiOGhPOHM0TlVGd9IBrwFBVV95cUxQa2tJZUlVOURYUDhDcm5Rc055QURSRHJHd2dfUktLd1lzZjBacmo2V0JHRjlvNHN3VU1ONi1UWUJnRW1fb0xxZUNXb3FuRWZBdW16T0NTZFV3X2J5WDhNTENqOGoxZGwzXy0zRUFibmdYTkRDSXBzbEM2bm1STjc3VlB6S0NhUHNIcW9LNVpLNnNJNC12Mi1DNXhfeXJKdkhHazF5MzN1QUplWU1yTkM4?oc=5",
+      "pubDate": "Tue, 26 May 2026 10:55:06 GMT"
+    },
+    {
+      "title": "Saray'dan Sağlık Bakanı Kemal Memişoğlu'na sitem: Kısa sürede sildi - Cumhuriyet",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSDIyTENJbWdITkpyQ19kV1FaaE5lb3A0OWQ0MkxkOGlWYThydXZYNXpEUHliQ1o0T3RQZWhZN2kwenlzS1htMWVQNWRTN1AzZUpSQnhMbnZnTm1QcHlVZ014ZGQ1eTkwRXFFZHd6Yy1QTHNlRUFjWkhpUFhwSTJwdmlMQ0J1aGFWd2VzLV80aFRRQzlyQTkxYnRzMDZhNm1lUkJWTFhTc0kyY3c5UFUzUTZn?oc=5",
+      "pubDate": "Tue, 26 May 2026 11:02:00 GMT"
+    },
+    {
+      "title": "Beş Farklı Ülkeden Doktorlar En Çok Kullanılan Tıp Terimlerinin Kendi Dillerindeki Karşılıklarını Paylaştı - Onedio",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUENSZ3Y4YW1fZU5uWlR3N3dyLXdJUDg1VTUtQ1JDMHJpY1BmbHhTbkllb3JnYW1WdTd3aXU0a2ZnRmVrX2wyWWs1b1BpaDA1clJ5ODlqVnhXZk1ZdktLSld0ZTlqb0FWVWQ2RGl5dk5pWllrdzVoaEYyMXRxazlUV3B2bGpIc3F2VXg2ekVsYVlOQzRHemFCdklpLVJNcWhLUmpHazZYOVFMcl9NTVhMXzJ6TUFTdVRUUVk0ejk0NGZoUU1fcV9uZ2RHZl9rZElCa054VjlB?oc=5",
+      "pubDate": "Tue, 26 May 2026 13:57:00 GMT"
+    },
+    {
+      "title": "Kurban Bayramı'nda et tüketimi nasıl olmalı? Sağlık Bakanlığı uyardı - NTV Haber",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMWdSWXl4aklLSFNpYmRoVm5kUVk1YmtfTFZhY2d0YkRGemppeGxhX2hSYkZLTWNnSTZheGI0MHRpbzNBQ241VVhsaGFJd1pZelY5VU16YnpFUlpFd3YzZmJkTl9oVURiT2kxUTJWbXhWSEV5ZjFkTEVkZjhhRVFKUW9LWHl2N0lpczlQWkpGRHhfMWItcDJmdXBJN25Ya3J4ZFNVSWQ0SdIBrAFBVV95cUxNRC12QVFtbWJ2SFJsU1dsT1JGRk9ySW9WcFFjRndVU1l2ZzBaRklGQjhzaXlkMm5qTnpDRkR1cGNmTmRtRnpGRk9kcU5vMXpCUnZVZnVKQVhxTC1BbWFvN1RoVUJ5V3BkVWZvLU1fVk94ZDI1amVjNldYdk1XWGlLWWstY3dJeXdva09kSnRzS01ud3AwSXYtR3FMQXk2RVYtVU9jMGEzdWx2R0w1?oc=5",
+      "pubDate": "Mon, 25 May 2026 11:52:13 GMT"
+    },
+    {
+      "title": "Kavurma sofralarının baş tacı ama ölçü şart! Herkes aynı miktarda tüketmemeli - Milliyet",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdEdOR0tzbmR6UTBoV2FlQXl6NGVON3djem5rUDEwbHlfLVF0a0hCeVUySXhOMDRGbV91MUdoYXU4eVFkMEJLTk9aNjR0eUFBX0NzQXVFMlFCcmdmY0tTR2VGWDRGOUlFQlN2T3FvZkJjSUFvRzB1VnV5eUF1ek5CLVdoOGpBZzhsanA5a3hDZGNjaVRic25XRmRNcDJXeWJMSTFPdEY4UjdUcGF4QVFwLVFTb2duYndoV2Y0ZTlpVVJySUxXaFAw?oc=5",
+      "pubDate": "Tue, 26 May 2026 09:29:31 GMT"
+    },
+    {
+      "title": "Eti mutlaka böyle pişirin! Faydası katbekat artıyor - Sabah",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYURrdXozNFdfYVc2UnhaY3ZPdzhMSzZaVm5rQlRYUkRsQU1XTGxlTjhqaHMxRm1McmYyUUZVSGs1cFo2NU45UnJSaUQ1QUFHeXdtSVpMTFk5ZzU2VE8tVXdqX0FqbWJRckVNOXRKOXQza2hFcFpTUEd3RS1GTHBNejBIY2FKMkZ3cDVtemw5UlPSAZMBQVVfeXFMT3BBc2ROVG9zQ3pqMTJfeFFETmFvdkpXUXoxV29mT1FxRWdhV2F1THZzMk42b1Y2TTk0Q3c0OVVudzdpZzJqLUZwZXZHX1BxNUd4SWhYSFFadjc3c3JJWHJTeHpCeWpjYkpIdkJxUkVkek5ETlZEUUpIZmgyZmlqRFNUTm81bFZ2UV9FekhLV0Qyb0ZV?oc=5",
+      "pubDate": "Tue, 26 May 2026 11:54:25 GMT"
+    },
+    {
+      "title": "Trump Yıllık Sağlık Kontrolünde - Son Dakika",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM1hBYng1b1ctc0Nfczg3YUdDTXBJYV9TcWdWbVQ3UkZGVDNSRHJwb2s1ejBuZFpsVzJZaFNKQ19qR0JCVVFKbFBzZGZ2ME1HRHJCOTZMdkpaaXFxbXhiT2M0WW9fVnE5WWxQcmo1aGxPT0RlRmk0M0VLUHd0NGNCeHVrTkxlQdIBgwFBVV95cUxNdjJWTTdqMWhwOTlKZ19RSVAybkVjSkVaTVFQdGF4ajQ2R1lYYjNLdXdObnlxZUNKNTNnS1BWc1FsdFlPUV9Db0huTVJ2R3FLUlJVSWdFYVlwUVNYcnpVM3RSTzMxRXd5aXJiMlN3R3ZYM3RZT0xFNFdzUThpa253V3RKYw?oc=5",
+      "pubDate": "Tue, 26 May 2026 14:53:41 GMT"
+    },
+    {
+      "title": "Trump'ın sağlık durumu bugün belli olacak - T24",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KWjlWSU1Vc0RDNS1GaHowWFlJUkl4emM0TXhTcTgtWjBCYlhoWm8tRHpVTmtwS2gzVHowZy0yOVZ1N2U5N1NoYTRIejRkQUtUbzJPcldIS0pvbU9sTDVRRkI1ZlV4dDZHTkdwVXExUHBrbVppUXBINFBsVEl5UQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 14:54:00 GMT"
+    },
+    {
+      "title": "Vali Yılmaz’dan sağlık çalışanı ve hastalara bayram ziyareti İhlas Haber Ajansı - İhlas Haber Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzlDTWI5SERqRWx5c29UYTFZdUZwdXBCeWs3TjlVaWVVcTRIRDVBSWtaNTAyNWZER0pOYW15aW90STM5RGd3MDZneTQ3N0pSUGxXZFl4bmlkdWpNblVHLU1FVW9ZaW9MYjFXYWRmMVota19vMzQ3QzNMbFFkSjVRVVNqd05ldzBxUjJla2dGWFhoRXN5T21mcWZaN3R3bEcxRUduSEhRbTRnN2FVYXozOHBR?oc=5",
+      "pubDate": "Tue, 26 May 2026 12:42:17 GMT"
+    },
+    {
+      "title": "Sağlık Bakanlığı, Kurban Bayramı Tatilinde En Üst Düzey Hazırlık İlan Etti - سانا",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQbXhiTjhqTkNvVkltaGhSdFN4dENHVkh2MDJtX3ByOE80NVNLOExDSUZoQTdUX2x1czRKclB4ZHNMV3BqcFR6dg?oc=5",
+      "pubDate": "Tue, 26 May 2026 14:53:08 GMT"
+    },
+    {
+      "title": "SAĞLIK OCAKLARI BUGÜN AÇIK MI? 26 Mayıs Salı bugün aile hekimi çalışıyor mu? - Milliyet",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb0VJTzdlckhXZ2pBUE90UWhscllCUzRjenNlSkh5OVhMVXJ5ZDlBVXdId0NRWlg0Q29hVTEyQkd0Ty1BOFJrQzF4ZnRrUmlNTHlVcDdPSUJjVUV0dDhNbkJoUFoxZUd1NTBMNDJndDRhWXIyRVJfVXYyQldBV1RMOHBhVWg1Ym1jOHJIWDlEZHlOMjdCT2lsOEo0LXRhSndxVmRrMlNHMU9zZjNlOU4zdjBad19GNlRV?oc=5",
+      "pubDate": "Tue, 26 May 2026 05:16:27 GMT"
+    },
+    {
+      "title": "Erken ölümlerin başlıca nedeni sigara kullanımı - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM1R2cmpjcVl4N0x0S0gzV2NNT1JMZkRTLWk0Z281ZTUwZEhudDBYY0oyNGIzQlh4bkxZLWFZbEtjTDQteGp2Ym1CSFRITF95cDd0b1VCWEtrWjRXQjZGSk0zLVNCUmtFbmc2aDR4a3ZmRV9RWHZtZ1k3cXpIU0tjWHBqbHpVWEtBdjNpZ1VkUWZJVGx3OE5oZmRmaVo4LU1VQ3gyUUQ3M3hwbmJvYWRz0gGvAUFVX3lxTE1PWlVxeFBfQ1l1ZG1HdWl4TnBvakc0bWYtai1jTFFhbTFLVTNIVXJHd0wyQ3V3Vy1iT250TnhSd3hDNkZYZzRYR0xIOXZnODY3TmY0bUpZallSbVFhZ3JpeUFCcHdOOHFKTzNZSnV0czZkeWY3dTRrNF9acHN1R2NTSms2RTVyakhuUm1RbmhHQkhPWGU5QzdpQ2I1VFhKX3dNREZNMUZYSFA3bElCWUE?oc=5",
+      "pubDate": "Tue, 26 May 2026 11:17:08 GMT"
+    },
+    {
+      "title": "Rutin sağlık kontrollerinin sıklığını artırın ve koruyucu sağlık hizmetlerine yapılan yatırımı yükseltin. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNVFGT1pKNXhWd256cXB6ZERUMWk5cWxiV3dyQ3N4X0t0aEwtdmZ5UjJmbWlOVlhSMWt0QWFTbVFaM24yOE01cXZ2YVFPekdfN3RwdllfUWRwSVBMWXBaUUZLSmo4OHpMU3FJNWpqekNhT19mbjhyRVd2dld1aWFueDhfYlpVc1R4dUVtNDJYV2lRaHFxWVpMSGR3?oc=5",
+      "pubDate": "Tue, 26 May 2026 12:01:44 GMT"
+    },
+    {
+      "title": "Yunan adalarındaki hastane ve sağlık merkezlerinde personel krizi - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc21mclR2ZGlkVEMteS1POVlleFBEb3BVcWlhZFpMMEpseUEta3pBU094SHZLUS1RNUZsX2kzUWtjNmZ3UWlNYXVHTFJlNW9CeUZIN3N0TXRYNTA5eWQ0S2JnTkZucXVuRHJ3VGtiTFR6b1FBZkEzTkV3a0xWOEdpVHYyZVJKUjQtU0tuR0RXbW5DcV9PbkJTU1c4cGFQVG9PWkJqbnIzTHp3Z3c?oc=5",
+      "pubDate": "Tue, 26 May 2026 11:48:46 GMT"
+    },
+    {
+      "title": "Günlük Sağlık Burç Yorumuna Göre 27 Mayıs Çarşamba Günün Nasıl Geçecek? - Onedio",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMGpNcWoxSHVYS1R6X05DSFZ4ZXdzZGdTM1RWNldsRXFxTXpjd1RRWWQ0eXk4aUZlY1FxYS1teGZwSWxCa05fQ0pITFZsdWlpZkNsdFhmRHVFT1NWaEp5RkZwazY4bEF2Q3VUWHVRZ01BYjQ5X2dQeXFkY3BvelZ3VEZzYW1pcFB6Mk9FWUo4Q3loRjhoeHNKY05Waw?oc=5",
+      "pubDate": "Tue, 26 May 2026 15:01:00 GMT"
+    },
+    {
+      "title": "Engelleri kaldırmak ve ücretsiz rutin sağlık kontrollerini hızlandırmak. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbE5JYzhGSzkwVU84dmgwQy1uQngxVVRNeTZicmpvRVl6c1VrNVBmQ1lvSEhucFhVcnQ5Mmx0LVVrbGtRUzE3d3NBWUFDRUJuWjRWb3VsTHpRcTBmX3pPejViZW1JSndCbjIyeWgwdWNtMWdDUVREQVJ4Z2hOWFRPVzZpZVExWlpOOXFZ?oc=5",
+      "pubDate": "Tue, 26 May 2026 11:11:02 GMT"
+    },
+    {
+      "title": "27 Mayıs Çarşamba Aslan Burcu Günlük Sağlık Burç Yorumu - Onedio",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Cc1NnZFhmRUFVRW5pamtnLTBaT2VJWmo3RzgwYURRRDU0VVN6bVBqbDltR1JUcS1YU29MUGw4Y3hycjdCdlhyNUpqMURYNVFPOUMxckE1eUtXOWNKT1prS0xpR0xUSm80ZGlxa25GY3dDSFBXTXNZVGE3anVGN2c?oc=5",
+      "pubDate": "Tue, 26 May 2026 15:01:03 GMT"
+    },
+    {
+      "title": "27 Mayıs Çarşamba Terazi Burcu Günlük Sağlık Burç Yorumu - Onedio",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSDFKZWVYZEZzajhhem53UVZCMDFxbXpwOGdUb0NySW9IMjRxNElXRmlYd1Q4OW1rbVQtZk9QSHRjTWFPYm9vRW1WMHpVOGdnN2pFUXpOc3d3UllqaXVYNDVmd01XMGFWYmoxM1laX09TY0I3cmxKMmN0N3NCbHNjdQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 15:01:03 GMT"
+    },
+    {
+      "title": "27 Mayıs Çarşamba Kova Burcu Günlük Sağlık Burç Yorumu - Onedio",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4bktrRGNORUdBQUFzY2tGU1BGN1IxdHNveFZxNERIRlF6Z09DdVp4cTRrX0VfV1FiQ2loNWtrYVU5amlHLTJFM2duY1lGZ1lZRXJXUlNOUU5PcElsMGNqOGFGMkpSN0JtaWp2T3FSblRKbURiTjhjMGJSOEt4dw?oc=5",
+      "pubDate": "Tue, 26 May 2026 15:01:04 GMT"
+    },
+    {
+      "title": "27 Mayıs Çarşamba Balık Burcu Günlük Sağlık Burç Yorumu - Onedio",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPM1hBSGcteThIdmIzVjhhdnoxNjZhN0ZmLVJoNG8zYzNVeWZBUmdWYXBON3dSaWx2dmZSUGJHRmNXMUhqS2NKRE9qdTFVeTdNczRseU5Ody1tb1JUdnNMNjFEbmMtR2xjZzN1dGRsVk9mTnQ4ZVZDcnhpbjZxckU?oc=5",
+      "pubDate": "Tue, 26 May 2026 15:01:05 GMT"
+    },
+    {
+      "title": "Sağlık Bakanlığı Ebola gözetimini aktif hale getirdi ve hastalığın ülkeye girişini önlemek için önlemleri güçlendirdi. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS25BSC02OWF4UFIyOWJOcmFsZVJHSlJJT3pxYUdBa3hMVjlzOTJPRnQxUHhhYWlvdENLdjRLcHpEd3RzdTB4RmhqczZCNC1EYUNVVHZDUEFBY09DOXJlR3ptZnlrYkR2T3BqWVdFNWFRaUJJdXNOT2VPbUlRUjFWOHh3ejYtZl83UUk0VEljbmUtU25CS25sYg?oc=5",
+      "pubDate": "Tue, 26 May 2026 09:44:54 GMT"
+    },
+    {
+      "title": "Kurban Bayramı için hazırlık! 462 bin sağlık çalışanı görev başında olacak - Milliyet",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb3lSRkRVY3JEaEZCYmR4d0hvQVhnbmV6ZFZ2WXU2aEJTdUpzUWJQbGpyLVlZcEIzbnBnNHNCMFByaktReVAwQm9rbnVycW1JSE9MVThBSnlRSmQ1NV9WNlhhTFVNZUZrMjZtVVJIbFJtazIzeWUxSlNCWGZvQUdQb2pWRmgzYmNJemUzTE5KbVFJYVdVQ01VX2NYSzdra1FEMHpYLTBQNUNaeUpIT0ZPZElxSTYwQ2s?oc=5",
+      "pubDate": "Tue, 26 May 2026 08:48:00 GMT"
+    },
+    {
+      "title": "27 Mayıs Çarşamba Yay Burcu Günlük Sağlık Burç Yorumu - Onedio",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RSE8xSE5od0VaSzZWUU1zUlc5dF9jNHNsb193REZCX3FPX2tYa2hPaTNvUXlVRHV6QWwzS2poR0NCZHpsYnZmdkpNWUx6OTY4LXpYU1V1bGdxeFBOVGJEcDlrV2doUk5lalRpMVlpZ1NEUnhuM0JhZkRKelE?oc=5",
+      "pubDate": "Tue, 26 May 2026 15:01:04 GMT"
+    },
+    {
+      "title": "Tüm vatandaşlar için ücretsiz rutin sağlık kontrolleri. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wdC1qZ25HUEV4TDZpdHE0NFpIWmM1bVRBUmNVbEc0M0lVeWtBMlZxeEVmUVZ3ZERwMmtzeEFEWlk5SnYzZGRaVk5Da2pwNVBTN2hJVWdzWFZ5RW9vSEEzT1dmamVtSVNVeHRGVzNPd3NoZW9DMER3Qw?oc=5",
+      "pubDate": "Tue, 26 May 2026 09:48:15 GMT"
+    },
+    {
+      "title": "Üç sağlık örgütünden Girne Asker Hastanesi açıklaması: Tabipler Birliği'nin taraf olduğu hiçbir anlaşma yok - kıbrıs postası",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQ1JGVFBnY0RTQ21hMExoZDdqUW9Na3NmYmkwcGRBb3RMN3ZDVlhQcE15ZnF0NjI3UG9iYjlxT3BfSWUzOHNnQ1hVLVBpdzhjck9NXy1BS25qYlo1dnJPQUZkVFBJc0pSTDZaa0lSTV96Y3pRbktIblhVMlg2U3VUZ29wQ3NOUVUyVTNnM0FPRzhvN1BPXzRfQ1pBNktBVVpKNzFmV19IM1JqcGJLLVA1YnVIOWxpbDZhTmhxRU9tVkZVdURtMENqemVNMXl4QTVmVFJjbG95bkpSMXEwMk9wSzQtcDZOR045NHc?oc=5",
+      "pubDate": "Tue, 26 May 2026 11:45:00 GMT"
+    },
+    {
+      "title": "Trump yönetimi ABD'li yetkililerin Dünya Sağlık Örgütü ile görüşmesini yasakladı - GDH.Digital",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcWMzV3Y2SmJyOFM2eDJFUXB4SnJOOFl0WGQ4MTF0dWxwMnFrUFU5TWVuamNkb3o2SG9SNThuVEhHLVFDdUhRU0Zpd2l6WU5iUk1qa0dPUHJFdWxmSWZhdy1pWmFidGl3REp0b2hiZE03enRfT04tTlRzcnBjT2JoQnpVYUViLV9GeFE2YnJJSU95MXExc2dGQVZlXzY1YW85TVFyMmxfeDdlUVQ2ekVjdHBCbXlVdC1G?oc=5",
+      "pubDate": "Tue, 26 May 2026 13:01:09 GMT"
+    },
+    {
+      "title": "27 Mayıs Çarşamba Koç Burcu Günlük Sağlık Burç Yorumu - Onedio",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8yYk8wVDRRcjV4cy16Xzh0emNZUFg3U1RlZWY4Z1gydHB4NW5WUndnbG01QUUtbXZMRGpPVW8zNDk2OU5aZnF0NEVoMzdhZGNrTEU2WjUyLV8xbnIxRG9YeXV0ZXBxWENRV2hreVFDcjViQktERE9CYmI1d2U?oc=5",
+      "pubDate": "Tue, 26 May 2026 15:01:01 GMT"
+    },
+    {
+      "title": "Yeryüzünden gökyüzüne... Hacı adayları için sağlık hizmetleri sunan Suudi kahramanlar - Şarkul Avsat Türkçe",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdHFSNVFVbVVpTHo0RlBjLVQzOTdrc3RXYkJUcS1oeDYyX0ctQS02X2pxcG5pa216aU1YV3pDaktJQnRod2JuTk53QlQ4RHR1eGJvaGh0QlZqYVJveHRHQ2xmU3oxdjdHOHp3MWl6TkZUdDI4RzhETjJqdENiaTVVUm5vX04wMk1KazNhRXU2OGtETnZ5RG1JT0hMTXU5Tk5wZU5BRVVTTEJfdGtDa2l2VjFPUmhSZ01lN0QxeXU4QkprZ2xzT19sLWswVE1tSGg0bzd3N0EyYmdlNm15dndsRV9hM19yNEtvSkQ5a19IN3BfQzRqZXVlTE1WV1d2X0dBdDNfWi1RZHMzZVE?oc=5",
+      "pubDate": "Tue, 26 May 2026 08:53:15 GMT"
+    },
+    {
+      "title": "Saray'dan Sağlık Bakanı Memişoğlu'na itiraz geldi: Önce yazdı, sonra sildi - birgun.net",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZFZLRzd2SS1ldUpIN3Q2bzZsOURBZzlmR184N0pjUXpfWmI2LVF3YjJBbFM5VUxSbnA3YXl6QTRsUG14dWlqa0RhMGk4LVN2SHhGTllVTF94WEhhUVFEbkp0YXdqRjRmOFFRUkZiZXhpdWN0eWRaeEdxd1NLN29qc1ZLZlF5LWFVZGJkczFDMmN2aFVfcDRkaWtVbl9DQU1TSUl3OGdYZVlPbTVP?oc=5",
+      "pubDate": "Tue, 26 May 2026 11:58:00 GMT"
+    },
+    {
+      "title": "Sağlık camiası yasta! Kayseri'de bir haftada 2 doktor öldü - Kayseri Olay Haber",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSE1lc3prX1c4Q2E2RXJxNkc3VlBTRGJiNTFXQmdpMUc4SVBIRk5vQTk2SUtVUV85VVJ2NzF6bGNaZWFGb3hJQ2MxNjEzMUZSSE5VdWhlb2RTZ2cza1BjNHotNzhEbXRfVkpXaUFOYm9kMnNBMFc4OEVBVGY0NWlndWtJVXR1WUpRNWZOTHRRU1E0Z1hjQk80N0xXM2VfN0R5bFl0dkZ3?oc=5",
+      "pubDate": "Tue, 26 May 2026 10:20:30 GMT"
+    },
+    {
+      "title": "ABD Başkanı Trump, sağlık kontrolünden geçecek - DHA | Demirören Haber Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeGpXSVEtVjU3c1B0Rk53SVpVWk43NHhkWjFHQ0tzQVY5QXBRUk40OXFLN29QeG5oUEk0c3RhWjdRbkZDaVhnZU81LTRpb3BzR1VZbndlZ19CYTdiclExM1pDZ29sZHhUenY4YjQ1d1hXQ0lFenY5X012aWlnMEdOUFhPelR4X0N1MUHSAY4BQVVfeXFMTlRmeDRaNS16VGRSdVV3Q3NuYTdlYWNwbFVTbW1JY0FaZE1JbGpleS1YNG5TbnY1SVlvVENjMERERGVIamc4Z1FvMXdMN0c1czdZcXgwSkpDVS1PU000SG9wUlBKWG00aGRHaVRGRmpmckdwT2hfVWo3Z0ZwVlVLMmc4dTZSUUVBdGxLeENvZw?oc=5",
+      "pubDate": "Tue, 26 May 2026 14:43:03 GMT"
+    },
+    {
+      "title": "Sağlık ocakları bugün açık mı? 26 Mayıs Salı bugün aile hekimi çalışıyor mu? - Cumhuriyet",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2xfQktCSElXQzFyUng1UmZ5SXY0THdjb3A4NVJ1QUltSmZSVWNHMnFCLS12a0p3WXJjWXJIZE9UY0QtTjQ2dkVSdk5MdnNoTkF5SHU0MnR2YVZzX2c5djBQdWc0SnRqNm1zM1lhSm9UVlBGSHg0cW1YdVhKVXN0dGhlb1d6VThsaVJxalp5ekQzYW5IY2d4U2tNUXhINVFwdURST2RNVE1udzVWSzBpMDAzVFduSl8tTzEyUQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 10:06:00 GMT"
+    },
+    {
+      "title": "Manavgat'ta Bayramda Kesintisiz Sağlık Hizmeti - Son Dakika",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONkpIOFRSbzIzUWhmcXJ5QkJzMGhrNHFpUFNKNWZBSHZ5YWcyVVB3QTdkUW5Jd193TlF3NTl6c1UxT1owZFVBYmlPT2pvRF9uTTVEUjJfb0NBQlhQTVV5akVOczdBS19nUFY1WnB3cmpWSEVyTWhfLVQ4U1gwYW8zN2NUVmRndm9haTJSMkVNYUk4YWJGVDd6X1RUY9IBlwFBVV95cUxPSGRJVGR4UENETUNyLTQ3SVFJaDJfbktaZUQ3dXRmdEEtSUxzaTBqMU5STkRyWWFab3lMbUoxZkhYNnBhdkZvM2pyVGhrWEtiTGV2NjRScE1pdlpDOXVleGRiV1pFVUh4eUJZTUVEeE42RDhucU03M0drcExlWEtMNWFVb1VtcmxCdEdpT3RLV0V5VjNsNWVF?oc=5",
+      "pubDate": "Tue, 26 May 2026 13:46:35 GMT"
+    },
+    {
+      "title": "80 yaşına giren Trump'a sağlık kontrolü - Sözcü Gazetesi",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43b1ZmbnJjRWVsSHVmenJrS25fTXdmYndjbTd1eXR2eFJfRS1ISU1DTzl6VmliTWhfU0M1SFJjXzRnM3ZodjRUcE10eUlnN0F2MlJJalBwaTl5VnJuWlI0blAtVlZ4VG5Ha3VfT3NPYl9rNlhuckkyNzhteDg?oc=5",
+      "pubDate": "Tue, 26 May 2026 14:47:02 GMT"
+    },
+    {
+      "title": "Uzun süren sıcak hava dalgası nedeniyle Sağlık Bakanlığı, insanların sabah 10 ile öğleden sonra 4 arasında dışarı çıkmalarını sınırlandırmalarını tavsiye ediyor. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMVRMN2lKMmtiYzBHeW95cVliT0dkTGtiYVczNlAzaE1QcHE2VW40Zy0xZEhjbjlFamM1UXUzdXV3VHowXzE3TGNNZVlZQXBCUi1aUHM3ZS0tUkJNS21PNXFrUWt3c3RpUGlBSnk2WmVmd3VoNENxOFEtbk1ZbjZ1RFBJWlFTcVJjZnhjc29ZLXZqRWh4WnZ2MDZOMjRra0V0V0ZvdGliRQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 11:41:19 GMT"
+    },
+    {
+      "title": "Anne Hathaway yaşadığı sağlık sorununu yıllar sonra itiraf etti - Nefes Gazetesi",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZWQ5UGs1emdjZXk2SDhiTzZHV0lpUDNXWXFrMXFiWFVYV0pNdTh5MXg0cXVrcVlnemVSTm9DdEhyanRFLUxLTzY3OG52Wk5lTVJUVlhPVDVSeFFuZzNKUHotcDV1S21obUNiVkVkRUN2WDNzMHJ0a2JnY3ZhdzFpY0wwbUhqMmpQay1nRjZZMWxZYWZpUXkxVGxnTdIBoAFBVV95cUxQd1lKcHI3eG40Y0dzanlDZnNjUDhjZndoQldvcTdPdUF2ajVPVDJqdTFsSEhmUmU4ZktPaGU2Q2hhNGxwc2k0dXBJZjg5Mnl3ODdOMGEwTG1SNzQycVhpb3VEYklmaGFCSWxQNWl6REFESGk5WmFhVkFiUzhBTkVmbW5yZDJ4a0NSaXpEX1NUTEl1b29mdEZEdWtKUkFxb1lG?oc=5",
+      "pubDate": "Tue, 26 May 2026 11:15:00 GMT"
+    },
+    {
+      "title": "Yeni durumda hastalık önleme ve halk sağlığına ilişkin yasal çerçeveyi iyileştirmek. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNVlJQ1dWQVRUalRhNWxXM1JubmQ3RVYtSzBGcEtPb2pwQkVMU1NkelBseEZkdm5LMG1yYzNLMWdaeUt0ZlFQdFZMWVFqanVEWGhyYW5nZ0ZwTFFnRkVPT3IxV3EzV0VhZ1FfRXFOTnZvSlZqMHFsSkQ5WVM2THV2ZGhFUldzMTREa0E1eG96U016ZWttWjZxMG82c1hKYnh1bmg4ZkJpYjAxNk0xUG9uOG5oTTdpU2JsLWlpQjhnSm5pUQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 10:43:30 GMT"
+    },
+    {
+      "title": "26 Mayıs hangi kurumlar açık, olacak kapalı? Arefe günü Sağlık ocağı, bankalar, eczane, kargolar ve noterler tam liste - Yeni Şafak",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUkt2Q0twbjBvdkRPcUdhUzhILXNCOEJhdDhtbUpLZXNPaXc5Vk9PUHNLM3NWSTREbnVteVBRVlZOOE5vOWNVNTVjUVlyTFBBMlowd29iNUFMRVV0UEtsUERsWFRHd0dhY1FVejlUR1RxUy1LNk9jRHk0Nkp4T2lIYlM5MzBiOXNGSlFwNmE5NjNMQk1OclpGVGtKTkhoMFVzUHpVTjMwdUh3V1VGLXBSWE0yZjlhQ2JjeGw3ZnR3bzlxS0xCdXJ0Wmxmb01rUk05MG9paW1ZdHozTnFvUGZBNVk2YzBGb0JGdVlJbUdIaENJUC12aXY3Rg?oc=5",
+      "pubDate": "Tue, 26 May 2026 08:51:00 GMT"
+    },
+    {
+      "title": "Aydın’da sağlık çalışanları bayram tatili boyunca görevlerinin başında olacak İhlas Haber Ajansı - İhlas Haber Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVXNMcVJVUXFQWWl6bTVsV25odmNoemhxRjF6cnlTeHkyWjNiZk1lY2xPR05WcTdyMlZqOGRadU9HUE0tMGlleF8ydG5xbFVMWktMNzR0VDVpY1Y2OWs5WlZRSGJ4elhpQ3U2Z3dGaExHNnozMWc4VmtTU2lYNnFkalJwSS0xQmpEVExZTHptM29CNm9nMjNlT1dDT3hkaWs5OERmSXV1cEV3VVlwM0c1dEFfaWFpd1F3U19NakhKdWpWc28?oc=5",
+      "pubDate": "Tue, 26 May 2026 11:15:09 GMT"
+    },
+    {
+      "title": "Trump'tan kritik sağlık kontrolü: Gözler Walter Reed Hastanesi'ne çevrildi - Bursada Bugün",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaW8yTnpZTDFURWNERnJvLV9EYkotSUFZZkYyVTg3VjRHaUszZTltUkEyc1BQTTdKTWdlQW5ldzFHS2tQMFRrZlVXbkNUWE9OYURPV0lsd0FyUzJHVHd4MnMtbkFPeE80WGpzV3hvSWVLeFpTNWstVVpUUFdjYlBGSmJKdkI5RnFUR2tRUThGeF9zckJJV2J0MDBnejdOUUUxQlVWZWtJOVE2V0RwZVBrZ2JERnJPeDBfOVhRTWdR0gHAAUFVX3lxTFB4c0tFWWEyLWtBUUloaU9mWmZISW9pQ0VOZXNRWExnZ3NEVHNLaUR5YXZCREpLeDhhWEJubXZzRUtid0g3ZzJEVkctZUZVYThKRkpYSW5kZWJCSklQNmNudUFCX0NSVU5rd2ZVSEY3emRuNFFMQVRjdk9DdlpIVnpZS3NKYmFUblFXc09aZ245aTNRZWNWaV94d1pGOHZKWWRJc1kxSldNT191MWUzLTdZblJ3dVBkelF4VGw0Z090cw?oc=5",
+      "pubDate": "Tue, 26 May 2026 14:46:00 GMT"
+    },
+    {
+      "title": "İYİ Partili Hakan Şeref Olgun: “Afyon'un en büyük problemi şu anki sağlık müdürüdür” - Afyon Postası",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTVGSGkteTZOdW5tbExFWjFaWDlGZjI4UllxamE1NUI2VnM1aEw3Vm9xSjlkMXhpSWNEVjJQVzRRMG0zXzRDNUwzTzEwdWszclVFcGlUWmlGOEhZbTRhN1dFUmJVN0xOalRiXzFXTEl2SHpqMGdmTTN3c1lueDI0QkVVcVVzeFljTTE5cS1FaDNJRXdOUWpMbHRGNThYemg2TkdxTlY5R2VVcFVjbWowcFR30gG3AUFVX3lxTE9ZTUJMLWNESFU5OUQ1ZEo5ZU40RUdTZzVqbUxZaHZ6cXM4YXh0TlE3MUNEM2gxOFBZX3p5MnhQNHNrS2FrNUUxbGtXSDRVaUJhdXlSQnViY2VQSzFSaGZMYnMxRnJpc1htTGlYWE5rbVY1RUpoQXI1VGRHQVV2bnFsVU9GUm1lRkFwRnFlVW1VdGpuNVBKVXRINlZTZUEyb3JFdW5aZUt1aWU5cHlBSXRUUXlGRTFMRQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 12:45:00 GMT"
+    },
+    {
+      "title": "Taburcu edilen Sumud Filosu aktivistinden sağlık çalışanlarına teşekkür mektubu ve kefiye - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRkljV2tOQTRQSjNwd1F5YkFIc0RnOWtzNm4xcjl6R3ljREZMbWdhbmFiclZOcjNlNERJS1E3U1NBSjRBeG0xNDJ3UURlMloyMGxQaW9KT1pqX0lXbFhkdHBNWVFleU9Wb3JSeWlRWkhnVDFmeldWRUJfYmxpSjRXT0ZSV3lrTlhvaVo5OVdpRWFOemIyeFpaUnJKZmtOX2J1Rl9QQzJncF91MnRMNU16WUY5dHFSX2hqREdiSmNMR1ZlQ3lVQURfbG5sTXlOaWZQcndxTDEwX1VQV0M1aFE?oc=5",
+      "pubDate": "Tue, 26 May 2026 05:52:19 GMT"
+    },
+    {
+      "title": "Kurban Bayramı Öncesi Sağlık Uyarısı - Son Dakika",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbm5HeGU5X0FHcWFSTG04eEs4dU50eVlCYXdfTmlFTU0zME80clRrVWdtNDFFbUVDa0t2YWlPZWxLcWFndDNyenBSSG5uX2pzNXI5OWEwQ2gwaUhZSXRNOVRYbFVTVjR0OEJMSGFza1hJSzJrT0JqRkY5OGtqMXk2NGp2aU9rcGF2d1BTR0JB0gGKAUFVX3lxTE45OWZMWUxZTzZYWVJJbzVoZl9qV3pXLWx1TkZYd3RRNkxKT1RQWXBWbFpFbTI2UXFVd3BfVUk0WEF1b2doZ1dTc1RJT3d0M01aa0tpa1ozNENoN0FkcVNESkc5XzVFbTlBVUZYSzg5aGNESDhrRlFwMno4dkd3OC1GcVhRdEF2ajZpdw?oc=5",
+      "pubDate": "Tue, 26 May 2026 08:39:02 GMT"
+    },
+    {
+      "title": "'2026'nın en güzel kadınının' sağlık durumu - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaQWVMa0hrVjBUT3kwcnIybUVYLVNkTlMxdmhnQklpa1RtODcyYjdJMTA1TWJXbHNCY1B2T0k2XzZ1Z0xuRks4Y0FvVkFMWE5QU2Q2UWZueDNtU3FrZGlRQkx4Sk1DcmdQTmVqOWNESUtYMzlERm1aLThuaw?oc=5",
+      "pubDate": "Tue, 26 May 2026 09:47:46 GMT"
+    },
+    {
+      "title": "Sakarya’da sağlık personeline yenidoğan eğitimi - Medya Detay",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BeFR5VVItVlFJckJXT1FFeUFhRFJMT1RyZEh1eDY0Z3gwbmxmcmZ1ak5ibUZRclFSb1Bsb19SYkhqRl9tSTBRdGwxYkxhNmUtVHZHajRhTDhDa3lGcjFxNDJOQk9ITWxESDFGZGgwOFJZV3B0N1FwdmNHYVhQUdIBgwFBVV95cUxPV210UExyZjByS3FBRjhWVkc1TWlGZlZ0WXVjYnh4ZUV6SWtUN3hPbEprM05YRUw1UGx1LXRwVk5hWFM1MzVSNHBUTkZWajlaRTNtSWpfVi1NYjBWSGNSeW56LXlkZ1J4VVpiT0xyWWhNUEtROGFVall3RnRBWXk4WG1ubw?oc=5",
+      "pubDate": "Tue, 26 May 2026 10:56:00 GMT"
+    },
+    {
+      "title": "Serinlemek için girdiğiniz havuz, hastane biletiniz olmasın! - Sabah",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYkJaWjMwa2t0Qm9NU3NmQ2E1Mmw5RTk1RDNta3VpQ2htNmdxS2dwM1hkV3V5RUt3WUowQmlJdFJKZ3RaRXMtNG9NcnR2SjlBY21qTjNrZVJhTXRqN1VmcFRocXU2eXk3TzBvN1NBeGhQYkhlbWpWVVgyTlh4eFpOUThQMkFZeGl1Nm9wdnlTdlAwUDVocGhMeXV0VdIBngFBVV95cUxOOEpIWU9UaGt4X1BQbmZnU2xLeC01cWdhY1hKcFlVLW5zbUZwU0FCdHpuNU1MSENPSnJZTm1SQkdidDZRaW03Z2JXcXlvVElvSkU5VS1fanMzeWNfRC1vcDkxdF9Ed3EyenBvMkZ0Sk5xM05jVHZ6WUplTUhnVFdMOG5NVFVYUjBnb2p3U09JMzdWMjF2dnZyNDFYNDVqdw?oc=5",
+      "pubDate": "Tue, 26 May 2026 08:53:04 GMT"
+    },
+    {
+      "title": "Bayramda Sağlık Risklerine Dikkat! - Son Dakika",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORXJzbnBwRmRnSG0tTUtSZGpHUjF6X1drN25OR1RWbnlJYmg2V3l1YTFWdzVabUlldFpVNXdZSU95YnV4dG90MWFKOU02OHBIWjUxZzVmY2FpNEZ2X2djaXM1MHU5YlJzanlmZHV5ZHRKcnZkZVVwLUdWREsxWkJ0ZWdtQTE4V3NoU2c?oc=5",
+      "pubDate": "Tue, 26 May 2026 06:33:03 GMT"
+    },
+    {
+      "title": "Trump, 80. doğum gününden önce sağlık kontrolünde - Son Dakika",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbURJX3EtMmc1aVVQUGU2RGtYdy1oellEWDk0cXIzdHhYOXlZNExkMVZ4eXZVYl9uR2Q5ZFo0OE1VTkItTzFGak9ucUlkb21OSUxhTm5kRFJrdkJBeHp6M0tjZlNhS24tMWZIVjNBMzJXLVdPbHNYMU9rS3hwT01POXl5R1Y5ZF9WODJseGM4RTl0VFRDWEtNaWpiRkjSAZgBQVVfeXFMUGZnSjk5Z3l0WnVRbXpPNG14RTNaQjF1bWdEbGc4cEs5VElFVTd5cGJIcHowYzAxclNjMkRqVk1yOU1YSWdIY3dPWFg2ZFpOZ0ZWY2lSUWtQYlJyWDBoMVpkajlSbE9aTXkxcGFMUTJUWlEzcUQzcTh3eUhNYTVHZEJIc1NzSVZUMWlGdFJSOHh5MURzWjVJZTI?oc=5",
+      "pubDate": "Tue, 26 May 2026 14:14:21 GMT"
+    },
+    {
+      "title": "Kurban Bayramı sofralarına uzman reçetesi! Sindirim sistemini desteklemek için… - Sabah",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkhhNzdjY3Jadm8wNXJLeXg1YURDU2gzcmdmZFNGOXl0V3RlM1dvRy1BOW5PN2ZmdzhvNGwyZXdQS0wwREhPc3JWMVZQckVEWGpJU3NfQXYzOXh4SkxhWmFNOUdOc3k5ZUtMeW81WS1fdU54V3pFSGpmN3hJVjVOWXBnajRHVndPUDJsQ1dpWVdiR1E4aXZTdkRwTG9Uc1FSWVFNX0ZqaXpSX0xYRng1NmRCZHPSAbcBQVVfeXFMTnFGX2VnQ0JseGhtNG1Vdm5zVDRWbnhCN25DTENyZE5NLWR3ODh6OXVVcUNhS2ZUZG5MY1llQWVKMkF6aWQtVkFRNlVZV3dseWVJYklxVlVzelVaUDNTVmMtaTVMdlF5c2RSSW5yX2loOXRSTGp3d0pfNXB5ZGwxTnBzdDB3ZTVkTlIxVk1KaHNSMEJlVlplbGFPRTFuamFvQzJ0X05PS0NXWWdGZ0I1cWpfeFB6NVRR?oc=5",
+      "pubDate": "Tue, 26 May 2026 09:07:04 GMT"
+    },
+    {
+      "title": "ABD Başkanı Trump, sağlık kontrolünden geçecek - Haberler",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTkVCX1paUDBza3R1LU83M20yYkVOM3dpUFVkWDRKSEZkeDM0N1pZVWJFSkl5Wng0T0kwUDhmb2ZmRkhRRHB6bzJqMm16U1Q2MzhGY0IxN0ZHdzRqdmF2bXB2ZGpuMWRUcnY4VndNZW96YVZQWXZwTkg3TGNydExjWHQ0d0RiaUJtQjk4d2lOLVU4QdIBjwFBVV95cUxPa0dPM21Rem9IRWFKYkRnLTEwa01lQjBZemVvOW9tRy1JamJIaXNRbnJjU1pqbnd2S1ZueGlPMzFBcFo5ZThaYmdBZ0laTnc5ejNnM29IQkplQU9rNUhvdlhYUXRlNXFidzQ4QnB0N1l1cjNxd3RlcDdkcHlMM3VYQks2czViTFdYY2RGbWU0QQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 14:42:30 GMT"
+    },
+    {
+      "title": "Kurban Bayramı'nda 462 bin 198 sağlık çalışanı sahada olacak - Yeniçağ Gazetesi",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUXNjYWtJWG5VUC1PSGVPM09zRHMxU3ZJSFQ2SXljcWppSTA4Q2ZValp5dDdqMUZfa3A0cEhYQUhPN0VPOHpJZjBKcW9jOF8wcG1BSmdSR2hXN1BHQU42ZjZfdDlSLWd4bTd1MWwzOThHdlZfSFdWYUVIVE1MXzRzb2FodXVTUVhWZjlKRmtYN2lUMDU4SE5EZ3ZndDRIOXBROFRudkRoVQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 09:33:58 GMT"
+    },
+    {
+      "title": "TFF Sağlık Ekibi Çalışanları Kursu, Bakan Memişoğlu'nun Katılımıyla Yapıldı - TFF",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zcUtnMUxQUGM5UkZuLXR6bWZIaTlELUEzWWdiVnN0b3RVc3JKZkpOTkN0RFFGZW5ldjZGRXpFMVRENzZNRExGd25zUVNmVEJVUmRabDNKTXhHbURuMFRSMnVPZlMzdG8?oc=5",
+      "pubDate": "Thu, 21 May 2026 18:31:32 GMT"
+    },
+    {
+      "title": "Sağlık Bakanlığı acil bir uyarı yayınladı ve sıcak çarpması ve sıcak bitkinliği mağdurları için ilk yardım konusunda rehberlik sağladı. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdlFWaVZYTllGODFHR3hTQTdBd0pjZjNEV0t2V2pEZzNYUkFxaERKaDMta3ZLWTRsWGZsUURldzNYdjRQdWZRZmtpcEU3bnR2SGotaUlwdElXZzZRZi1BS1RtcHcwR1M2SjdkZHU0T0RickNELW9FTmVPYlZ2Wlo2OWpwSWR4cExYQ3QyU0h2LVZ1eHNLOGc?oc=5",
+      "pubDate": "Tue, 26 May 2026 09:02:21 GMT"
+    },
+    {
+      "title": "Vali Yılmaz’dan sağlık çalışanı ve hastalara bayram ziyareti - MSN",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONTBmMFhGTkcxMWVtWExoeTJ3Yi1IU3M1NE03LTdfNU1NeHZxRGM2dU1WMTRvRGtSTDBJV211YWliMk0wSnJ6a3hITVFpc2NhMG5Wbk1IMnJmbjN5ZzEzNVFHNjVUeW93QTdsclo1YkVkVWxwdl9BN1RJQjl6cE1JZnZDNXF5RXl0TUhVMENlNW1KVkJVRk81SzItMXFfYWItWHpjY3VWSVJ0YXdGZ0RlM3E0RUgwSjN5b3AxR2dtQ3o5VDZWakxjWThUTF9KekpGdXJfYzdKb3ZRUVk1cFE?oc=5",
+      "pubDate": "Tue, 26 May 2026 12:57:18 GMT"
+    },
+    {
+      "title": "Etleri hemen tüketmeyin: Sindirim sağlığı için uzmanından 24 saat dinlendirme uyarısı! - Sabah",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYVJiMEtCRC0ySnhaUS1wY21vVVlYQjdqeVdVdl9Lc1ZEeGd6QVRBUGE1OHI5SEdocG1WTFZqejNTLXh4QURnN25CVXRBbkdpaXJvSVlwYk10ZXB5aDJLRm5xQWljSDh4c1NsdnZ4T3JMNWV1cU5HWjN5ZzRCakp5NDBiT1JLLXVUNzV6U3pTdVhOelM1WnBFWXh6aTVPbFQ2c3pyeDA3Q05LWGh1NVhzeUREY1NpZFd6dGZuN2JR0gHAAUFVX3lxTFAyUkhuTlpiRXp3UEduQ3B1WXg3cnlOUGgtY2hUTm12SDN0Rmx1Qkh6UlJQMjFSU01zVDlaYkpoVnk4emkyRnF5dHFRejk1dC13bFB0bThveGIzRkVoZE1YUXdJN1dqLXo5enFWdTB5MWF3ZlZ3LW1BOFlWOEZLeG1XazVZZlRDbGhsTFJzUGhwUmx3ampiR1BhSkU2R2drVW9rRVQ5bUpYTmhOZ25MVklXcHJzM05USVVibUl3bjV0Vg?oc=5",
+      "pubDate": "Tue, 26 May 2026 09:10:28 GMT"
+    },
+    {
+      "title": "Birlik Sağlık Sen Anadolu Güney Şube Başkanı Hasan Çalışçı’dan Kurban Bayramı Mesajı - Şanlıurfa Gazetesi",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPemlsU3FKQ2VHT1U4YmVmLTZ6V3JraG1YWDZucHFkYXFQTXRvX3FjZEZpdjdIaTdzOE5zRlhrNUs1UmVkZ3hLRlVtTmtUbUw4WHM0RUxVR1FGcTN2bjU2WkZCemVHYXlrSTEtRXRLQ0ltRTNJOFBLNDhDOVNxYzEwcEJ3RTc0d0F2VjNYWTVGNjh0TWwtNTRwQTJWS3dVNUl4WjFOSUU2OXN4MGRNUFFyd0QwWC1DalNN0gG-AUFVX3lxTE5hVTFMc3QzWXpRRFRTVVFxSjdOQk40UVJYZzVFMU1pN0RxdEdhdUJ1dm95cl9nNHA1ZEQtdzNacjVlNm5Ub00zZTJwZzExWXIzMjJ2OXFOYUpmZmhyb1RvbENFUFhQMmdFUUNrYkRDSGJqdHEtQnZWTWhCVjJjcXhLejFKeTJjRjRKMElvcVREUzJKZTBhMmVFME1PNXNpRXU3b29tSHdJZFgzMFZRcTdkS0JqOUU5U2RMMllWRGc?oc=5",
+      "pubDate": "Tue, 26 May 2026 12:08:00 GMT"
+    },
+    {
+      "title": "Bayramda hastaneler boş kalmayacak: Aydın'da sağlık ordusu göreve! - Ege Alternatif",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZHNJdWJwUWZxQjhRdzZBaVp6WUwxcU9nOHJKM01teExKZ2ViX1lWd0dtUkREUC1iMVNUNXIyemtzRnYtaThnc3pTdXA4cnJZZHViUFNJQnMyU095OW1hWExMSXd4amZXdjJuUC1rV2tkVzZZN0RvNGI4TE1Va3Z0X2U4VGpSQW1TR3JZQ1ZQWFJFQS1SamxsN2E4Q0dSM3RYLWZUWUVTNG00bWs?oc=5",
+      "pubDate": "Tue, 26 May 2026 11:22:54 GMT"
+    },
+    {
+      "title": "ABD Başkanı Trump, sağlık kontrolünden geçecek - hakkariilsesigazetesi.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUndub3R2bVE0ZnhNelROREkxVGRFdXRvVEc1UEEwM2dUaHNEZUFDWDlvaDF0T2xDUldwUGtxeWZPaUgwRlFtdDk0VVdGSFZnVUQxM1hTNGhNZ096ZkN5eXpwVXl4WEtxQnRiVWlqdVgwRzlBcEEzT29MdjFkMUNvdEQyT0RKcEMtT3Qw?oc=5",
+      "pubDate": "Tue, 26 May 2026 14:40:00 GMT"
+    },
+    {
+      "title": "Bayram Sofrasında Bu Hata Sağlığı Zorluyor: Uzmanlardan Et ve Tatlı Uyarısı - CNN Türk",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVG9nWW44ZGJScWxvVnViN2JhUnZGOGlBNkRRbVBBaHJGUXl1c2FoYlRGUU5HVlFKUUktbEFhb1llcWoyWEFaempOcFRYT1BiWmZqcU9KY0Y4TzM5eEVEZWtXVFFwQ2tXMWo4WnBvM0lxNHprdUlzZXlQV1Y0Tjd2SVg4azFmNDktTzlZX0hxc0lnUTNBZmlxY3MtZUFZS0VCTm5IU2VyYnRJNTVvODRqMjU0VTc4bUJ2NzhHTQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 09:24:39 GMT"
+    },
+    {
+      "title": "Yetersiz klorlanan havuzlar enfeksiyon riskini artırıyor - CNN Türk",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS3Jsb29uY1kwLTFZeUF4cGpoZkN5eVpyRjNFclh1Um5pT3JlWWVUQ294NlJ1TEh4Wk9adlBjZlpXbFd0S0xkUXBDb09McjhlaGV2RVh0dzZmNDN0cVQ1a1V4dzJBcEpvOW4wa1AxUEVaNno2c1FURlZpXzAwM3d0SGxGaC00WXJiYjZod3Bhbm5DdGdkX29pV1hnQnNmN1VJVGlKUQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 09:56:00 GMT"
+    },
+    {
+      "title": "Sağlık Bakanlığı'ndan çok net uyarı: Kurban etini sakın kesildiği gibi tavaya atmayın! İŞTE KURBAN ETİ PİŞİRMENİN PÜF NOKTALARI - GZT",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQamVzUFlOLTlEYVJhYVFPdHZaazV1X0l6ZG42Y3JxbGJvNUVjZWVhVXc0S1Z6b1ZVWElBT3ZlWXVraDVNMlh1V2R3cUEtTFdSX2dfdDI4bjl4blZNTjg1RmNuR05sVXRMMHRvOXNDZkxCOTFjSkJldjRSRHdtM2tTeEt5UE9Nd2tSYUpsNW9QdFBUUi1PdW1VcjZ5ekdqOHN4VlhvWjk3M2dYOC1QaC1vNVdGQm8zMEN2WGZBVExPZjZVRTE3eDdWS2o2bjlKOEpnbUxmNFQzV2lEVmRrV1NGZTNEWllqaVc2aUhjaFFXRQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 14:01:10 GMT"
+    },
+    {
+      "title": "Bayramda Sağlık Hizmetleri Kesintisiz Sürecek - Safranbolu Birlik Haber -",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSGp3T1gtcVVFOHR5R19IV25vX25DeVFnazAzSXByZEhVSVRBbXE2N1MzSGNjdzM0clluQXV5TE9qS2lpNXRWc3BVQUZ6bTAtdUlKNFpabnNqNC1XdWVkZ2pJZC1TMjA5RTdJdUpvOXN4Q0tEQmVKR2dSUVJzY1pEbQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 10:29:59 GMT"
+    },
+    {
+      "title": "Bayramın 1. günü hastaneler açık mı, hizmet verecek mi? 27 Mayıs hastane, sağlık ocağı çalışma saatleri - Sabah",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRHdGeUtTVTNmVEtWU3I5bS1MT1lialVJdEljNnlBN1dBREt2LVJpdmpMeHJTWXFEdm5ZNTBfaU9WWE10VWVCTTQ1YkhYa0FQejg5SHA3OC1HQnNFQjkzc1YtTE9vdUJPSTA0TFdQRV9jcG1kdk5iZHhQQm9hd0g5MGloMHFuOWItalJQQzRfWUVlUUpPRnUyc1djazlvSXQzN3pYNjA5ZC1rOG9TQ0l5ZkpqdHFvUERHNk9KQnJLNk5NcmQ1M3ZBZEdYZ3p4ZUYxUzVoLXFqU0Via2PSAd4BQVVfeXFMTVhwUksxUnNNdzFIWm9Mb2w1dm5WazkwXzBSSE5MS2N5WnVvVTZ1blVHamZGejRTSkpCNGk4RGRyYV9DaDc4UmJtTm52amJib3BjUmg0cDBXX0x4SGkzTk9kbXFKcktyWWhNQjRwU21IWmoyQUtBRkRMMHhXRTN6Ri1WdndhVXUtU3RxMmJ0NjZuMkdhTG1RNU9WSnhtY1pBTUxpcWY4UUtrSGtsN3ZNY3JpSkk5UEI4LVNuT3ZhUGd1c1ByR1A0S2MtakJUSTdaR0hHc29BRFp5YkpMb1l3?oc=5",
+      "pubDate": "Tue, 26 May 2026 15:09:41 GMT"
+    },
+    {
+      "title": "Kurban Bayramı'nda sağlık hizmetleri kesintisiz sürecek - afyonses.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbllhQktrLWZkNjdPQ0thMDVKY09Tcmp4MmZSVm5oVDJCQnZLSnB1ay1XejBXZ2pTUl9hd1FVODBTSWgwOFVyME9HYUhENUNidmNwaVRqMlNoY2U0azgtR2VSRFctb1E1TndoeG1MdHB5OUhrUXJoNHgwQWY3OVg3N2Q4MUljSUlPOE1UOTVGbUE?oc=5",
+      "pubDate": "Tue, 26 May 2026 09:11:06 GMT"
+    },
+    {
+      "title": "YARIN HASTANELER AÇIK MI, KAPALI MI? 25 Mayıs Pazartesi günü hastaneler, sağlık ocakları ve eczaneler çalışıyor mu? - Milliyet",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYlJvVXpTQXpydEhtVVZKX2JPSjU1OHZQQ1hUUDhxcURyLTlKLUVta1A4aVAtTWhwSFVMcU5ZZExDUnliSk1ZS1Jia0F1VzRGVFJ1WjMxNjFQcWVHdzBWcVVEM2xDaVhCS3V0TjBXaEdJTmloOFFralZvZF9taE00YVkwc0cwRFA2V1p0bERfMlNYbkVpOHJRUU5pdGtZdEljM3dTQVg1MTFKM1JGekJNNm9wdnd2SVdTWVRxUzF0aEZuTFg2M2REbUNBOS1IMUdDZEZWWUFyRXRqUEQ3X1I3eFRnOHBFdDdFVzJObVhSRQ?oc=5",
+      "pubDate": "Sun, 24 May 2026 04:22:37 GMT"
+    },
+    {
+      "title": "Uzmanlar magnezyuma karşı uyarıyor! 'Gereksiz kullanılıyor' - Milliyet",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOXItVjRGQkZEa1BOM216ZWNlTjViMjF0cmdUTjA2a19ZVy1KYm5uR2xOLUlITjljZE8tdkhOQ0t2S1BfeC1WdHBwclk1Q3RtdDktbFotaGJOYnRiam9ZcHNzNzU0NG5udlFnT24xUlROdGU0cjlfZm40YkRxUFdHX2FtdW45ZGRhVDNpcnlmZ1BjNTY0aC03VnlrOVVPV0laa3E0cXJqYjl6MVh2?oc=5",
+      "pubDate": "Tue, 26 May 2026 10:52:56 GMT"
+    },
+    {
+      "title": "Dünya Kupası öncesi Lionel Messi’nin sağlık durumu belli oldu! - Habertürk",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdkljV0Z4VEFvXzhXZmh3Rlp4YnR1SHFRLUkyaWJqcUlFOHA0OU10a29rSzByYzlFdEZLbS1yczZDMlFsUDJzVUFqUFlFRzRLOVM3Zm9YNjlGV1N5bHhnOG80dXh0LVlfLXBjOXZiWUIwZ3dVMmthek1SazlCaEpYbEg2MEY1QkdWNWRTVmV4NEVnWGR1V3lRVjBRMWtJdUtH?oc=5",
+      "pubDate": "Tue, 26 May 2026 10:37:00 GMT"
+    },
+    {
+      "title": "Ahmet Sarlık’tan Kurban Bayramı Mesajı: “Sağlık, Huzur ve Bereket Getirsin” - odakgazetesi.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWxFaXo2QUYtcE9lTnRINVVvLUMyaUdGYy1nbkpCZ0pOX3JRNzNpUTRUeTRzajAxVnZlUkVXZWl4bl9IRU54bGphY2U2QWZ0R1M2TDlOVzhYcS1QVUVoYkhLcjBQSk5WYVhnVHNrMkFiT3VkeDg1N1JfbXR3MHMtT2dzWkhGakF2d01pcHZNQnV4T0RZYU54SUxrTFhJWnAw?oc=5",
+      "pubDate": "Tue, 26 May 2026 14:39:00 GMT"
+    },
+    {
+      "title": "Aydın'da Kurban Bayramı Tatili Süresince Sağlık Çalışanları Görevlerinin Başında Olacak - Mersin Haber",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcTZfQUJZTnRISzl0bGdRYXluU29mRzY0Y0MzMzJGZlFleVBWcU1aai1zdm42UHBTQ2VLZEZsQ0tPQjM1S3dKVnRjU25tM0RFc0lJbmFMMy1WUFlpM2R6Nms2WS1jdlZySzZhYjBqRnQtWnhpSzdPd21rVWg4ZUtpNmVNQURyLU0xbnUwTkJJdVZmT2FqbGtjODAtT2NkQzMyZG1PVkxIU1hOclRxR3B3MHpYalBtX2VaNmRCMWdSWXhZbWwwbFHSAVdBVV95cUxQSlZ4d29DRTBWdHZ3Wng4VHFGblR4amZSWGZ5ZU9WOTBkVDRPZmtoWnh3b3dlWjhycVJaa3FDX1VqNlhKbnVYYVBHanVVal9CdXMwby1oWlE?oc=5",
+      "pubDate": "Tue, 26 May 2026 11:15:00 GMT"
+    },
+    {
+      "title": "Vietnam'da uygulanan fetal tıp: Karmaşık tıbbi durumları olan fetüslerin %85'inden fazlasını kurtarıyor. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX09IOUpqdW1YSDYwd3J1TUJTRzBaajlkUlcydnREODFCVU1kZlRHSUkzTmlCR3lnYW9MWEJkcG1iTTJWMmVXc3FUR3Zod2l6UDdidUlGWi1zYjhTQldycXdlXzEyY1pfdmpCek5vWjVMR3FmQkxIMG14Zk9FWTNOT1dhaFM3Z29jNllZQmRYNVBiZEpHYlBPYmw3SQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 12:15:16 GMT"
+    },
+    {
+      "title": "İntörn tıp öğrencilerine yönelik burs başvuruları 1 Haziran’da başlıyor - Gündem Kıbrıs Gazetesi - Kıbrıs Haber",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObnc3OTRfUXloRUNqR1JaRlllc0I0YWluQzlnT0RkSFZpWnVkc1BKa2RPUkJTMk5oWlVaVi12bkY3ZWhxV0FEOERxelRqa3J1U3RhY214ck04WEkyVlNXSTQ4S1hSeVFVaGdrYUNmaU1uQ1h1N1A0dlU5NHVyZDV0eTliUGZUWHo4aktGWVpvZS16WFlCS3llb01Wc0MyVVVL0gGmAUFVX3lxTFBIOHpHN2Z4OVd2ZV9Tbm9saTlidXlMUC1KY0prTWNjaHJTX01Vcl9EQzlHWl9YY2N2QWZPVkQyRkZXcjBGN0tjY2FjTXNnWVFDYThIMjdyX2RwNTY3QTNscDRrbWx1ZjNralhWSGYzNWpybnp5aXZKS2FKQ3NOZVc2cmZrYm5mbUpwQmtxcVdmQm9RS2o0c3pTd2FicmJQNXVCODl4WlE?oc=5",
+      "pubDate": "Tue, 26 May 2026 13:02:00 GMT"
+    },
+    {
+      "title": "Beş Farklı Ülkeden Doktorlar En Çok Kullanılan Tıp Terimlerinin Kendi Dillerindeki Karşılıklarını Paylaştı - Onedio",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUENSZ3Y4YW1fZU5uWlR3N3dyLXdJUDg1VTUtQ1JDMHJpY1BmbHhTbkllb3JnYW1WdTd3aXU0a2ZnRmVrX2wyWWs1b1BpaDA1clJ5ODlqVnhXZk1ZdktLSld0ZTlqb0FWVWQ2RGl5dk5pWllrdzVoaEYyMXRxazlUV3B2bGpIc3F2VXg2ekVsYVlOQzRHemFCdklpLVJNcWhLUmpHazZYOVFMcl9NTVhMXzJ6TUFTdVRUUVk0ejk0NGZoUU1fcV9uZ2RHZl9rZElCa054VjlB?oc=5",
+      "pubDate": "Tue, 26 May 2026 13:57:00 GMT"
+    },
+    {
+      "title": "Konya'daki acil tıp uzmanından bayramda sinsi tehlike uyarısı: Uzun yolculuklarda pıhtı riskine dikkat - Konya Yeni Haber",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMGJFZUNncTN2OVNpVXV0SEF2VVk2Rm9sR0ZTRW84SzEtU3lfdDJ5TmhNOVczNmlnZl84dlFVdWlKVF9hajJKRFNKcE14U3JFcklIeW5vZWdnWTM2b3plUDRacGViWE1PNzRkWGVzNW9kc0Y2VG1ISDFpN0VHY2RnSXY4amdIcnZZZFNmRnE4U1c2T2RGYXZwM3VkdzY0a1ZFaklBMldvRjZmcEh6UDdzWHpyVnNsTl9UbmQ3bW9PYXJqTHkyWi1sZ1ktdXhWRlFyTC02b0tR?oc=5",
+      "pubDate": "Tue, 26 May 2026 09:05:26 GMT"
+    },
+    {
+      "title": "Uzmanlardan kurban kesimi uyarısı Acil Tıp Uzmanı Dr. Kutada Aldabbas: \"Küçük dikkatsizlikler ciddi yaralanmalara yol açabiliyor\" - Habertürk",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTEZrWlp1aHVTSG1EWDVWMS1jbkRndkxHTWxFZkRDR0Rvc1A4V1k0RXR4TmpmdnVnSVBiTWRZUE42dERxMmFPMVZKSjJMdjVzTUlwakp1QzR1QzZVSEdHaHljczJ3VzYwMWNpeFhyVVUyb1E0Rm4wczJjQWN6S2o0OVhvWWduRFdSaU5pdmJPWWt5VkIzNFpuNjJjOFlsTVZFcDRBRF96WVpBcy1ZQnpkNEZvc0pvWlRuaUxvdUladkVMTVNlZGw3QXpNaURwbmFiT0d6eEtWbFNvSXpWbVBBM0s5QndFX3VNTjBzWURn?oc=5",
+      "pubDate": "Tue, 26 May 2026 08:26:00 GMT"
+    },
+    {
+      "title": "'Bedbahtları affetmiyorum' demişti! Özhaseki'nin damadı geri mi dönüyor? - Kayseri Olay Haber",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcGRuQlZ5dzRKemU1SWlQOWRkNVFrcm44bjU1MDZPTnRJVmlvWGZodTl5ckRXbktIc1BnaC01UDZyTWZ5dHY3OW9IVXZMUGFwY1dPMGU2NXM3ZUU3YTM0YnhONmJPcmVzTXluU0NVMjB2T1d1UjR2Y1htWXc0end2THNValU4VENiWVlQN2N1TEpaUnRpT2hZbUJ2R1JmRnZYOS1qbTIycw?oc=5",
+      "pubDate": "Tue, 26 May 2026 12:19:30 GMT"
+    },
+    {
+      "title": "İngiliz tıp uzmanları, çocukların sosyal medya kullanımına kısıtlamalar getirilmesi çağrısında bulunuyor. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRnkxX2tnZHVlQ3paM0s3S1lfQnVPQ1hmanlkVU41UEFvaDhQaGprRWhaaEtUWHJhUDAzWGtxRHB3UHM0cDAyZWRJYzdfdEh2Nm9MYW9PY2pUQ3dnVmJXakN6SWpmQ1M3WkZ5VXlQNGRNRzEzWUxVcGU4UGlIbVBJSWJJNUJuY0RJ?oc=5",
+      "pubDate": "Tue, 26 May 2026 10:33:45 GMT"
+    },
+    {
+      "title": "Geleneksel Tıp ve Eczacılık alanında 218 lisansüstü öğrenciye diploma verildi. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTE04RnBnMDl2bzlDNGhBV0VpdGFaTUE3bDBldnFiNUt6eGJMeG9JMzRsNk5TZmRKb2NwSEFOaHh6NThrU3JRTFlHMDJVaFRrUXF1ODhlNkEtN0lfZ05CdXVabk5qUUtBcE83X0p3ZFFHM1Fka1Q3Q0lrUkFyWWtDSlhuQ09icnV3SzhTQ3c4enBWSVlPZE1fRTJDbDFfSG00Q1E?oc=5",
+      "pubDate": "Tue, 26 May 2026 09:19:48 GMT"
+    },
+    {
+      "title": "Bir başka özel üniversite de 2026 yılında tıp programına öğrenci kabul etmeye başlayacak. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNzFtUXh6blNyTnQzdEdoR3A2WDRzamtWNmh4SFRLNGF3dG1TZm8tdUtvbkZtVWN1RWg0dVd5Mk50dlV2TjRWazYxT09GLWZ2TVJJOFpYWGh5TnNOUnMzczEta2U5NEpiWmxmUTZHYUcwU0pDcWoyd0I5NmhTeFVwLVFmX1l2d1BWamU3TUFlc0FrcXMyRlAwQUYxUTFVYWFodWc?oc=5",
+      "pubDate": "Tue, 26 May 2026 13:35:57 GMT"
+    },
+    {
+      "title": "Ho Chi Minh şehrinde 2026'dan itibaren tıp eğitimi programları sunan ek bir üniversite daha açılacak. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGszMUFpdy01dEhST0FTVFl5UDg0eDlQdkRxeFBGM2ctNVdLWXItWVI4TUFtNjJjSzByY0dJNTV4MWQwcUxjcHpydzJmbTZuSUphNmpfRXdaUFlfODVDaFlUdnBVM19OVGZKcnBTQWNXSVVRNDc1QnZFcmx4VXFiM19FeG5TbHRzYjR3Q2hVTkdVdw?oc=5",
+      "pubDate": "Tue, 26 May 2026 12:31:29 GMT"
+    },
+    {
+      "title": "2026 yılında Ho Chi Minh şehrindeki tıp fakültesi programlarına kayıt yaptırmak isteyen adayların sayısı artacak. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcS1JQ3dZZWk4RlVhWUJsSXg2dTBZQlcxRGNuZkoxWHJqM29tMTBRdy0wUkxMVVEzZGhNMExWTUFaeWYtMFJBeDVWM0xrREdKRktKVV9jbU5aM1RSOWR5MXlyWmNWTm1MOXJDSG1FS1FUWW14YXo4NkcxZDk5b1NQRzJVd0ZnRjdTR0RBN0tycXcyVzRDZEJmdXNXSnVqRFlYREhJ?oc=5",
+      "pubDate": "Tue, 26 May 2026 12:42:25 GMT"
+    },
+    {
+      "title": "Ho Chi Minh Şehri Teknoloji Üniversitesi, tıp programına öğrenci alımına resmen başladı. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMTFjWWFneWxLX3pZZHlJUUxsNnVtNkw0M1V1SlhRTjY1a1JQS0Fnbi1EYzZPVzRJWnN2RTQteHI3UXRFRWxtREhYam9jMERoMWFUMXc4VVgwUklOVERwTlA5QlpibDFaQ256cFVHMTVXSzZROC1OclhlQkdTNkJxVktLMnZobXBuV2Zqb2k4Rk51RENKc3c?oc=5",
+      "pubDate": "Tue, 26 May 2026 13:41:46 GMT"
+    },
+    {
+      "title": "Ho Chi Minh Şehri Teknoloji Üniversitesi doktor alımına ve eğitimine başladı. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXJnbzdhZmtCb0kzMXFoaTJJMWhVV2t1S25OMXJMRWQzXzBLb21pUlFMQmNhM093QXhxdTRvUXdLU3haOHNOcnlvZ09IMHlFVWpmOVltQ1dJN2lDbVM4ckdGdHUySF9JV0N0M2oyZjFvOC1USW9ELUVhWFc5SE1Md2tqZF8teVRUVjRIc2pTeEpYUDN6S2c?oc=5",
+      "pubDate": "Tue, 26 May 2026 14:22:43 GMT"
+    },
+    {
+      "title": "İstanbul Haberleri - Sumud Filosu aktivistleri Adli Tıp'a getirildi - Yerel Haberler - Hürriyet",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdExTaXdpQXhnOFZ3VGNzNkZsNWxzemZCdk1yVnJwZ3ZGTGY2NEdncHpWQjE5QndMRDBpV2JmS1lKaEE2cmFXQlpOdXAxVURLNnF6bU4zTklCT3I2bVVQUTdzcHVkQUF4cTVOMHNzZ2g3UHZWU29UWmdYYVlUcWZCeVkxN1FVUmlJX2VfU09VN2hLc0VYdHRmTHVnV2puNWdXQVZsSGdiZXpJUQ?oc=5",
+      "pubDate": "Thu, 21 May 2026 23:00:16 GMT"
+    },
+    {
+      "title": "Mersin’de Üniversite Hastanesi Yakınında Bıçaklı Yaralama: Onkoloji Bölümü Civarında Kesici Aletle Yaralanan Genç Tedaviye Alındı - Mersin Haber",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdkhVWnFKR3F2ZkZLVmdPSVRIRWZvRE00eEFKZ1ZqVktXbkN4TTZrd3c5WUttNENZRmZ3LTk2dkhpR0NxRVB4Mm1UWFVuSklXdWtXdTkxSUYybXc1VzV3ZXFsQm5ZOUdnaXBNZC1VdXV0TDljbEo0WTRvNDNxX1lQbnF6N3VBQ2JWREJHYlB0RXB5aGNnajl6U0xEYzE4dExDRC1na1hWOVBQc2M5MkZpbnk3a2pwcmZ5VjR4WHNDXzdxY2F1MzZtU1V0SThUOUtPU2ZETmVWVWZpSWI3Y0lSMXB0dUtnZ3VmX1pUQzg5aDBBc2VhVElCWXhESDDSAVdBVV95cUxNdGtyLTBzbEVMNG1BNjQzSmRSdS1ZaGFEd0NfbThiUVllWTJ3SlU1cV9iWlZQZlhOTkF4cVphVFREWG1laDc1RUREQmRuSWdKYWNMcUhQNW8?oc=5",
+      "pubDate": "Tue, 26 May 2026 08:27:28 GMT"
+    },
+    {
+      "title": "Sıradan ağrı zannetti, mesanesinden çıkan şey tıp tarihine geçti: 1,3 kilogram - TREND - Mynet",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVkFuR01yYVFDTnJacFhEZ1dTX0tEdEMyZnI3d3hRcFlQZFNXdHFZeHRaRmZPR1V5azZvdnZpYkJPX25qS1hMX1R2WFMyLXM5dWVVdXdPUU1WWkxFdHJ6ZVZYenpvR0hYUGhHWGh6RkZyV0JodXBhQmpjbGd5TTItR29lSGxlM1AxY2xMNG92bFEydW5OUlZiZ0MzekhBZlpERnIwUUR2YkQxMk8yTlVjOdIBtgFBVV95cUxPREI4UldmelFVaFM4OUF4ck9JZXNicWFULTZBY2NORXpQZmJ6VUlHRWVUVGJLU1Q3ckE2djNoUnVNc1pxMkdhOHZtSFhUYm9xbXJkTGQzekZYa1Fjem1HU0l1R254Y1hzNVg0WlJiVTBGTzJaX1BHeEpib1ljbGVPZk9NaGRjajVxR1R4THl1OWZ4Qzh4N1otLWlUUjBpYVQwU3o2X0J2UmhPdXVmS0V4NTNZWGgwQQ?oc=5",
+      "pubDate": "Sat, 23 May 2026 06:17:38 GMT"
+    },
+    {
+      "title": "Hai Phong Tıp ve Eczacılık Üniversitesi ile Eczacılık Anonim Şirketi arasında imzalanan iş birliği anlaşmasının imza töreni. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZW1xVDlOOXdER0NCcURYV3lteTQ2aERKcmdiVWdUbl9WcXVxeGEyOEN3c2V3MVQ0UWExT3NwanlQYlhWVTFaaHU2VC1YZm41cjhUSVJaNlJiMndvdFRSdHhwRTlCTFJzSXRLeW52WmZjY1JhcXZEM0RnNmRaT2JKUGZkREtkVGlncEh5TTFUU3prU2xlaVJKenJhVDhyckNKR1ljSUlGLWpPMXUxSTIwR2o4R1A?oc=5",
+      "pubDate": "Tue, 26 May 2026 09:40:19 GMT"
+    },
+    {
+      "title": "1 ay sonra doktor olacaktı… Tıp öğrencisi Yusuf Kılıç’ kazada can verdi - Sabah",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdHBzUDlydVVydEFZNGtYMnhpLUxHSUtHOHEtdWlRZlc4Q3NQRHpBUVh6UExmYm9GdzlQNllwWmp2YTdvdnIyWUc1QTR0TmRXN2FHTzh4Z0p0YVVXd2YyQkZSUXZKaWpQYm9iekFuM0pHOWd6RWxXVFpUWFNwbXpHdDJyc0dkWkxzdXIzQ2JVdjJQelhhQ21QcHdrQ1ZsamViQ00zOHlJcGdDYmxt0gGvAUFVX3lxTE13TTRkY0xnTURiNkJJMml2Zk93eWROeGZhX1pDSXk4TkRUZW16V3ZadXZoa1cxYS1neHNTSlRHeGt4ZHhXenB2cWhvb25sbFpVenhKRFZaX3ZmQ21TeVdGT21pcEdUTktZVmg2bTJ0LV94NS1HeWNKaF9jV1pfeDRnUnFQWVFtdU10NVhJZzFqVjNFWFY5aV96ZHBQYWlLYTl1R2otV3RlYjlNMnBTbEk?oc=5",
+      "pubDate": "Wed, 20 May 2026 10:41:41 GMT"
+    },
+    {
+      "title": "TÜSEB Projeleri Bilgilendirme Toplantısı, Tıp ve Sanayi Dünyasını Denizli’de Bir Araya Getirdi - PAU HABER",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUzFUVUFTdjVqeWZ6b0xNcGFMaEczNGYxbWFpTHRpUUFNQTNseHhpMmhJMEpPc0RhaExtODBSNEFYdklzdVlhc3ZXcnhUMTVVQ2VIX2drNkwyQVAtWTRHX0tPNnNuR2VHVmM2Wjh2UDNoUjktMl9UYU5xS2Q3RDktc2ptaU5aWUFZSlVjS0RfTUNHLXpHN01KbUViR2tUeVR6X1lRR0tEaFE2ZnhfaElaeVVweW9sRHZTYk1KdUk2Rlo?oc=5",
+      "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Gamze Yıldız’ı ölüme götüren Tıp Merkezi sabıkalı çıktı! - A Haber",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZE5qOVg3V19KZE5INkJqcG9NMEpfOTR3dlhmaVJmXzYzX1EzV0JsMDdMTmJMWWNSdC1Gd2swZG42dWJtUFRzTGxuSlkzbHVhSERlY3l5ZW9KampocHFSVEc3aFJvR3ExWXhBNlNWNXpSdWN4anZaZjJBNXBHY1RmOUlnTzRrMGt2SUxsNmdZWW9NZnJ0aUU2OXhUbEZHejlQ?oc=5",
+      "pubDate": "Fri, 15 May 2026 03:57:51 GMT"
+    },
+    {
+      "title": "Karabük Üniversitesi Tıp Fakültesi Ek Hizmet Binası Törenle Hizmete Açıldı - Karabük Üniversitesi Medya",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZmNrQzROeXJHOGhLdzJTdmJfeWJ1MmRvZzNBYVBqTmlGbVpycVJYZ3VkYXc1UVhEQlgtRUxnTmZRVEtBaWxYUk5MYlJJdW5MN1E1NzlERVd2MDBVMFhIQXpFRVhRWVBCNVc3QlJCRHNGWEtKdms2cXVQZnNQbkNwRnFVQWVHSlI0YzVkMkFGUnZnWm9BckZZZ09pZktCdGtLeXBhZXpGaUdTZw?oc=5",
+      "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Yunan adalarındaki hastane ve sağlık merkezlerinde personel krizi - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc21mclR2ZGlkVEMteS1POVlleFBEb3BVcWlhZFpMMEpseUEta3pBU094SHZLUS1RNUZsX2kzUWtjNmZ3UWlNYXVHTFJlNW9CeUZIN3N0TXRYNTA5eWQ0S2JnTkZucXVuRHJ3VGtiTFR6b1FBZkEzTkV3a0xWOEdpVHYyZVJKUjQtU0tuR0RXbW5DcV9PbkJTU1c4cGFQVG9PWkJqbnIzTHp3Z3c?oc=5",
+      "pubDate": "Tue, 26 May 2026 11:48:46 GMT"
+    },
+    {
+      "title": "Hakkari Devlet Hastanesini kanalizasyon suyu bastı - Evrensel",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNclNjTXlsVUVWb0lKMEFlYnlva216dGZTNDY3RXJsUkxjZzJ3em9TUVNoUjZ3T1JWd0poVDh3VzNuckR6NjMwbDY3RWJoM0NtTmd6OUJoSnR2MzhIZFRhMjF6WmJVY0J3eVJ6MTVzb1JnNGJMZkd0Qi0wMmRRTGJGT1o1NTNKdU5FM1dSek84WXU1Nnc?oc=5",
+      "pubDate": "Tue, 26 May 2026 12:08:00 GMT"
+    },
+    {
+      "title": "Serinlemek için girdiğiniz havuz, hastane biletiniz olmasın! - Sabah",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYkJaWjMwa2t0Qm9NU3NmQ2E1Mmw5RTk1RDNta3VpQ2htNmdxS2dwM1hkV3V5RUt3WUowQmlJdFJKZ3RaRXMtNG9NcnR2SjlBY21qTjNrZVJhTXRqN1VmcFRocXU2eXk3TzBvN1NBeGhQYkhlbWpWVVgyTlh4eFpOUThQMkFZeGl1Nm9wdnlTdlAwUDVocGhMeXV0VdIBngFBVV95cUxOOEpIWU9UaGt4X1BQbmZnU2xLeC01cWdhY1hKcFlVLW5zbUZwU0FCdHpuNU1MSENPSnJZTm1SQkdidDZRaW03Z2JXcXlvVElvSkU5VS1fanMzeWNfRC1vcDkxdF9Ed3EyenBvMkZ0Sk5xM05jVHZ6WUplTUhnVFdMOG5NVFVYUjBnb2p3U09JMzdWMjF2dnZyNDFYNDVqdw?oc=5",
+      "pubDate": "Tue, 26 May 2026 08:53:04 GMT"
+    },
+    {
+      "title": "Asker Hastane tartışması büyüyor: Tabipler Birliği’nden sert yalanlama - Haber Kıbrıs",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc183RHFpcm5rdi1zRjFpVGpSaEJkeWh4eG85N2ppWGNQaDQtcXlmR2xCZldOV1FBci1UYVNDeHp1WjUxeWpqXzN4T3F1MXNRcXJCYndvaTVYbC0xbUlHdW1TY0JVY0s3c3lGOVRMSVdDN2VnN2pKeGQyaVUzb2NvVDNZQ1psUFdkYVhlTkxIaWlWR3lENFJnYUVRbXFQTXNrSWMzTDdLSDcyV0ZsaGI0NVpvNA?oc=5",
+      "pubDate": "Tue, 26 May 2026 10:25:10 GMT"
+    },
+    {
+      "title": "Doktor, hemşire ve hastane çalışanlarından Türk halk müziği konseri - DHA | Demirören Haber Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3NMOEw1d1duMkpBTVN2YkhBMDFLY3BLdHR4M042QkNfcFNLMnkwalR2TWRNNzNxQklxSHhwV1FTU2FlS1FWX1ktdGJSdDlnYTZkSmE3SjJaQlFJT0NCOFRkUHpzTFU2Vks1UUs5RkIyYm9VUTFVV1VvSUJEN2xZOVFkbXptVTZCZHVlbU1mbTJXYkR4M1llTU1nSGR6eW_SAaMBQVVfeXFMUGpwTk1lU0U5OVM4a2dhOVJIblBqaVRselV1SXpjdy1oNGlXX3JqZmZHZ2NNYWdqNjZvRU9MZ1AyQnZTcDdQZGNCRFZJZnlOWnloaUhUb1pINUF1SDMyendnZUUya00zcWVRWjV6Nnl6anR2OXJMaktNYTBUU21Ja2F1VWlEclFQTFA0bmJUY0haT3JfU2VIUXZ2TEZQOTdCY0QwVQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 12:10:21 GMT"
+    },
+    {
+      "title": "Trump yine hastane yollarında! Morluklar merak uyandırdı - TREND - Mynet",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbXNvNlFpUFpmYk44YmwxSUkzeUV2N0tLXzFpeGZJeG1YaGR2a0t4NTZKUUJLYzZmZXJWeklickU0R3BURm8tejFpX0cwTDZYbzRtNUxpZkFBX08xVU5KX0tMMUN4V19RazZacnRpemNjblpoMG5YeEtqc2twZXFIaV9USU0wbE1TRXZuTFhiREdKWVJv0gGaAUFVX3lxTFBFZzZpTjRPRzZsVU9zRkRiYkxmd194QXFMS0g1MXhWa0lYWE1qM05fd080aGd3X01HbHpEbnpGS2dNdWE5dEp0OElCNXpjTmVkcDNvMlBLckJsbDByOUVSeTRPUXFMNjZkdXJac2FsaTF3eFRKMy1CMzMwdVV6dnk5QVBlMDVCangtYkxCRU9ZTWVsUVFhdGtsV2c?oc=5",
+      "pubDate": "Tue, 26 May 2026 13:52:10 GMT"
+    },
+    {
+      "title": "Bayramın 1. günü hastaneler açık mı, hizmet verecek mi? 27 Mayıs hastane, sağlık ocağı çalışma saatleri - Sabah",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRHdGeUtTVTNmVEtWU3I5bS1MT1lialVJdEljNnlBN1dBREt2LVJpdmpMeHJTWXFEdm5ZNTBfaU9WWE10VWVCTTQ1YkhYa0FQejg5SHA3OC1HQnNFQjkzc1YtTE9vdUJPSTA0TFdQRV9jcG1kdk5iZHhQQm9hd0g5MGloMHFuOWItalJQQzRfWUVlUUpPRnUyc1djazlvSXQzN3pYNjA5ZC1rOG9TQ0l5ZkpqdHFvUERHNk9KQnJLNk5NcmQ1M3ZBZEdYZ3p4ZUYxUzVoLXFqU0Via2PSAd4BQVVfeXFMTVhwUksxUnNNdzFIWm9Mb2w1dm5WazkwXzBSSE5MS2N5WnVvVTZ1blVHamZGejRTSkpCNGk4RGRyYV9DaDc4UmJtTm52amJib3BjUmg0cDBXX0x4SGkzTk9kbXFKcktyWWhNQjRwU21IWmoyQUtBRkRMMHhXRTN6Ri1WdndhVXUtU3RxMmJ0NjZuMkdhTG1RNU9WSnhtY1pBTUxpcWY4UUtrSGtsN3ZNY3JpSkk5UEI4LVNuT3ZhUGd1c1ByR1A0S2MtakJUSTdaR0hHc29BRFp5YkpMb1l3?oc=5",
+      "pubDate": "Tue, 26 May 2026 15:09:41 GMT"
+    },
+    {
+      "title": "Sahte hastane randevu linkini tıklayan genç kadın hayatının şokunu yaşadı - Çorum Hakimiyet",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM1NxbUxGU0FlYWpiQkVCam03VkZWcVY5bV9IbWNlYnlGcUFKNWk1REZvU0xMWk5ZUGgzU01nS1hMeThtdjhPOEJFdV9vSkd5SXdPSy1PMDhNMEhiOU5xLUt6aTZDamxLODZkQVBxY1Vad0d5ck5tX0lCMVR3Q00tQWpsR2dfSC1iYUVDNkk3X3hmV3RlWHN3ZmlLZXprbXBiWVJ1YlJqVdIBrAFBVV95cUxQZG5mNW85NkdtcElmczh6RVpkRmFpc1VKcmpMbC1SRkVxZkM1ck1lRFRtT2VYT1FrWmRLbGo0Y1BRa2dLaGpVU3ZIQTB4YlQxdllkb3NnUllxam0wX19qQnkzenBadzFfQlZWdlUycUJ4M3g3RmVNUDYwaWxwM1Z3RjVKRm1GZ1pOTE1yNUQweEdBTlhTQVpRcTMyVzlUX04tdVpBNzlvTlNFU084?oc=5",
+      "pubDate": "Tue, 26 May 2026 09:53:00 GMT"
+    },
+    {
+      "title": "Hastaneyi kanalizasyon suyu bastı - Politika Haber",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zZzB4WWpVT01CYzhrTUxKUldOWHJPaUo2VWc3aktha2d5TFNWZTY1Mi1LcUxybWF1dS1hdXRld2FBOEpSNGpCYXZIM0N1NVR3MnNVd1JTd3pWeWc5U251VVMybkFreWdqN1RyUg?oc=5",
+      "pubDate": "Tue, 26 May 2026 12:17:50 GMT"
+    },
+    {
+      "title": "Merit, hastane iç bahçesinin çevre düzenini yaptı - kıbrıs postası",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUJINWE1SkdTdkt0WUtldEJmTUVjd3dyLVVxVGpha2FfM2RISFVTVkEzUmtoeFlFMU5WOXpvTjRsb0FlTEVVblFIdi1CYjZqanR0QXVSNjl5V09oR25uWlE2aEFWbS1yenFUbUtUcVFuc1ZQUkZXdzRucnlYRlZtLWE4MGFmVERDOGFJMWptU2dsLTEzZi0taTZMc3BVbzUwd2NkV1RsY0F2UVE?oc=5",
+      "pubDate": "Fri, 22 May 2026 11:47:00 GMT"
+    },
+    {
+      "title": "İbrahim Tatlıses’ten hastane sonrası ilk mesaj - Alanya Postası",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOGdLTVdyQ2d0RmhBZjNLaFVSQ3lQU0NKX00yM3dwLVFzRVU1VUFtc3F4OTRVckprRm9YYzhuY2NMa0xyNjEydUxXUjV2V2VJb0wyMWxMYzAyLWU5TThsSkVKUXJwSVRONzJnOTBKV0g2a3ZkeGFfTmN2X1d2VTFpX0hMVmQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 09:55:00 GMT"
+    },
+    {
+      "title": "Hastane Çalışanları Bayramlaştı - Aydın Times",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkNWJBLVJrUGtGNXpScDl0a3hIdmt1ZGxydk11S2lJNmpDVlRVZ2dPenNEUUhnSkkxSkNnNmUtMmtzVHpXN29IdjliUU94YkpkY0IwRDlnWjE2Rk45eDNFcEZwS3d0VTBvdDZaYXNpTdIBb0FVX3lxTFBkNWJBLVJrUGtGNXpScDl0a3hIdmt1ZGxydk11S2lJNmpDVlRVZ2dPenNEUUhnSkkxSkNnNmUtMmtzVHpXN29IdjliUU94YkpkY0IwRDlnWjE2Rk45eDNFcEZwS3d0VTBvdDZaYXNpTQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 10:04:00 GMT"
+    },
+    {
+      "title": "Hakan Aksu’dan Sivas’a Sağlık Yatırımları Açıklaması! İlçelerde Hastane Hamlesi Sürüyor! - sivas360.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRDNDMEJfN0dEOGQ5U21tUXJjY1VOTGJaei1zbzdwMDkwYmxhS0tYZWxCM2RSdEk5UmpyemJya3cySGFXUUd0dEJCMGo0ZkY3bENkMkhfSlNxYWpOaldxOERWVXJKLU9TQTVGRkNXdWktTHBoU1g4Z1ZGaG9PM2h4QUhzNmJ5NEFhaXM4OUFaakVMRzBkaXlDWk1wR3RMOWFqRE0zZTB2eTlQTG83TlA3UVRRamFfM00xbVFXYg?oc=5",
+      "pubDate": "Tue, 26 May 2026 09:45:09 GMT"
+    },
+    {
+      "title": "Hastane, hastaların sıcakla başa çıkmalarına yardımcı olmak için çeşitli önlemler uygulamaya koydu. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNDNtdmZEX2NnaGg0bUJQejNJT2QtblF1VXNLR29td3ZKUGZfOXcxaTJjcDU5SUtXYUxLRVZkbnFwQTZ1bGItQ0lkUHEyYmozaVRyR3pGb3pwU3FDNE13V3hOSW5xWmE5bE9hLUZlNzZVWkp6b1FCYUFOeExmTVhyb2Y5aHRMZUlIdXRsOW9XLThYVjBX?oc=5",
+      "pubDate": "Tue, 26 May 2026 15:32:09 GMT"
+    },
+    {
+      "title": "Hoa Hao - Medic Can Tho Genel Hastanesi, Bakanlığın hastane kalite iyileştirme kriterlerine göre 4,67 puan elde etti. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZXJ3U253Q1lrRHFfZG1DMmwtbnBDX2tCaldNbEFLeWtqNlJMbWcxeFhsVnhBSUlZV2Zpd0xKcmE5SjVBZTBGTjNXRk9femxjYWIzcjdKNlJOV3dLMEE4LW85UXNEMGtyajZ4ZmhuUkpna0pVSmNJeFpnN0Jrb2d1YjBvckRvMWJPSjNtWjUwOXRjcE9pM05HejZOemNnQXpFb3phWUlQbkJpMFlVV2FWenAxakpGR0JCeUFIb2QzbjNzTk80?oc=5",
+      "pubDate": "Tue, 26 May 2026 13:12:02 GMT"
+    },
+    {
+      "title": "Çorum’da hastane önünde “Hasta indirme” sorunu: \"Araçlarını yolun ortasına bırakıp gidiyorlar!\" - Çorum Haber Gazetesi",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVVVRZXpNdjJtVndmeGxZM0pqekR3YmVDaXVRaWZwenR6YnU3Q09RaElSemdNeTFRLVJ3Z0xrcll5Z0dmZUxpTXFlVHVnTS04T0xpTk40Z0dxRnFVNTVNMWVpeG51clhPWkd4N1FzZVJObXJud253LWVsMjJUVEFLZFBFZWR3WElweEt0bGpLVWNSRWlhWjNKTThlc0JvSWRSSV9kLVBsOUVFUktSMUdIZUY1U0dKZ9IBuwFBVV95cUxOenFKSGZxRVEybzVqd2FHWGJyNXBtYlVQTGFGQktiNTh0T0E3UHJ4QnlKNUdnbERTWF85TnRYbVBSTU9FajdPUVo0bF95MkN3N2dLRTYxUy1zN2lGYzdHeER6cnlrNU03OUZLNTdFWjJoeGM1S3FwdE9hRTJhQUd1NmdHTEdFZkEwc0hsdzRleHhFSnBacHc4RHdHM2pzb0J4THJ5QTc3bjcxa3VEQWM5NWppRWNXUmVRNmVr?oc=5",
+      "pubDate": "Thu, 21 May 2026 10:23:00 GMT"
+    },
+    {
+      "title": "Samsun Terme'de Kurban Bayramı Nedeniyle Resmi Bayramlaşma Töreni Düzenlendi - Mersin Haber",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ29reEE3Nm13X2s4VXNWUDNxRnR6NGdwcWc1YTV6emdGaUxTaEN2SW1GVl9EN0dlbTEyOW9FTzNPa1l2X3ZDSGlXSWxZTzhidThibm1hTHp2TktzM192cG1PcHdtcUg1d0lKZUdVNDhBSlViNEdBTHFrajVlUkQ1MkQ5XzhpZ09pZmRJN24xLVpzSVFna1daUk15ZTN1LUVqQ0dtTk9DZWZzM1h5M3FHeHJxX2o4b1XSAVdBVV95cUxNbmgxbWt0a29FQTVrbmt2azFBZm1DS1lTMzRuUm9KZGNPMkpBb1FEcTNPMGJBaDlxcFpsT0ZRX2Zkb21DQ1dZY2JhS3ZLNThBelM0enpCUXM?oc=5",
+      "pubDate": "Tue, 26 May 2026 08:15:00 GMT"
+    },
+    {
+      "title": "Hastane çıkışı gerginlik! - Bursa Saati Gazetesi",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VX1cwWGdtaVBzUWJkVVdTWXRRWm92bUU2a1pER1Zqd2xabDF4VDY4cklvaTVYbVREX0wxOWh2TzQxcUJqSzlqdWJ5QmNhWWVaNHJtWkpDLXdBcFI1MW54MmNKZVTSAWpBVV95cUxQZXp1S2FaWTdNUXc3NGZ0dzdlZDRuRHNidnY0Q01EdWpBbHZCaWxrRTJoWTFBejlULVFPNkIwMDkxZjI3T1NRMk9XVkVIeXZQcmFLWmFacnI2Ml9HR1BtWmZMZ2RFYkxIbWdB?oc=5",
+      "pubDate": "Sun, 24 May 2026 16:47:00 GMT"
+    },
+    {
+      "title": "Elazığ’da özel hastaneye “sahtecilik” operasyonu: Hastane patronu gözaltında - Sözcü Gazetesi",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZGk5dklIOVVJNVJOalAxWHlQR2xYUUZEOFVNcjhHTTZFY0w1T3RDWXpiaUlFdFRvSEpsOEpkOTZkRGtiaHRtNnNwcnVjc0xQb1pQNk93ckdsVUQxX3BzbFVoeUZDb2RuYlNyTUNuN1VENGVkeWtxcHBaYm5sdXdfeDZGWWN3c04xWkd6bTdqbjVCZ3V5WVhaSjJpRUtRUFdOR0lNVGlETG9SUVMtRjNZ?oc=5",
+      "pubDate": "Tue, 19 May 2026 07:22:31 GMT"
+    },
+    {
+      "title": "Sakarya Üniversitesi - Sakarya Üniversitesi",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yREFLTmdmN1NZajc5QnBVYlphNy1LWU5EV1BBUFo5Tks3MFBfbnd6UTFnNFFSTTVSVHRjWjBTQ3dNVWxxM24wWGFGdXVFNEVrdU1QMnJZYndZTWFJQ2w1cGE1ZXptczVIZzdPM0c3MGYzX0VQ?oc=5",
+      "pubDate": "Wed, 13 May 2026 07:06:12 GMT"
+    },
+    {
+      "title": "Bursa'da kritik hastane için düğmeye basıldı! 4 bin 500 metrekarelik dev yenileme başlıyor - Bursada Bugün",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRnpyWUVNRzFldXpCd0xmWkdSS1RKRWZWV1hqdllNOHFONG45VzhMdlJVRWhHa1pQX1hPa19KNkpVZHpaME1pSXRwN1g0SHJibVM5VlFrOTlILUs5b2xzdWNGVnRqVWZqcEJlb0dudHpuSFREbUJsbTc0UzZHMW1FQjZLbURNZ0swNEhodTQzQzZTcm5xbjRNVnVwbjdYM2tzUUY1WFNscUFzSjBDWF9SZ0FxbXBFblNYTkw1Wl9yRkFSc0NhLXdacHBMcTBIczFIbjRF0gHWAUFVX3lxTE11VEpkVmR6Yk9HeDJtaG1ZS2FMUUN2bzdBWnEzZklKWV81YlA5cnRmUF83YlNRODJDRFBKWFd1OVljaVJIRExzUExqSTBFWlJMV0lqdDhRVUIxOW5MSDhuenIwMXhwTG9IYWU4OEJhRVpDcWNYaW9Gei0wYVJmd1luNVpLUlVlQVo4V185cXJGTUd2M01nMFRfVkxyd1JaTTR3LTRMSTdMSzFZRjhLdHl2WEFOU2xwT1VEMWg5MTFieWZIbVJoQ09MdS1iU0JLX0FjR3diQ3c?oc=5",
+      "pubDate": "Thu, 21 May 2026 06:51:00 GMT"
+    },
+    {
+      "title": "Survivor yarışmacısı bacağını kaybetmişti! Hastane odasından ilk paylaşımı yaptı! 2. defa ameliyat mı olacak? - Sabah",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcEdYUkFWVHNKMm5DengxaGdxVk1Iam9EX1dRX25EZmpYQW1xNVJuWU1NMkx3dzdRMGN4d2tzYVNGaDZnTmJITzBwT0laYkRSYW91QVhaejVwWVZVR3RwekJucWpCT0tqeWlJWm00SVJHZFphRS14R1BTOEFYRHpEaWRGYndILXJaNmRyTlBCTFg4LW1GSlV1dWJFcnRmNWFzdFd6Q1NrMXQzM0w2Nllkc3ZKV2tfS19aSWVHdnRLOUYxLVFTbnZHZDlYZTFZTDExSUxpUTdidEFVNmpGTHlQZjcxUlBqUdIB6AFBVV95cUxNNm5JOTREOGhWVHE5Z0xKVkJUNDZxMldiT1NwVVpVYVYxc3V4d2ZNLVpscFBmVy1rUzV4SnlRem81YW9DeGozQzQ5aXFybUtJZDZQZl9qZEw5b1o2QVpJLUhiVGpnNVA0cURkcUptR3V6bFlCYUtoNmp5UVlfeUxaN2o3UUZfb3ZuSll5Y1BmWjFZaWlkTXFOOVFYU2V6M1FEUDZXSEI2S3ZaNFhjVXd6SXlmRU5hSWc1TlY1Wk9ZY1NHOG1RNTloX2NxQW1TZzlFSUhqZ1gzZ1VKRkVQTlhFa3ptOV9ma0ZG?oc=5",
+      "pubDate": "Mon, 18 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Kuzey Eyaletleri Hastane Müdürleri Kulübü Yıllık Konferansı - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcTM2MUJyM2o4NWZhMXRKaURtaEc4MmMwVmY1NE9Tckh0TjByOGVuSVg0bEgwUWpXT29Fb2JWblY4c2x2aVlQOGRQZGRIRVhra2ljejk0V003eHZEYjFjU1FReVZKczB4b05YZFNhelNHXzlleERLdjZGY3o3OEc4ZGUyR3NJdWdJaUFxNFVBZXBWaFY2VVQ1Qm9B?oc=5",
+      "pubDate": "Sat, 23 May 2026 06:55:43 GMT"
+    },
+    {
+      "title": "Başkentte hastane öncesi acil bakım: Hastalar için \"altın saat\"in optimize edilmesi. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWNPbW1NWGdpYlRFNjFFSG90YlQ5YXJnTUZScGhLeGg5QXo0TEpnNGRHd0hTTzlhVktrVjJfM3JWTWt4aWdjZ0s4ZTl1UG5GZEgyaXNOdlIxTFNIUjFEdXlWQnFyZDR6dElyUG9JeElEbDNTUmtzaGlYSmN4eVZTSFZtbXhRaXZxblRRNzdBS1pBUQ?oc=5",
+      "pubDate": "Thu, 21 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Doçent Doktor Dao Xuan Co: Teknoloji sadece bir araçtır; hasta merkezdedir. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeEh2ZVlnMi05eWx5VDdEdi1Rcko2Y09qX1dhZ245MHRuT3ZveUVXSlU0WURtVmlhSWxtcjJ0SHNBb1VRWkNyZDBXcHI4dzctcGd0bkt6OHJfb1JQUTdtVDBqY0hWZUZjOFlJNFdtV1FGTm12MjB1TWFBdmttNWxSTXVKV21Ud0FhMnM2YVNfM0ZRZ0wwUnRQRzFPSWhqUQ?oc=5",
+      "pubDate": "Sat, 23 May 2026 04:35:45 GMT"
+    },
+    {
+      "title": "Gece Fenalaştı, Hastane Yolunda Yaşamını Yitirdi - Gündem Kıbrıs Gazetesi - Kıbrıs Haber",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT0lJSTZuVTg2eWs3a2ZCbnp2cWkzcHEzR3JsQ0NCTmUxRXlRa2xVYlVxR1RBMV80ZkJhazM4b09RRWdxT3BFTU9ybmJzWHFtaGpLakJNckdMRVlaUWZ6Z1plSU0zTjlfTi1DazNPTUxWQ2JzMW5xMDBWbk4xSGRHVFRn0gGHAUFVX3lxTE1qNHRBM2J1cDJ1VHdOWW5xenFHWVN0Wm1EVlJPZl83LUV2V1lnUEwtYW9OcXVQMWRQbVpvaElRWVJmUGs5MzRKQnZ5OF9Oa1dNdEQwbmtIam96RG51X2RtWnVtLV9yU2g1Ri1RemszNk5MaGVldHdMM1djRlpBR1NCLU1OZGRYNA?oc=5",
+      "pubDate": "Wed, 20 May 2026 10:38:00 GMT"
+    },
+    {
+      "title": "Medical Park'tan (MPARK) yeni hastane hamlesi - CNBC-e",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdDI4UTdhQjY5RXFaT09BVFRHeGZZTnE3M3VISDc1V1YtNEllcHVFeVdHbHY4RE1jNWxnbVlaNHBYODNyLVRIWWZKTFNzcFRFeTBCNS1nRllPcElUYjBKZzVXY1hkRk50ZmUtRE1nbXpEaUJkZTZka0o4MGZRbmM1TV9hYw?oc=5",
+      "pubDate": "Mon, 18 May 2026 21:38:00 GMT"
+    },
+    {
+      "title": "Tedavi edilen leylek çiftinin yavrusu yumurtadan çıktı - T24",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaVlUNUV4SnQ2MmVZX1dWX3lzdXh1U0p5U0sycVRTQzl2aVI2R0x3d2hnUHZ3UFFYZ1otc1BPeTlpQmhzUjdWXzROYXhRSEkwWkV0OUhuRVJWYmJIYk9ZY2RvemhiSXpQc2N6TTJpV0hhSUZvc0J3Rmh6RW9sOE9pNUhFR1RzX1lxRXl6dnVB?oc=5",
+      "pubDate": "Tue, 26 May 2026 11:15:00 GMT"
+    },
+    {
+      "title": "İbrahim Tatlıses'ten sevindiren haber: Uzun süren tedavi sürecinin ardından hastaneden ayrıldı - Bursada Bugün",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQXzd4T0JWQ1dORUpzZTNUTjVrTGJ1dTZHT3pGWkVyS3dhc2dvUDYwbVZHY0U0Nk1pdUJlSVFvSHhuM3NoMGpXVW1FXzlzUzZPZ3BLSWRuLW14VlBDOC1EcU93RXpmTjQ4YzZVRTc3Ul9vWkVES3VNaUdyU2k3Tks5N2pWTVdSWWtMNTlhWEZCUnFpcmdhMFYtMzZhWGFkbnJjYVBrSktmQTlFdkhUc1lORHlZMWZ2UW9Mdy1RVUh4N1oyNHlKRGcxUzNVM2xiSjYxbnVlR2dMNzXSAdsBQVVfeXFMUEM3MGNQekJJWGxNbXA3U1FNaUxRN2JrTEs5NTNzaTBPZm1tbnVscjlQdEVUdmJxb3p1ckpzOWZFTUVjaGdwWF9zR3RJX05pdXBFU1JMRk5TbXBSN2MyaFo5U3duNW1FM1JxQ3puUUNaTHdETnE2ZUtKaDU0SjA4eGE3d3pFLTh3bklpeGZJZkt5MUwzMXRpWUtwVDItREJRa0pnbG9tN1VmV1M2a3JpZzNyeGNBVVp1WUFFUDM4MTFGaTRiWXlfZHJqWU9kckhnQXlhcU5VVlktV1B3?oc=5",
+      "pubDate": "Sat, 23 May 2026 05:12:00 GMT"
+    },
+    {
+      "title": "Uyuşturucu nedeniyle koptuğu ailesine tedavi süreciyle yeniden döndü - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdjJOZDdvdXNaTHlLdjFhaF84WUlYTHpPUTRNZjFNSjBEQnZPQjBVRjBzcHR6TUQzVW1jRHc1MndPRHQ0alZDdjZaMXdYUHJEcUQ5dXN0MFVJdXRhOFlsX2VVekFYWTc0dHZsNHhsMVNLQkVUUHdUTGdlbnRIc1RYWHpSZ2dzNVp3eUE3RlM4RnZlSk9xQlJyQ19MUkJxUlZuUzVNcUVITWJvamx0dHRfZU5YQXpzNFNBMURsU0pXZkNyaTdpNkhZ?oc=5",
+      "pubDate": "Tue, 26 May 2026 11:57:29 GMT"
+    },
+    {
+      "title": "Göktuğ’un Arkadaşları Tedavi İçin Seferber Oldu - Manisa Haberleri",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ1hzV1NKeFI2U1cxVTBfeHdGUWRreGU1UzVvcDNQeUJudkktR1lmVGVjUmZkaTVLa1h6QkxkZWhwTzlFdmhLb19hTXRLd1NkSzltSktJUjM1ZnhrSFpIWnB0QXFMWlF2SGtiaE5kRUpPTkZGb05VTW4wU2xpa0k3UXlpWVfSAYoBQVVfeXFMTl9yM2xHdzZ3RmJuMlZtWS1aN1EtLWt6UnoyYWh6Tjd5MUptRTlvQmlLRzN6U0lXWEZpdE41U28zWlg2OW0wblFoSnFGdkdPcFYwQjdtNnpPYXdIbk93dnpCWi1HUW8xUFJpSUlSR1pZYmhpQ0xwdmhwWElxU05BU0hhRnk2UnNiVWt3?oc=5",
+      "pubDate": "Tue, 26 May 2026 14:31:00 GMT"
+    },
+    {
+      "title": "Trafik polisi, 16 günlük bebeğin acil tedavi için hastaneye götürülmesi için yolu açtı. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNkx5bnFaWHVZVV9MZFMwY2FZd1I5Tl9lRjJaUGl3emFmWjR6bUFoamtETjhBejRzUUFpdkNiazN1R2VTYWROLWhQYnl3X2c0dm9ZQ1ZMWU5oNk9sMzZUbWdic3NLLThiOFRraU9WZ2JlMXBGZXBNSnJZa09IeWRQMTVRRFJPUkRZdmtSMWNZaWZ0cE8y?oc=5",
+      "pubDate": "Tue, 26 May 2026 12:42:17 GMT"
+    },
+    {
+      "title": "Portekizli veteriner hekimler, kendilerini hayvan olarak tanımlayan insanları tedavi etmeyi reddediyor - The Portugal News",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdnVjZldpUXRFcnpHN1BqXzVjLVNFYWFCWmtGSUVNTWsyR0tOcEdQbndRNFNQTHFmaFhOT29hTTBsT2M2Rk82NUJIdVRGdmN2SHRoM1ROemNzdjMzZk43M1BoNVNULWRNbVprWWF2N2E5aF9hU3ltWmp3LXBJMG1CcVU4cTF1ZjMyUmhITEtrX1d4WFYzaGhwOFR5Um1wNFNXMnNmc2FSdlU4R01tdEdtdGJPWXVqQXVpWXlsRHVZRGd4Q3hMNXphXzlISTMyZS1pMGxBWkZKcDM1Q3c?oc=5",
+      "pubDate": "Tue, 26 May 2026 15:33:23 GMT"
+    },
+    {
+      "title": "Afyon’da KOAH Hastasına Umut Olan Tedavi: Oksijen Bağımlılığı Azaldı - odakgazetesi.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRHEyUGFPTjVRR3dBNEhBSWgwN1dNYjVBMlNuaVhma2diTFc5b3pxRkc0WFhhVGY2dUlrX1hIMjAxMzdxTVppejZDV1JrRWNPNGFqSlFHZzVBdGZjYlRiUGI2QzBxdTZ6cjhDT2l2UF9EcTdOTG5CYUxWMlRPNjY3SU45aFh4b3hmMzhWYzc5TEduSHBMRXlRd2Y2NA?oc=5",
+      "pubDate": "Tue, 26 May 2026 14:22:00 GMT"
+    },
+    {
+      "title": "Demokratik Kongo Cumhuriyeti'ndeki Ebola tedavi merkezleri yeni ve beklenmedik bir tehditle karşı karşıya kaldı. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWVnRG9uWUM4YTdfXzJQWVRoOE5qQ3pkZmZRdTRnTEJPTDUyeXhHZ05sbTAtTmR1bVZLbFNHWnFSVExzbHM5Si1FRkxpSk9FZUdpMUhoYWJVeC05akNzd1VyVHNFbGJ1aWxxR3dMQ3NQcVpYZjgweW1zZXVTRnFDYVd3Rk5lLXVTVFo0WTMxaW4tMVRWdjkwTkRsMVI4c1gy?oc=5",
+      "pubDate": "Tue, 26 May 2026 11:15:47 GMT"
+    },
+    {
+      "title": "Muayene odalarının sayısını artırmak ve sabah 5'ten itibaren açmak... böylece sıcak günlerde kanser hastaları üzerindeki baskıyı azaltmak. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEFIbzFTcmhfZkd5MXpaOWNDRm5Gam9seThWbk5vd2FDUXF1ZkkxaEFFZmxnSjQ2YnJLUS10S09DTFhwMFk4X3NUOVJ4WWhIM2Zrd2M0WEY0eFdmcUUxcTlUVVhCOFpzamp2YzdnbnZlVnFNSEx0RGlpdXJ4Y295ZGkxLXV0dlk5dmRubGlVMnZDTXh0ellLNVNtN09VWWpCRVM0OGlxSTM1LUdBSFZ1MlNR?oc=5",
+      "pubDate": "Tue, 26 May 2026 09:50:42 GMT"
+    },
+    {
+      "title": "KOAH Hastasına Balon Tedavisi ile Rahat Nefes - Son Dakika",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb2FqUDEtT1FFd1ZlMlNXYnpFelpjb2RneTlPYVVqS053MFFfeWxIel9udWk4ZlBzU00xOUFsSE9FUEY5SVZBTTNoZ0hnQ21XRWJrbE1SZEMtZ2Q0YzEzZDZUY0Z6azZRdTExNU5HWW5XT0xsMV9ua2NseklxTkJIeXNEN3BnVk1Qb0M2RERHVkJ4QzU3YVMyblZB0gGWAUFVX3lxTE55bjNnVlVQd0QzMkxEMGU0Q3FMSUZENllPTlRPcGlTVlRnRW5QdlVhYVBPS1pnR283SjMwRW1tTTZNY09IYUhYTE1sMVhBWG55VFpkcHRmRjUtaTBDSnhENGJqeUE1ZW9mN0R6cVZvZVBnUVVHZGo1NERKQ0VxdV9fSzNaTXRPVHlZODk3TFVJaFVfS3k2QQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 08:14:43 GMT"
+    },
+    {
+      "title": "Ebola salgını: ABD’li doktor Berlin’e sevk edilerek tedavi altına alındı - Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMzRkbFAtWXJOcUtBQlZiYlVkbXpld1lnbjRnOHpDbUlQRGVIdzV5Q3lNcFViZllMY2ZkYkJwQjlPMG5FS2JMZ1Jxc0laX1BLQk9PWHBoVW5UbnlzQWNPeXZOSktkV21SMlVKVmt2Ym9SNlIzRTRFRGpUUklRbUdkWkstMmVvTXF2OHV2emVwWlBUUmVIa3dFZHBSNUp2SkYweWpCeTlNbUliS3ZIeWdiVg?oc=5",
+      "pubDate": "Wed, 20 May 2026 09:21:58 GMT"
+    },
+    {
+      "title": "Geleceğin Kanser Tedavisi: Nanoparçacıklar ve Yüksek Enerjili Işınlar - TÜBİTAK Bilim Genç",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ3N3dk5KZkItdnhGRjU4eFhSTGdhNkRhalFiOEFHSGJTYklRU3F6MER3aUUxcHRuTU1xcWZVQWQ3SmVQVkJhWUVfNHprZF9NN2s4eVdKZTNMc3ljMjFYeVlRQ3hrRzd0THE2Z1I4RDhXa2tqcmpmcFVrS2dmYTdzcFl6SE8wb1NaYnBHVEwtSGxwa1lXWGpEQzlrX1hxS19iZXpER18wYXIwcmR2?oc=5",
+      "pubDate": "Wed, 20 May 2026 11:29:12 GMT"
+    },
+    {
+      "title": "Son görüntüsü sevenlerini endişelendirmişti! İbrahim Tatlıses eski haline döndü - Milliyet",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQWQ2MEJaTUFIYm8tcHp0RUpTVlJkUDNyTFBqQXZNYmhoaXh5eHExc1UzLUhKNFdLeS1UWld4S3dRM3dlTEdzelZyTENEblpKNjdGeHhBUnlTZTdxeHZBUDY1SGhJcGRhZjVEaHBqSlgxZVlYZjQ2a05zVUpiMXBxWjBLMXFZdWZBYnRfVkdVd3VNV2p1X2NBOVBIYTVlcnE2Y3ZCSUpDdzFnQUJ5N2xPekhuMzRnbXVpY3plTVNCeEhJVHFncVlZZS1wV3Y?oc=5",
+      "pubDate": "Tue, 26 May 2026 09:35:00 GMT"
+    },
+    {
+      "title": "Düzce'de Sahipsiz Hayvanlar İçin Yeni Yuvalar - Son Dakika",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcWlBRkVWTGQ3TGtkV3RsSWM5OTlTa1c0bVB1MVZHVmxSbTYyYkJjY3FpT1U3QlFRRUV4NDJLVnpUUS04Z3dVdXBhTFctMXdQQnRaQUJyWnc3cnIxc09acUt3ekVJbUIzZVliSmxZNkFqM0tob2h4WmYxTXhKR2lWRWJtdXcxUkVFRmk0QmpRZ1dEbTJjVDRXcTdB0gGWAUFVX3lxTE1oekVVdlZXaDBfeXpDMVNUSklwczlOQzcxdW1zcTFSWGFkajJUZDJjQ0ZrQk1pcW54VlVleFdLV1p3ZlZwRGpUZDl3MmZpVTBuckdVeWJoMFk1c0dWcXV6Ykxka1JLVnhoV19oazZ3UEthWTRvc1puNndKbzBsZklONXlTQW5ZV2x4QVlpUTlJTHdBWGpWUQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 08:14:41 GMT"
+    },
+    {
+      "title": "Bach Mai Hastanesi Direktörü: Kan transfüzyonu, çok disiplinli bir tedavi yöntemi olarak ele alınmalıdır. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZUtUQ1JqUTFYV0ZZZkFZejlSd0tfQl9QZkdUbklpLUdVaHpqRlExZ2RGcFhXUENDbG91bjFUY25RbGtVVHNaSW5JVEZaX0dJOVo0OExBcGtJTUhTVmE5cUJId3RIMjJGNllhZ3Z0M3hHbDNQQzdkaFp4NnRnQjQ4bVZMS2QybnJ0dGhsUFJJZXg1cGlwLVd5aEd2eVhIMEZhN3pvLWc2YXFLcDhDYXBMSTNzdUZvd0M5dlVjdWFiRQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 10:32:53 GMT"
+    },
+    {
+      "title": "Vietnam Futbol Federasyonu (VFF), Spor Hekimliği Ağı'nı genişletmek amacıyla Phenikaa Üniversitesi Hastanesi ile işbirliği yapıyor. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNUcydkxsc2tvall1SC12QlducTBCdUhjZHUtWWhnUzVoTnBPaUZ4LThXNXZqZ1E5NVBJd0haUnc1NGZPUkFnZzl6a0tJRDVUNUFYWnY4TEtBb05WQ2dUNldIN200d2tmV2E5dEMtVHQ1MzZUNUZhLVNzZXFvdW1tNU5YOHJkMFYwR3EyUlFFWURVbXg0R1JFSFZBTjIxcTh1dVpieA?oc=5",
+      "pubDate": "Tue, 26 May 2026 10:06:35 GMT"
+    },
+    {
+      "title": "Bilinçsiz antibiyotik kullanımı, tedavi edilemeyen enfeksiyonlara neden oluyor - Medimagazin",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQb18tRWc1a2xRN3BmLV9UdTI5RkdEUkQyTlJ2aGpXWWdjMTMxTzJBNWV6NktPR1Z0TmQwYVpfUUxWdDJFTURTR285WksyQWJ1Z2IxV005YzUzQUk1YXZTTGtaV0Y3cEZ5a25aRDBaWkZ4dk9EUlpqVlBWZENMcVY0NDJNYlJqSnoyUFBZdkt2YTEycmtmV3RxNGN2ZjRjcFQ2Si1QeXg5eEZCU1J4c0x2NTdVMVFnSnZIUXl5aWFkQVZYMHMzSU5lcVVZUVU3dGdQMFV2b1IxcTBudWxPRDAwVnRVcTBPMjlYaEE?oc=5",
+      "pubDate": "Sat, 23 May 2026 01:23:14 GMT"
+    },
+    {
+      "title": "Yoğun bakımda tedavi görüyordu... Kadir İnanır entübe edildi - Hürriyet",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVGtMMWcwQVRuNjhvUlA1UE1PdDhldVE3QmRiODV6SDFpN0I2bnh3bGhtLTBvU0E1ZzlrT1A4X1RXYU10cVRqMGxUZTJEX2tvMmY5aGNnWWZFNzdLTEtVYVdRY3I1c2pwR082T0ZfYmVxMlRpZlMtdmdfMHZFbWpYM2lVTFNlNkpTVDEzZ2Z0endyd3p4dWdadFhFUGZPdjB2VWpEZXphM2JnV0Zx?oc=5",
+      "pubDate": "Fri, 22 May 2026 04:16:10 GMT"
+    },
+    {
+      "title": "Büyükşehir’den “Prostat Kanserinin Önlenmesi, Teşhisi ve Tedavi Yöntemleri” Eğitimi - Kayseri Büyükşehir Belediyesi",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTHJUcFhOckhCMm9XcDZKNndyV0N3cFp2VnRfUlJQZXZpMFkwQl9OSGRJc1lLTkEyLWMwaVozM1ZBNVhRNi1aeFhEUmdyRURUMG1QY3pPU2VWM1ZqbklLNENKQmhkNW1qLTBtRzRFVzJxQm9ELXNaejMwN0RIY29RYWZ3M3k1aUJHMzhIbm8xSWtqUWllV2hlWUFCMU5fZzNPUklYNDBoVGRxLWxXa0t0OFNJenBpUWVsRURUM2lVdGRhVFE?oc=5",
+      "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Yoğun bakımda tedavi gören Kadir İnanır entübe edildi - DHA | Demirören Haber Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTFU1S1huMHROU09jbmNlRWd2Q2U2bFRPR1VsUV92ejgtUWZoelZMM0tWVE9rdGpIMFJpZ2FpeF9oZ3NaMndqSEpXakNKMmVCUG93Z1hxYTZNU1ZBbEhCcnpld1VVc19lWWFlbUV1RHg1SURHMFFyV2F0ZVdwcG1Nd1VsTDc1eVVhZ0pKLTRORmlfUWxCbmNBVTZqV0lVelFkQWJpWmYwNnfSAagBQVVfeXFMTUxVNUtYbjB0TlNPY25jZUVndkNlNmxUT0dVbFFfdno4LVFmaHpWTDNLVlRPa3RqSDBSaWdhaXhfaGdzWjJ3akhKV2pDSjJlQlBvd2dYcWE2TVNWQWxIQnJ6ZXdVVXNfZVlhZW1FdUR4NUlERzBRcldhdGVXcHBtTXdVbEw3NXlVYWdKSi00TkZpX1FsQm5jQVU2aldJVXpRZEFiaVpmMDZ3?oc=5",
+      "pubDate": "Fri, 22 May 2026 06:32:07 GMT"
+    },
+    {
+      "title": "Sağlık sektörü, tıbbi muayene ve tedavi alanlarında çığır açıcı gelişmeler kaydetti. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CWEdqLUVzRHVrdEJBUVVxakRtVl96dllVN0hLd2d5cC1SR3dKS2tiLXZDNURJbXZBaFRlbzRLekNYM1pYT1IxTVFWZnVkaGtSYWpHRHZoMEVBU0RjeVFFRUdtMmFITmZKSFJfMkV3M0lxbmM?oc=5",
+      "pubDate": "Sat, 23 May 2026 00:40:32 GMT"
+    },
+    {
+      "title": "Enfeksiyon Uzmanı Dr. Uçar: Menenjit tedavi edilmezse ölümcül olabilir - İlke Haber Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa1pEYmwwYk0xODZzZWVQV2hMalk2WGtaZ1NUZ0R1dTNVR0hEZEFVQkdHbmJqYmg5OTh0X2ZGakdLdW1sOWZsQ3lLR1VWTlNzOU00Rm0yV0IyZVpHQk1zVktjR2tCNnVhdEVobms1eHAtLU9oalpYSDhKNm9VY3RfeHhqU0w4eHotRFRhT3Z5RkZDSmJMVDhXYXROZi1CSVhKb0E?oc=5",
+      "pubDate": "Fri, 22 May 2026 08:07:24 GMT"
+    },
+    {
+      "title": "İsrail saldırısında yaralanan aile, tedavi imkanlarının tükendiği Gazze'den çıkmak istiyor - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNVZaUEJmZDY2R1pQWTJ4Zm8wQ09HTEowaWE4WWxiZzl5V1JHY0hWNG5nT0ZIVHB1Y05WeU5wakZ6dGV1MFo4SGp4RkVRZWZibzMzZDlwbGJlRFkybXZkRlhyN0V5eEJLY3BiNU92eF9EM1VYem5YSnRGRkNqSnE1Q0JZZDhpbkVybGNkdXVVT3hqY2tWc0hlWmFucGRTbTRnbS14VE83VDBHV2xqUDJRQWt4aUtrZmdYd1RZd19mYWhicGh3VFE?oc=5",
+      "pubDate": "Tue, 12 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Kamil Manisa'da Sağlığına Kavuşmayı Bekliyor: Tedavi İçin Son 70 Gün - Kula Haber",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdlBxeU9sdDhER3p4VkJWZHFaanR6Y09XMDdzei1XbTk2U2M5NUtyQTV1bUoyVjBEaUJCd3hwMVBib19RaHQ1SUdiUnNkOHE4ZmpadXVPdVdIUHBPZHVhV095X1B3WFVsVm9yVG5zaVE4elQ1a3U5RXpfNVRsRlBtLUJIbHZMeS1hT09JWjVwb3g3N1U5cDUzVlJsTFBHOEFvaHfSAa4BQVVfeXFMT2U0bzZ1TDd1UTBhdk9ZSy10RF95MWk2N0QxdDdvcnp2Q2JUV3NzYVlnQl8xN2NjdWxmNUxzN1M2US1fTzM4Y0NkUzhPTDhzeE9fZVg5ZnlxblI0ajdZNDd1b05UNFdlRW4zcC1zRElhbXlwa2h0dVgwcjdmcm04SjIyQkVSYkN1TzJIUkxudVhhUF91X3lUTmt2V1k1ZkVZOEQtWmZjOENQaUh4TGhB?oc=5",
+      "pubDate": "Fri, 22 May 2026 14:53:34 GMT"
+    },
+    {
+      "title": "Üniversite öğrencileri \"Engelleri Beraber Aşıyoruz Projesi\" ile özel bireylere destek oldu - Haber 1",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTDFIRUJwek1NcXktLTBHYThqWmVoUHdWSC1GQTBOTlpYbW5pcU1yZDd6VDBpZFZWdzk4OHl3NXpxOFhlWXFYV3U2NGl5dGxuYlJqTnpqUEdQYnBxdUlKVU9QbW4zSWRHbmQycFJ3b3BGMlEyak0zOWxISXFHTUJnQ00zUGFVU09Fd2lBdXBGUDBzQjFKOHhxQTByeGRieUhidDhSYnAyVjlha0ZwU1NFUWZWUXhWbXRLZ0E?oc=5",
+      "pubDate": "Tue, 26 May 2026 08:15:10 GMT"
+    },
+    {
+      "title": "Menisküs yırtığında doğru tanı tedavi sürecinin en önemli aşaması - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMkgzSnFoeGdoblVrS2s5QjZCVkZTWkJqaHh0ZDM3QW13QkNWaDNLQXU1eVNIWnZLWGRua0VOSmd0UFRYM3NUSUdmZUprVFlsUEs1YjBGWUVLQkowbkNBRDRBekx1d04yTGJuTlVhYUlIT1htd3FlS2R0NDViVWJJd3hELVdYWkFjZTlhdWV3bHJqUTJjTEVJeEotVFQ0NWlUME1IMXY4anh4M1JFeGgyRWVtRzY?oc=5",
+      "pubDate": "Mon, 18 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Uşaklı Emeklileri Yakından İlgilendiriyor, SGK İlaç Ödemelerini Açıkladı - Uşak Haber Gazetesi",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZUtwalhocmxva0VXM3JQbHdTVHNLMGpnYnRtd2hjSWlPSUdsZmlZU0NhblZMNmkzQVg1Y1pVLUJSMklzWFdGdElwYV9MNjJFa1dnOEt1UmNlbUZVcXNiR1dJLWhCTDduRjZxcHVCZ3lSamFsSnN3dktuc1VrTTFFMjV5eWtfdHNuMlR1WEFEY3ZmU3ItVDdEcXdlRVVaMFNTeVhMXzk1UdIBrAFBVV95cUxQMHc3VFFzVnpqZ01pUU84VmFqa1pkcENqUnNYZnZjS1dITFhxWWZZWXZkSkEyelpGUVFJU3FVY3Q3U1duYUlnN1VkRHVkRzJTaUY5a1dNczlDcDRsVzc5dDVPT2k3UjM3dWdsVjhnUHd4SlJBV1M2VW92Vk9sMV9udzZUV3NuY05Ja2gwcEtsb09CYkNKYnprOWF5alhhbHM5YkU5SnUxa1kzRTlY?oc=5",
+      "pubDate": "Mon, 25 May 2026 04:30:00 GMT"
+    },
+    {
+      "title": "TEİS Başkanı Nurten Saydan internetten ilaç satışı girişimlerini eleştirdi - Ekonomim",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRmJZTlhiREZ2T1JtQkk3YVE2V29jdE0wWDZRRm9SSDBxS243RS16ckl6dHZIZDg5Q1F6SUtWQzQ2MG92dmRubEtaaWhuU0pCQmlfeWMtR05mZWdZVTROV21CclAtU2JPMEJuTjhmdktPSGU1VU9welBrU050TVhHSGFvbkVJb01WQVlhLXl5RmlubE91MGthTi12VU5aZUhLLWZIdlJyMU5tc1J0MDlMbVdDT2hYSldrTGc2Ri1HclJ6X1NwSnh6VnhVMGh4MTVZclZGZm82ZDdUX3dDV0JV0gHkAUFVX3lxTE1TUEhSSFQtazM3VW1FME9mV05mZm5fcGtQQkFlU05TUGdmWUxUdjZMd2o5VVB2MW9zek1BQmxrQjNnUS1NYkFVOW9seUlyVU1xeU5OalpzNlZQWnVhZ2ZWZ3A5UVgwVDJON1FCb3dsZmRoS1lsUU1VcGZKRGF2UlZuUUdTY1gtYTNGMlhlb21oaWNqME5vRFBObzBtUmdPdWg4bHJPTFdNQnpOLWFveXB2bUM2aVdoMVY1YWZob2ZOOW1HY2doc2ZSU1VwNGRKTnhrS2g2Ump1ajdsRWk4OHY1SkdpNg?oc=5",
+      "pubDate": "Sat, 23 May 2026 06:14:00 GMT"
+    },
+    {
+      "title": "Adı zehir ama kansere ilaç olacak: Çalışmalar kanıtladı o hayvan kanseri bitirecek - Sözcü Gazetesi",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNHlrVUdoZ2pLNVdBQXVQR29yaVNXUXpZQUp4Ylg5c05DOXRYOUhia2xxd21PY1BNeXNuMFlReUVUdTBYRHpNTkFlNzVQa1pUdG40TkxlWU1vWVJieDJSUGtQdFZ4M3ZDYjQ0M2NjSUpFdWVwTllrd0pqMFNSVHdiczFVZHhsYXZHV2NOaWlBbVJrbmpxTVdBMm5leTFadnpQVnpDdUsxNnA1RDAzbk5qaTBPUmU?oc=5",
+      "pubDate": "Tue, 26 May 2026 08:36:57 GMT"
+    },
+    {
+      "title": "JW Therapeutics CEO’su: Pekin denetimi ilaç anlaşmalarını etkilemiyor Yazar Investing.com - Investing.com Türkiye",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNejRla1BTQUhIR2ZSZW1PSXBhdm9SQVRxbXE2MlE3VVRqU1hvZkNlSFhIekxXQmYzcWIyZ1VkbTJmYnVycHRub05OOVJ3NlJ4QUphbUNTeTFJbEtBRHdXWHhYWmF4bTVzX2NNVlkzZzZhU2RTWkZPUzhuRC1pWWpOczJVZTh0LW5ydUVFTUkxR253a04zQTlmQ0E1SElPRlZGTFBpYlRrUTNLYzVJS0hodklwcnB2NUpLbU5uZkRPdkVTOWZQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 11:54:03 GMT"
+    },
+    {
+      "title": "Yerli asma yaprağında ilaç tespit edildi, ürün imha edildi - Haber Kıbrıs",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHJURGgzdEU5LTlReTlmdDF0cU1qMkF4ZTU2cWdaMVh3d1hUNlllWVVrSTNEY1EtUGpKSm5qMHF4dFNrdEdPM05sRFVleURXUG9salB6Ql9EdjdzRFhvRmxnSzJNZ3o5TVIyS1BiWWZaYkMzYV9uT2VzcjQ5RkJyNERXb3lGcG4yQXRSRGd3dWcyV3FiMERCaEtCV0hEbU93Vi00RHBNRQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 14:04:12 GMT"
+    },
+    {
+      "title": "Yeni Geliştirilen Deneysel İlaç, Pankreas Kanseri Tedavisinde Umut Verdi - Yaşadıkça",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0loek80LWNCY1FWRjhVNjNsLXNzZmtaakQxYWMzalg0QU9ubXRRRmhLYk80VGZ1N0w2NXl6TjVVU29VUkZfWTVJai1HZXVPUXJHMkZpaUoyZmlHdXFoZ21QeUo1c3BORUQwUE5PZGFQeVFXTFUydUt5SU1NWTdVWHR6blJiSG53Si1yMGtoRG1nbGJtMnVfTDVR?oc=5",
+      "pubDate": "Tue, 26 May 2026 12:35:44 GMT"
+    },
+    {
+      "title": "Amerikalı Araştırmacılardan Kızamık ve Solunum Virüslerine Karşı Yeni Antiviral İlaç - سانا",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55WTgtWFVfS1AwbVhycXhFNWZGX2pndTBBaEEydkRveGQ2VF9rYmt6T2RoSTd3MDJHSDB6cHZSRU1jODJuOFZYTnZhOTA3YTN2UDM0?oc=5",
+      "pubDate": "Sun, 24 May 2026 17:21:04 GMT"
+    },
+    {
+      "title": "Eczacılardan Sağlık Bakanlığı taslağına tepki: 'İnternetten ilaç satışı kabul edilemez' - Evrensel",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVE9fQXdDRTJJVzFodWtncVpYeGEyRXdVTHJRck5UdVJOQXRBb005MzlGMFl5dmdXVXcxX1ExOGNRcVpmYWN3RVRlaUtXNW9uaDRwVmllbmJiZldHcnZMSUVQZEFmdDJjQmJJUmJ0dmtKX0NTV0RFTkFuaHNHdmhYbmhtYTZuMzc3YmtUb056SjhXZ3pSOGhDa2VMemFVOXhvNWVQRjF0VHVXMEtsNXVBczRaOVQ2d0VzTjFEV2xWUnU?oc=5",
+      "pubDate": "Thu, 21 May 2026 10:51:00 GMT"
+    },
+    {
+      "title": "TEİS Başkanı Saydan'dan internetten ilaç satışı girişimlerine tepki - Ekonomi Gazetesi",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPM0k1OHMwV0dLWkhZNVo1RzVNUmdPU0xvanppbU5kWTBFTUNpNEhqNVRPOWlXcl9rWl9raDJyWVZoeTU3a05NNndjYUZkVExPM2RUczF6bVZEaEhYMXk1ZUJiS2ZGMjlBMkp5QTJPeDN0LUQxaWFmUGN6RnRnLUREZDBuQWM0b25oN0p2UVJDbThuTXBKblczT0l0U1ZfY2EyOXVuR1JucnJLSlRKYVoxNnpmOFFNcXRDVHR3dDhn?oc=5",
+      "pubDate": "Sat, 23 May 2026 07:26:02 GMT"
+    },
+    {
+      "title": "An Giang: 400'den fazla Kamboçyalı vatandaşa ücretsiz tıbbi muayene ve ilaç sağlandı. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdTh6SkdFTjhxam5IelM0bWZBcmtsYjlMRDBId2Rtd1VWQTBidFNJNVI1bFpnMUhMbWdUWUNrQk5QMVo1N3Z1UFBZc29EYmMwaHZkY21PbG1Jb3c2aWJvMnBNUHFUNUp3Q0U5WjFXYXMyX2R6QmZDNEpYblg3MVpnMGgwdHBtMVN2TVAtVHp3MGRHcElEcXNFaEhVem0?oc=5",
+      "pubDate": "Tue, 26 May 2026 09:01:02 GMT"
+    },
+    {
+      "title": "Meditera, 52,08 milyon TL’lik robotik ilaç hazırlama ihalesini kazandı - Investing.com Türkiye",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeXhLQy1HRnRNQU1hSWl5YkQxN1VrcHd2Z2t1ek5ad3lwZEljSmx6UDRYSGJEcS00cUcyN3Bjc2drNktJbnZTMEo2RG9ZV1U1enk1encyLWNvbkR6WkxiTjM3NGxMbUxhblowU2VKeVlpd0tYWTJ1cXNLanEwM1hUZTZoVWhYckFjRjRhWkFBNWdSa0I4QnVOTmVoZEk4YjlrVW04dWQ5c2hRLVYtZ2ZkaU53Nmd1MGQ5Y3lpOHhMSFE?oc=5",
+      "pubDate": "Thu, 21 May 2026 14:29:38 GMT"
+    },
+    {
+      "title": "Binh Dong İlaç Şirketi, Vietnam'ın En İyileri 2026 ödülüne layık görüldü. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNmZkY0dWVXNvOGVEQnJwdEZtcnpEbjhtdmFXNmp0cTZBRmU5UUY3X1RtaldQWGNvVDY2clhzYy1GSU4zNnRrTDhWZ1NaLUlGQkdLeXZqY290ZTNId0VhelNvMjh5TGRJNm5BQ0lCLVBiRWh6Z3Bjcl9VNHBZWHR1anZPSExzUQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 09:00:27 GMT"
+    },
+    {
+      "title": "TEİS Genel Başkanı Nurten Saydan: “İnternetten asla ilaç almayınız” - Ankara Ulus Gazetesi",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQmFxRmhWQ0lsaGwzd3BIWG9zQTRCc3QzTk5nNDdEaGU4d3FSZFdMNmNWWEdpTTJtemN4emllNUMzUXNlazQ5dnJvUWx3OHpzZDBqSEFpdW1yQjVCZXdud29iZGZnbjBQSlp6cWE1VEFYemJ3WThpby0xSmZ1dEg1M096MWlaY3hjeC1zUVBsN0ZwWXRsTEVJdGt4Y3NrZzRYa05SUE15ZTg1MkEzem1ZQndzWXk1RGtZV2c?oc=5",
+      "pubDate": "Thu, 21 May 2026 23:00:00 GMT"
+    },
+    {
+      "title": "Nuri Alço'nun 'gazozuna ilaç attığı' kadınlar Almanya’da gerçek oldu - Hürriyet",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcU9MNEZnOE5ZWVNYcDhXRG5YR19aNGx6ZkhyMkdLWmhUcFVDUnFkLU1DaThyUkNNWmF0ZVlieXZBc09JYlFYTW9WVEVsVmV6Qm1xX3NFZFJnZi1IYlNia0lfMG52RVlXLTdVT0xKbHZqaXBxb0lvaEdqR2hiVXFTQVlpMlVnUEpMY0FOR05mQWFSR1BUMUhfQVlxNm44WGoxS0x5ZmxjVXE5XzB2?oc=5",
+      "pubDate": "Thu, 21 May 2026 06:22:51 GMT"
+    },
+    {
+      "title": "İran savaşı İngiltere’de ilaç fiyatlarını yükseltti - GDH.Digital",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUVhoWnRTWjJDWngyZmZwT3gyQUk3QXFNUnJLN2wxc3lhN0h0OEJ2TnhJR1dqZWxMRVpDNVFVODdPWXEwLUpPajFKWGZOelJSSUVvLWZYXzNFa0F0dzJ0R0xnRFN0TjZmWjR3M2tsNmRkS01FdnZPVHozVVNQUXFTb0hwWkduRVZaR3FCYl9FeWRpdw?oc=5",
+      "pubDate": "Thu, 23 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Yetkililer, yaklaşık 90 ülkede faaliyet gösteren yasadışı ilaç kaçakçılığı şebekelerine karşı operasyon düzenliyor. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOXhXSDdTZENuSHpieXlfWUFzanVYc0MxZHRRM0podWsyU295ZnowS3VXS0tiemxrTHNPWlQ3bzdocWZVaElCaWlkbG1hREpuWnVUSm9wc0tBUjVLRHpqUFNhNG1sa2pCU3lPMm5ZdE9zWjNOWFpfM0RoSlRxTy1TVTR1bDF6bkV4Y1ZXTnJ4eVAzb093bUw5UWpFRThVUzJyZGc?oc=5",
+      "pubDate": "Thu, 21 May 2026 09:43:06 GMT"
+    },
+    {
+      "title": "EMA CHMP’den 8 Yeni İlacın Onayına İlişkin Kritik Kararlar - WinAlly",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUUZ5Nmc1aW4zX1h6dUVkU011Ni1JSnBhRkxoNXpJNHFjalRxWjVVb1JuSkVSd0l6WG9zWVJIcjVMM1R2WjRIWjZRVm9zOGQ4U3B3bXc5N2R1OGZVMzQtWmJUSVVyeHFZRmh3UnJFQXJDRTU1WDFXU1pIY2xGRUZiNU1hNUtKN3BvLXc?oc=5",
+      "pubDate": "Sun, 24 May 2026 22:18:37 GMT"
+    },
+    {
+      "title": "İlaç İhracat Liderinin 5 Yıllık Rotası: Ruşen Kalender ile Küresel Referans Hedefi - WinAlly",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPR3lSWHlIQzFxODlUNl9fYUdSN1d2cWNSUmJjYmt5TXk3aHFFRndHTDJueE5DeUI0QU5VLXo2TWxEYVUzNkd6bzdfSUFkY3dhR3BxaVRhbjlZelYydXNSLW5LUHpqd1VyZmVGWUdzR0Z3RFJadXptVjBicFpvelpHNkk1VFc2enNWODZhdlJhZlNFZXYzNmZKT0l6TzFvSTdYLUphMF92U3REUQ?oc=5",
+      "pubDate": "Wed, 20 May 2026 11:08:27 GMT"
+    },
+    {
+      "title": "Jefferies, ilaç reklamlarındaki belirsizlik nedeniyle Doximity hissesini düşürdü Yazar Investing.com - Investing.com Türkiye",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRUdWUmJDUmZXREN2dkk0YTdWaEtSdnlqRzhSbHYxRGRRVFoxalNhYmZDekF2ZDdhV1NFRHNFS0R3eDVPQWZuNGp2alplajZFTzF0cXp0WHhPWE4zdUN2NmV1bTFSYXQ0cm5Gb0laUGdnRmo3alNzYmhWSlVDOVNpYS16ZW5BdzR0N0ZSRUtVdUNQdzdOekx6dVZxX3pqbnVWRGU0U0JvbGdYNjg3UE9QMmhsVWRCblJ0aGFiYlkyS19VMDdCY1NCYXZtYjN2S3R3MTNr?oc=5",
+      "pubDate": "Thu, 14 May 2026 08:31:09 GMT"
+    },
+    {
+      "title": "Belite Bio’nun tinlarebant ilacına İsviçre’den yetim ilaç statüsü Yazar Investing.com - Investing.com Türkiye",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRURJV3JMQkd0VzNfUElwRGh1Vzh4S3dNTThFR3RzN2xNd1loLXZmSzVjTjd5cDB6SFBfbU80ZF8tUS1mcndmREU1a1R1Qmt1aVZNbGVBdVU2NmdlVEJkSGVaQzRUYk1VUWF1OWVTajc5WlVfUkdYRmlEYkpOdDh6ZTJMVE55TWRySDM0cThCYUhVT3JfMmJrTmFxc3NXNHM1SFZxTG01STVHWURYYTk3eWYwalpfcEVBRUE?oc=5",
+      "pubDate": "Mon, 18 May 2026 22:54:35 GMT"
+    },
+    {
+      "title": "Alzheimer’a karşı yeni ilaç çalışması - Yeni Asya",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY2V5eGlGNW9CQzNiSWZ2RW4tbWJscHo2a3JTV0gtLUlUaEdoa29tNFNuaDZQU2JMekk3MmlFeEFiR0xnQWo5eFpHZlNodHRxa1ZxTUZNUWtkU2FFZ2FSWEgxZ0pWWUlwVmtLQVhWeVc4a2hPLWVmM21qeVgtR2ZFc0lySUVmNWhfdlBReg?oc=5",
+      "pubDate": "Tue, 19 May 2026 13:38:29 GMT"
+    },
+    {
+      "title": "EÜ’de klinik odyoloji süreçlerini hızlandıran “Odyograf” dönemi başladı - Ege Ajans",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWjBxbEJhRGVtVEhvQWZHSHk5TXVubHB1bFpLRUxWM2xMd3M2RVBYY1I3ZVBPLWREY1ZqVDduaUZPZmtPakFpWlFTV0JIQVFfWGl1TVNIeFZDMXNrMkNNeDRxaUdhdFBrZ293Sm1EVXJBNXZ5THAybzJLVlR3SDlhcGVqVm4xSU9hZ0t4b0Zwdk5IU2hUaHVwWnk3UHUyWEtqQ3JfSE5LeG5LMkxDQk1XZi1WczVVZTNp?oc=5",
+      "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Yetersiz klorlanan havuzlar enfeksiyon riskini artırıyor - Haber 1",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWGpGNWdyOWdCamJYeU5KcWJOZ0dERm1PMTNTenB5TlpjYkJMSUpBOUFpV0dYcU82b0puLTdpajVmeVdCQTh4dGFnemVwdFVfQ05qc1lXWUd0bDdBa1ZfUFJ1cHFPSjFPdGczRTJPSXpHOHVYY2dZdVk0T05FSDFvLUZwSXdUR3pMV3dQY3hFRnc?oc=5",
+      "pubDate": "Tue, 26 May 2026 07:28:49 GMT"
+    },
+    {
+      "title": "Sanofi ve TÜSEB klinik araştırma ekosistemi için güçlerini birleştiriyor İhlas Haber Ajansı - İhlas Haber Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSDF2NzA3aUFiamdyb2lqUWRuSUpMcXNlQi1TdWtISWpNWWZUbWd5T3hLQy0xbFd0TVkxQUk4bHBlS0Z6amZsbnlQUGhiX255QURqdFRnaXZObXN3NWlLVWpneEE2TEFRTjRmSndKeFlIYmxnUG4wUjdQemdDM0l5MU9yV2s3SW15RURtLTJrNnBZUEdTd3VnTVNhTUV5NUt3cG0xOVhxaHY4NmRQREM2N3E5VDFndVNYd2NHamFxeTBVdw?oc=5",
+      "pubDate": "Thu, 21 May 2026 07:07:11 GMT"
+    },
+    {
+      "title": "DSÖ, HIV’in Klinik Yönetimi Konusunda Tavsiyelerini Güncelledi - Klimik",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV05sTmdCNWpNd1FqcjF0S3dST1RlZktrd0lud3NjYm03MVplQXBPNEtEZnNtYUpyb19mVUJaVUxXaE5lUEZ5ZEhFdTFhd2JjbHhNekc1NVhxUjFEaV8xamlZZzg1TjFQS0lwOHFVZklBQVBZTWRfWE80LUFRWDNoaWhVZHpWa2hrcXV4ajdaVnUxSjJZWTZIUUU4ZnFhdUE?oc=5",
+      "pubDate": "Wed, 24 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Kırım Kongo Kanamalı Ateşi hastalığına karşı geliştirilen aşının klinik öncesi çalışmaları tamamlandı - Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYU1wM0ZYWXdLVThYOUhwYkN5MXJjWHJNM2FfQnJhNjNZdGxqekNYNUZZZkUzVHU3WlJJd09TWmp5MVA3UVlwRXRQSmI3amJJUFZpeTFwWV9NUExmcGEwd21fX2xHcUpKMVJ1MzU2VVoxck9jYU04MlRKX0JidGNjV1EyM2lCcjM3QVozN3dEMlRUQTVRdi1mcFJPMV9UOFpwVWdmWmZUeXZpY1NVRlVXbUVkVzFfU1kxeUFsaGNYOEhBOTZmMUdfZkh1Q2tmMmZtNGFMMklVV2Y?oc=5",
+      "pubDate": "Wed, 10 Dec 2025 08:00:00 GMT"
+    },
+    {
+      "title": "Orhan Bursalı yazdı : Sancar müjde verdi: Beyin kanseri klinik deneylerini Türkiye’de yapacağız... - Cumhuriyet",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZDdOY1MtMEQtRWtPRWp3TzJxcHJDU1c1akN6VGdjaG1MbFZ5bXJFRmIxanRYRW4zdURFa1NCSGdKYXdaYVdad213MXRHbTNhRW5qbnFXUFQ3RF9VMlY3U0NJRHhkcmdRUnhNclRfZXpLTEVHQXZCZXZaYnBNeDlhUzlUenktSlFmTU9naXBuTEdhblpGMjZnLVBGdVVOVVVLN3ZIY1BlcUlnSnZjU2hMY3FRRmVyX045clV2bzR2WEUwRHNzNnlJYnpFMUxSZw?oc=5",
+      "pubDate": "Sun, 18 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Türkiye'de organ nakli araştırmalarını yeniden şekillendiren laboratuvar - projects.research-and-innovation.ec.europa.eu",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTDJLZDU0d3Nqa2liRU5uejBrNEtpZWlmUFAtckNzY1F6RTBmUWNabEQyMkxWOW1pX1dYX1lueFVWUFVSQzloQmFTVGNFUWVQZTlBY2VVQUtEYl8ydDJ4ZGNiQWVQb210VEdDV2RHTklOMlpHMmt3ZTJYN1c5T3U1UFU4SzBwQnkySzFhOGNDVjlpMzRMN3BXM21BWmY5NXIzS1Q3Nkk4d3JINzhvWXUzZ1prUWRtaHQ5TmNjbU1SM2lqdFo2N0IzYUZTY01QNUVqSlMyR0JpYkZNZmJmOXMtcG1jbEN6dWdxS2EzMTRB?oc=5",
+      "pubDate": "Thu, 08 Jan 2026 08:00:00 GMT"
+    },
+    {
+      "title": "Sağlık Bakanlığı: \"(Hantavirüs) Şu ana kadar 5 kişide herhangi bir klinik belirti veya semptoma rastlanmamıştır\" - MSN",
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPaFo2WURsUlZUUzZ0ZlNhOGRsVEEwQmlWTWgxVGMwTFBwck5IUnIwUHdiRUFnMldlZ0FLbUZuOEdmR3NfVEx3RGZsYTd6NndjRHBmcGtjWWxVejZobTRjaXBnNUFiWi03N0VNMzBnanN5Z1lnT3VLN2tqRW1jcWpENDNPNXpQa2hXdDNBUXpZcGpfSW1ucUFldGt2azctLXk5SDdnOHl2LWxSUjc2YWZkY3pCc0VSWm5oVUNLTWtuRV91LVIySnJKa1djZXF3ZzY2UHJxSktqRm00c2UyTHNYeUFpbEJDdkZ0NFJCVGQxZGlfc3FrbTVLMkpJMlZGa3ZDNmEtd0pzTGJBeEFjWFd5VE93NE8yT0s1TXFfN0N2Z0R4UHlFdUtQemdFWW5uN0Q3cGp5ZEhWaw?oc=5",
+      "pubDate": "Mon, 11 May 2026 15:27:52 GMT"
+    },
+    {
       "title": "Araştırma: Nesiller arası sağlık sapması - Diken",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSWlRLX25RajhSamZzLVo1UkswYXdJdWVSSXRGcjBHaEo0dmVhU2NWRWVBaDkwcnFPb190cnpNY2xfSE1naHl2R2NLcUN2LVl6LXctRjV5dDhvRjRmR19CZ25kMi1yZWg3YkJiUzdMV1BtSGM?oc=5",
       "pubDate": "Tue, 26 May 2026 06:47:35 GMT"
@@ -4125,881 +5000,6 @@
       "title": "Fentanil, uyuşturucunun \"kafa yapıcı\" etkisini artırmak için içine karıştırılıyor; Sağlık Bakanlığı sıkı kontrol talep ediyor. - Vietnam.vn",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXNXeTRHdkJrTjZnTDR1bmxiN1ZjQ014ODJGblY4S2l1dzJ3Y3AzRkZJaDlKWmNhV0p1dVFFZzAyRFREM3RrUnM3YjloVnQxck1GRzJickMwT1E1MllxY2NSdGx5TjJGZjMtRHBXaUdINTRHV2pkNVFMazh1by1LaGpDV2JucmxIUHNBRHJBTEZVRGczOHZuSDNBbw?oc=5",
       "pubDate": "Mon, 25 May 2026 04:59:37 GMT"
-    },
-    {
-      "title": "Sosyalist komünler ve mahalleler kurmak: Sağlık hizmetleri temeldir, eğitim ise ölçüttür. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMnljTi1Ic0hMTnBxelFmajJsS0hHMTRlNDRoVzdHb2Z4Mlc0YURBVjJWUjBhX1VReVRxSzZ4TGZIZm1iSnFxclFRRFZGQ0VKUlVUbVhXVEx6eDNOQ3VOV0xDN0FCVzA2WmpwTHNwZ1NUanhKa0ZRN3NJYjFhcFU3OS11eGU1V3V1THpvM0dNT1FneU1WR1hGaTZUWG9pWldf?oc=5",
-      "pubDate": "Mon, 25 May 2026 04:28:01 GMT"
-    },
-    {
-      "title": "Bugün eczaneler açık mı? Sağlık ocakları çalışıyor mu? - Kanal 3 Tv",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWXJZbTNvUW1kNEhpcERHLWZZdkNUbDY4djdrNGZ2RTJwaHdMT3M5a2lOU3gxWm5uN3NmcGlkN1ZVVjFwUU9UYjRHR3h4RkxrMFlvM0NZME1GOFJ4bDJVRS1INk9vRDdrVklrYnFJOGNKVmpiSndpOGhmUGxHWFpBRFJCUVZ6Zw?oc=5",
-      "pubDate": "Mon, 25 May 2026 06:53:59 GMT"
-    },
-    {
-      "title": "Ho Chi Minh Şehri: Sağlıklı yaşam ve hastalıkların erken önlenmesi mesajını yaymak. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQnZPQzhFbVBwZzJUaGVESUxnRFloX1VzaV94Mkkzemdzb2lmRmItM2FKYmU3TUxTWlVtYjNuZlBfUEhubUthXzJTcTF4cHJ1RW5XSE9TNHNKMjVFbE85V25CNVpleDBUZHQtM0dXVFFOTVlwUDFSNW9nekY2cVlwem1MYlFEMFpzaVJkcXdqalU?oc=5",
-      "pubDate": "Mon, 25 May 2026 03:51:21 GMT"
-    },
-    {
-      "title": "Sağlık Bakanlığı, etken maddesi fentanil olan ilaçların yönetim ve denetiminin güçlendirilmesini talep etmektedir. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmRNeHZQSXBKYUZVZVFsV2VzcmdmcWFrRDVsQU5XdXFJQi1XN3RmX0pCN3U4NGVldU41V2l0RXZoamFkcHF6RXBWNU1FaFYwZm5idVdldjBBbE9VRjF4aDNBWTBfT2dDdmRMTGxkUFRlN3pZMTFGWjU2RlJQZHVaSzU0cTNFVTlpcG5VRXltYTJSdVhEaHBRMm1BVmphQ0FmcDQtQg?oc=5",
-      "pubDate": "Mon, 25 May 2026 02:51:35 GMT"
-    },
-    {
-      "title": "Anne karnındaki 200 gramlık bebeğin tıkalı idrar yolu lazerle açıldı - DHA | Demirören Haber Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMFBWd0NycUhlc1h6SXF0azU1ems5LU5hb0tWamhIS19xQjI4T2doOGd1cHVZcWxtRFRzdWNrYURRaE9RX2dqMU9FWjF0alZZd3hRX0FEMUFoczNQRDk2ZGQxQXpBWTllR1Q2aDlELUJWX01HZjNmWDJsSVgwZUtnVHoxeER0WmcyRDlNMTVLcGVJM3dtWGt4eEhtTGVRbVBxdGpGT1UwXzQ5NjVQeF9FeHBB0gG2AUFVX3lxTE53S2xSaVdSM0czRWphU3VoY0VMYkh1emdKLTZlY2FIOXVTMzRKc3Vjd3dBTzNCYmh5TmE3RVE2ZFJqQ1BnRmo1eU9HbHJnUU1FQzhXc1A4YktSekdRc0UyRzR3WWVlRlBrNl9vejhQUDk0ZUpNYWo1Sl9ZMGNfV3gycXdqVVFqaWtuRHVDdmNkMmg3aW8ta29Nb3J0T1Y3WEh4eURGU3F4cGc0UFlCVGFrVTk2WEN3?oc=5",
-      "pubDate": "Mon, 25 May 2026 06:46:19 GMT"
-    },
-    {
-      "title": "Yönetmelik yayımlandı: Sağlık raporlarında e-Nabız dönemi! - Memurlar.Net",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHNXQm9NVFRHOXBiME82aG9CazZVeEt6UXlmUmhUVWZzVHU2YTJPVlUwZ01nUW9GYXppWVVqMzNwM0ZMUXByX1BFRkxRZHZzZDY0ZklGME5oZlRDV20tQlo1QkUtRjRySDZSczRNcVI5RFZQVXgtZ2owYzVjYzdlX0xLaXQxdDJxT09UQ2pLM2JuYzhHQmlLWkJocEZpNDZmYVHSAaoBQVVfeXFMT2Fxb25EdVhEWlFnQzBNVkp1MXRqanVHbDZtTlduM0xwVkhDWWEya0NxMlZDaS1ndk5oeUp0NWU2SzFfY01BT3Q3MTZlWDFsVUhZNkZJWGIyTUg4b1NUME9YQ1pSd3YyX0lldjVJc0VlcHh1YmxOM3JSMngtOGlNSzdEVTFuQVFSMlliMVU4eFI5cjNEcmIxa24zdHN2UGtIMnhyV05YcHhHc2c?oc=5",
-      "pubDate": "Wed, 20 May 2026 05:20:00 GMT"
-    },
-    {
-      "title": "Aydın Şehir Hastanesi’nde personelin bayramı kutlandı - Aydın Kulis Haber",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHZ0cWdhWkVRUnF0V093T1RhN0FtRmNUbHVTV0FLc0xDazlvNVpEMEVwOWdkUUxUUHg3TmxSYWFwUmw3QnlnNjBTZUp0WFpyZVZfWUZpZHV3RGhTTjZ2amJBUTNiNlV0dnF0a29Tby1vUHZsWXBKOTFaeDR1TWJZTERqaU5yQdIBiwFBVV95cUxNN2Fsck9JU2FBLXV0WGhLdU10ZlEwdmFEckVHNFFEYjVoNS04VkNVYnB2V0pfSEY4eC1VQWxIMXRWdWlUaVFPVWk5TE9lMUI5Qjhlb3lHR2VpcWlWajJOWXZoVzdNQXVDZVhpVXJUVm90c3Nua3l1MmpyN1RCWC1TU1NrMFZsWm9Temw4?oc=5",
-      "pubDate": "Mon, 25 May 2026 06:10:00 GMT"
-    },
-    {
-      "title": "Ho Chi Minh şehrindeki 9 belde ve özel bölge sakinleri için ücretsiz sağlık kontrolleri programı. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcnRFZzJRRS15ZTFVNVkxUGNpZjlrQURUTWhhVDhMMXhhTWlqend3a1llRm9NdGwwNHV6ZkNiYnZ0dnd6MHlaS0dfQWxRcVJfd3VxN2NVZFRqZURiUlF6OGF0UENWR2FjNUplNU1kbkxlWkM4R1JnOXZDZlNaZFVxZlZEN0p6SVIzWjFILTlJb21Zclgz?oc=5",
-      "pubDate": "Mon, 25 May 2026 04:17:54 GMT"
-    },
-    {
-      "title": "Sosyal medyada yapay zekâ destekli doktor kılığına bürünme dolandırıcılıklarına karşı uyarı. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYWRPM1Zwa3luV3l6X3B1MHpmVGNYWWxyNjFGNm54QWZjX08wdElwak5sTlJsb1RtRzVqanhCdjl6MDB4Y3U2VmMwbE5WRTgzeHQ2a19LZk5acEdHMzlJRFBrckhGcWV6UkhmdXQ0dEJmX21EX0dYMGtseGZnbUdScWdCU0MtdUxvUWNNSU40WDBSZVQ1WkE?oc=5",
-      "pubDate": "Mon, 25 May 2026 06:44:22 GMT"
-    },
-    {
-      "title": "Geleneksel tıp ve denizden elde edilen şifalı bitkilerin geliştirilmesi. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pTFFPNEFPZzJNbTM4d05IQ0dnRkZIRkl6SkFyazk0cllnQnN3MEVsLUNCM1FleWhndllpeVVoVGNUdENsVzBOamNpc185WkVqdGNPMVVULUIyZS0zbUpjNHdkbGtyVDdxb2EyamxEdUVHQjlENE5vd0NKMA?oc=5",
-      "pubDate": "Mon, 25 May 2026 06:43:09 GMT"
-    },
-    {
-      "title": "Ho Chi Minh Şehri, Haziran ayında 9 belde ve özel bölgede toplu sağlık kontrollerini tamamladı. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWUxiaXdKdXI4UDlWckE2UW5zd0RkVW5VX3JVUjNmTFZjVmZWN1VpR2lsWmloWnpNSUV5eENPdDE5NzFaQ3RSYXRfRjNDUGw2VmJsLXpmc3JRLXlkX2JLYnFwVmZYNUQ3Wi1LYVV4cl9wR1ZWdDVzUjRERmI4LWpwamZNRm9zdnhlWmU5TUM5b0lWUXA2LTZUQnVPdGJlQjlXRUVtS29wM2U?oc=5",
-      "pubDate": "Mon, 25 May 2026 04:59:33 GMT"
-    },
-    {
-      "title": "Hak sahiplerinin haklarının korunmasını sağlamak için bilmeleri gereken önemli sosyal güvenlik politikası değişiklikleri. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTFV6NzRac0NOQWtrRFBQMW1NaVhNQjhmQ21Yckl2bXluSklsaGw2TzdJbGFXaW5RbEYxcEYyLWJhWjlSMEpxbVhOcXY2MXJ6NVhiVHBKN2pKeHNNSEJ4R0hmenVsUHEyX1ZNNy1BRjBhVkhVYm0wQ1FKZC1pSF94M2lNdkNVWHBoZHdnSklmUjVmdEUwanU0V1M3NFJfMklNcTZ5RlpFNkpkbGkxYkFfNlVySjhGN2lWOFc5QWhieUFWcTBE?oc=5",
-      "pubDate": "Mon, 25 May 2026 04:57:17 GMT"
-    },
-    {
-      "title": "Uzmanlardan 'Kurban etini kendi yağı ile pişirin' önerisi: C vitamini detayı - Yeni Şafak",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYjFaZlg2NEFnX1JWcFUxRlRCVTVsaHhQM3AtTm9iUU5xVlFTeVV4dHpPQnJsZFFJNTItZmVtb1NNem1KbVBLeDhBT3dhbGlTcTF5WEx2d1BrTzNSTXZkcE5jajN2X29MY1BzT0JuTTlxeGkwZGQwZjQwSzNuSFlNRE0wUG44YmcwTFY0UkFQaDM1Q3pfNy1wc01CZzlKa0M4U1NDNlR0RG9XMXlzdUdRS00tUdIBvgFBVV95cUxOR0xjZXpONk12OXFNVVlWSzRfYkhqdGJ5dzV1S3ZTRXZsUHdZV2Z3a2F1TVBzcXpNUnRvbE4yeXdzSnFaN2VpVDRmdTQ3QmNrR1dpdWZZdXoyU09kbnRQZWdfMEpmVV9INnJ5dlRrbkVKNVFYbDdlMXZ2RXdiQ01iNmRSUHJnRkVJTjhSVTYzeEVKN2RVUXVQT3ljSVVoNzBQTFBlc0ZZUG1KX3RTWkh6WFFRbTdfS3ByN3VZeW5B?oc=5",
-      "pubDate": "Mon, 25 May 2026 06:39:49 GMT"
-    },
-    {
-      "title": "Yoldaş Nguyen Phuoc Thien, Sa Dec mahallesi sakinleri için düzenlenen düzenli sağlık kontrolleri ve ücretsiz tarama programına katıldı. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQV2dqQjlUQWFIQV9hMEZTQUJtRlBnUEY2Rl9GaE9wUWVPM0tMSU1YUG9MVFM2Ql9wQklNb1o4MldRSVd5SUVqRFJmbUh6TV9EeFdYTzYtNkNBNHF1NExVMk9MeC1CVDB6SnZfLXJkb09zS0I3UGUyUGVYQ1hVcGNtZWpFZ05GYjRVdGlRMmtFSTk5bjVwWHF3bjgxQVVfWFpvRGduTmRqQXBoNGszWl9YbEN4TERqbW8xa0xoT2U5VHZRTXhYbFBlM0ZQMlh6dkxHRndvTllkWkdsdw?oc=5",
-      "pubDate": "Mon, 25 May 2026 06:15:26 GMT"
-    },
-    {
-      "title": "Ebola salgını: Demokratik Kongo Cumhuriyeti 'çifte krizle' karşı karşıya - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9UVDhSR1lIOFVYclJfVGJuX1ZqZ2E0TmZqUHNyaWc0ekhfLW1od2NOYnRHWXNSQUFMa2pEcHZFSVpFaDBSRjhrZ05Ldm5Db1BwU3ZTVGNWZnVoWGJhbkFCeUNUSzhpQU1wdG5BODhZMnpJbk9KQ3Z5RlRzLXcxaHM?oc=5",
-      "pubDate": "Mon, 25 May 2026 06:21:50 GMT"
-    },
-    {
-      "title": "Sağlık Bakanlığı'ndan \"hantavirüs\" açıklaması - TRT Haber",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcW91Wmx3UWRnTnNBMEtGcHVkOUZOa25Gb1JaaXJHNEFyZEFBNVpGMWZmbFV0OExOdlJjVF9GbGZybHRXRkpGcWlsbXhWbVV3ZVdFNWlrZTVYSWFYRXJLNmVLNkFxWXMxQWphb0FRUW5IbmwtS1JtVE9nNTJNOTdJRTl0TkM1ajBMVHVfNEhVUnRoY3lVYXdn?oc=5",
-      "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Kongo'da Ebola'dan öldüğü düşünülenlerin sayısı 139'a çıktı - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aUVB3dlJheXJpelBDeVJSaWhJVHdiendDaVNIOVhudW9nT0IzXzFtcy1wM0UxR0FFVllNZHZLcm5DRi1GUzdJYUwxVS0tb0w1YlV6ZlN5T2NHQTRk0gFiQVVfeXFMT1hvcUpzWkdTdzFTbkZLZDFJS2VpMkNRNDZyaUswRkZaN194R2pvc3JrTzJfN0ZFV1N6UkNmaEViZkdzX3VnaWRkRXgwUFNMUDRVaHZ6RFBUYVZyVmJzVjROX3c?oc=5",
-      "pubDate": "Sun, 17 May 2026 09:00:41 GMT"
-    },
-    {
-      "title": "ABD ordusu 'yapay kan' peşinde! Tıp dünyasında çığır açacak proje: Toz halinde peki nasıl? - Milliyet",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWmlRT2hyNEl2QS0xblNrSjh5aVZQNElFVUFWRl9aVVNfcXVmTjRxaVNzMjJWckU0aldOUUhwOVp6Mnp3UTA1WDhNa3lZbkxYeXdxM2swYmhweWdZbmJNazYxeUwxSm0waEJsU3VrckxWNkJzSDhDcGhxRkpfVXJMVkhlV19ONHY5LWtFNVVoZ0gzbHBQX1BiTHJLNVh6aFdzVXNmdUdSS3RLa2hkZXU5VzA1M2hjbUEzU2ZNRTJTT09hVEp0MWc?oc=5",
-      "pubDate": "Mon, 25 May 2026 03:54:00 GMT"
-    },
-    {
-      "title": "Geleneksel tıp ve denizden elde edilen şifalı bitkilerin geliştirilmesi. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pTFFPNEFPZzJNbTM4d05IQ0dnRkZIRkl6SkFyazk0cllnQnN3MEVsLUNCM1FleWhndllpeVVoVGNUdENsVzBOamNpc185WkVqdGNPMVVULUIyZS0zbUpjNHdkbGtyVDdxb2EyamxEdUVHQjlENE5vd0NKMA?oc=5",
-      "pubDate": "Mon, 25 May 2026 06:43:09 GMT"
-    },
-    {
-      "title": "\"İnsanları ‘yaşayan heykel’e çevirdi, 1930’larda aniden kayboldu! Bir asırdır gizemi çözülemeyen 1917 Uyku Salgını - Habertürk",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZlF6YS16THlKNGh2T2RXbGVJMXJGallRVEVEQ0hGQVFwWUwzTnFQZ0FDdXNpUFZLSFA1Rk5QYWZXZ3RZNnR0ajFSUnpJbXhWcTRac25yNVZlM2t2RVFsYmpua2tqVTRGRDR3akpiZ1RUMFV0Wko2UTZ3OHhuVTNEZV9TQ1lHaE9YcGpMRUk5QVJmcWVpZDFOTE9KcXlKaFRyREFxRnNOS1l3TE1EN0NFeEpaYVpVeC1tcEJSNzE5WTBjcGdfRVFWVFpvQkNkTDhJMkJrTVlKNzROT3N5UjljUWlvRlFBcGxaemR6R1ZDM3NBVzZsQWc?oc=5",
-      "pubDate": "Mon, 25 May 2026 04:32:58 GMT"
-    },
-    {
-      "title": "İlaç mümessiliydi, tıp fakültesini bitirdi, şimdi başhekim oldu! - Medimagazin",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR1I2TGRPSndOOWlzRld5UkgzZE5fUjNNSGhESVFtX2p0QmlrbTlWVlV4MHFIUW9Mc1VlMFpmNHFpZDA0MGExUGxSY0RYVmw0ZmViVHExbXQwcE5pNU5ZNUJhejhFWjFIOG42M2JndEJkUWJuMHB4UTc3RV9IQlhNczBia2lmSmd4STloOVdpV0pTUEVVQ1RXSElIUHFNTnpJNHc?oc=5",
-      "pubDate": "Fri, 22 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Yeditepe Üniversitesi Akademisyen Alımı Yapacak, Kontenjanlar Belli Oldu - Meb Personel",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcWxmczdYemVmc2VYOTJkV1p3emNTTmdhRGc3OGdqNHBxUUlrdnNvRVlIbU9KUVlRNVpJc3RiZXdfZnVIRkZfbTVHXzFTV1htMm1wdmJYS2JReEQ2SldHTjNEdHhHa1ZaWkZtOEVzR0tGMU9Ud19oSjlIQ2lCYXRHUC1QSkpqOHV1SWs2ZGxtNm41NjRTSlVudDl2V1FPN280UmFtSGl1ck40V0Y0ZlQzRXpRWndRdzFF?oc=5",
-      "pubDate": "Mon, 25 May 2026 06:32:00 GMT"
-    },
-    {
-      "title": "Kamu Güvenliği Bakanlığı Geleneksel Tıp Hastanesi, etnik azınlık mensupları için tıbbi muayene ve tedavi hizmetleri düzenlemektedir. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMHgyWnRQcVFmb2ZkbGQ3THI2OGdXbV9YaXZ4OXJvdXR4bFZ6X0pNaU9WVm1aYTJzTEVrYk1hdFNXVEp5d2lVdGp3VGlVc0JGbDVGLVN0QVZhT3doVlc4MXBkcVpaVUpYdi00TEFpUHFjRmREOGRKclVhSlZ1Nm00SGl6WEZrX1RmTWxkRHJzVllKcUFXS0NPVXd3bURCclU0bnFrLS14SWN0RWlXWmtUSjRuUEc5Zw?oc=5",
-      "pubDate": "Mon, 25 May 2026 06:51:05 GMT"
-    },
-    {
-      "title": "Can Tho Şehri Sağlık Müdürlüğü, hastanelerin ve tıp merkezlerinin kalitesini denetliyor. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOHJSWWZNMFg0b2VqWEJJU2xDOWFfYUFlS0lwUWxtU0FkdTFPbVYtUGVtSGVpd2l2Qms1bzlaM0ZTb1hsYWZjV1VJcGJqQXNmZ3hvdml3SFNKUVN1WGpFdkgxc1FxZnc5OVhHSU5Cc2h0RXgzZHRuRDZwRmlmSF9kUHZsQkM1TlFBdTBST085VEpkMjlUalNTdw?oc=5",
-      "pubDate": "Mon, 25 May 2026 03:38:26 GMT"
-    },
-    {
-      "title": "İl Geleneksel Tıp Hastanesinin adı ve personel konularına ilişkin kararın duyurulması - Cao Bang Online Gazetesi - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM2JsOUo5emJTWlpHamZUTEl6cUVXTVFycTlyUHh6MDBtMjBhMm5saHNka2FUNFdOUldqWktNSFNoaUhvYVZEV2lnSldSY2hOOF9xUlBlY2taSFZCM3NlX2w2Sk1iNTlaVU5uRlEzUUxaNWM4WExZM1FOZFo4a3hCTjNJQ0V3V2QtRHNZWERLRm5CUTJ2VlRaWVI0R1ExYzJfeGpQdURBQWZrLXVVanpqZUpwclZyY0w2ZzQ0?oc=5",
-      "pubDate": "Mon, 25 May 2026 06:06:05 GMT"
-    },
-    {
-      "title": "SAU Tıp Fakültesine Tam Akreditasyon - Medya Rota",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNjY4OUhPQ1V0Ri1MME9LaWFJb1ZVdzhqck9hWDhLM3NndlJLYlFnVVRZOGRXSnBoTGVGOUtoM2xMbG9nZWFIUW1FZVRrWUtBNjdxVTdVYkQwMXF5QmRScnZfTERWZmQ4ejAwaDBDaFU3Q3gtc3VZWjl1WkFyME5PdHRwZ9IBiAFBVV95cUxPaHk1QlY5dk9walZ3LWJtM1ZiaWxaZnBBRHR5WV9OUXY2bU9tcVNWQTBMQ3RrODd3RGFWN1dQNFNNUy1tZ29KSFJUbjEwMmNTNzJqWjlCMDZRUTFxa1RnV0N3YzBCRnZYSzEtRGhUUklGOGsxVTh4OTJ2UzM1dW9fLTFuZmRrRUg3?oc=5",
-      "pubDate": "Fri, 22 May 2026 08:24:00 GMT"
-    },
-    {
-      "title": "Tıp öğrencisi feci kazada hayatını kaybetti - Sağlık Dünyası",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdFdxSk4xNlYyWHNvNnQ3TnZ2YmhtekVwOUFBUENUNVNrY2lfYUlwQmIxMzJhck5iekMwVmRRbHZmWjgycDZFbGZuaUNCbVRucy1tUWFOSUtSUUJfQm1EbnVJeGY2VUg4R2owV0s1OGVlVGxTMU1DcVIyeWhZa1J4LTFLRzJzaER1NUlOVXFwUlNKd9IBlwFBVV95cUxPQk9QM3U5R3JpU1BQZGlmU1hwaVo2NVFfVGJXNlNxcVFmZFF6UG5FX21KUnNBNVBlNkVoal8tTnZXYW9PMkFqcnpkRUlDWTFPQU9HajdiWGpGaHNOd3RtZFpQTm9QZkMyd1FHU3RkNTNtMHFnOV9qWF9UajJuYXpBU3FYVURDQWp1ai1EU2Y3V1o3eDZHOFpR?oc=5",
-      "pubDate": "Wed, 20 May 2026 12:48:18 GMT"
-    },
-    {
-      "title": "Ümraniyede takılan serum sonrası hayatını kaybeden genç kızın ailesinden tıp merkezi önünde eylem - Medya Gazete",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMjhHWHhpVVBGamNZSUFjN1EteFhLQVFISjBBWURZaWdzaExXMVcyd21iMUs4WldtX21EV1lOWVRlRm5YMWt1bHkzajJxYnNxZEkxUmtZMG4ya3ZtU3VzdFVyelVOM3AtYVZUVk5tLUZpd1IzRlF3Y1FiVUlJZGExaWZHVmZTQS1tYTdLUEk1c0FfRGt6TjB5U1FLd200eDZxcmtORTlhcmRiQ1BfZHJZSDlCeVFRbjVsVFJDMzRqaEtHRmRadWpqZmhZUGxOZWlKOUFTMjFn?oc=5",
-      "pubDate": "Sat, 23 May 2026 12:28:08 GMT"
-    },
-    {
-      "title": "Hanoi Tıp Birliği: Başkent için modern, yüksek kaliteli bir sağlık sistemi inşa etmek. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQkpFaGVrb3AteGYxUlU4Qm52NzNKVy0tU0V4UndZeWdpVGxCVXVOZm5PZmNVWmltdXVXa1E2U2ludnQ1VXdnN1FkQ0xQVUh0LVRsMEpqempGWDdiR0ZENkZxQVRQVDdjeTZwMVZQN2NUT0V1RGFGY0g5NDNoMUZNOUJzUkpMYUwtZkxRRHJXNA?oc=5",
-      "pubDate": "Sun, 24 May 2026 09:46:43 GMT"
-    },
-    {
-      "title": "TİP Genel Başkanı Baş: 4 Nisan'da NATO’ya karşı alanlarda olacağız, 1 Mayıs’ta Taksim’deyiz - Independent Türkçe",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE50M3g1bFEzNWhWc01jOHFTNHpwOHBjNzRVMUdzTzlFX0RLN0FKUUgwMV9VZk1XTVh5QkZvQzgzY21LU015QkVNYXF0dTk?oc=5",
-      "pubDate": "Tue, 17 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Sakarya Üniversitesi - Sakarya Üniversitesi",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NWDVqaDhlQTN3S3Q3VnRKSmNGc2Q5M094UmVrLWU3Vk5vMFlSTW42c3J4NXVfTXNPOTd6Vzk1VF9kX29VTWdhNktsNHJQZm8?oc=5",
-      "pubDate": "Mon, 16 Mar 2026 05:57:37 GMT"
-    },
-    {
-      "title": "Kocagöz, sağlık çalışanlarının Tıp Bayramı’nı kutladı - Kepez Belediyesi",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMWVFMEFPRVd2U0NnU2ZrQnRtUF9Bb1NxSnYtNkc1bTBTLUtaV3U4azhBenBlSzc0Q2p0YnROcFdvVjl6V1FHeFl6Nm1CM0RLN1ZIb0EySGZUYVRVZ0hfVzFUX2NpLTUzX2NqVzU5bnYydjVERFpQLVFRVURya1pobVJsQndQdzBsVElCaGRRTEtscUpCSUZz?oc=5",
-      "pubDate": "Sun, 15 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Aydın Şehir Hastanesi’nde personelin bayramı kutlandı İhlas Haber Ajansı - İhlas Haber Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNW1wRnNYQ09xVmkwWkJ4MzdWelpIY2FaSkktdWZ0N1Y1OFlKOTU1SjFhM1VadDBlUkJ1YzFKOWItRHVjQXdNWE5aeGVTeHA1bk5ZX1BVYkIySmJycVNKcmc0bjdxMHNRdnJkZGFLaHdIdWQtWnVZZ2tnRnJfNk5tLWNVMUZtN3djSkpIRXhhX19uVjJOdENmZmpEczhBVmZGbVo0?oc=5",
-      "pubDate": "Mon, 25 May 2026 06:03:16 GMT"
-    },
-    {
-      "title": "Bugün hastaneler açık mı, kapalı mı? 25 Mayıs 2026 Pazartesi hastane, poliklinik ve sağlık ocakları çalışıyor mu? - Sabah",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNanN5OFNRTWhFNkpnYVQxZW5wZ3ZfTjlTUGRlaDR3N3ZjcWZVU1k1OUNNWG01YTZoWjhINDFJVUlGaGlUZUxSTy0zR1VLR3ljVEVybkNNejlta1lKbk80bE9POXBYRHczMk9EMzMteUxEWk4zXzV5cWJpTi1EQ0lZUFltb295b2JHb090bDd3bjVmSkUtc0kwYTkzb0dhamV6MmJsdFlXTWdHbkhQbzJjNGtRTV8xUFhTc3hTZVhWWklqSy1ETDJtX2ZTSUFHb2dxRV84SUsxczNTZjhVa0dybkpn0gHkAUFVX3lxTE1qVVdFdThsdXhBOUpfdDJ6N055MThhdVVyTHNNRXZVcVdERWhaZHRXR0Vmc2NMcHVBT3hQNG9za3U1QU5ma3R5b0VBLWNodWU2a21pN05oZXY2QmdLYnNNX2FMVlkwQ2RuV2hmZEozbVZRa3poUG1oVlFSa2t0VzRZS1NyNEFsU2VZM1ZjZ2NMbDMzVV9vQUZiNEtVV3UxM3F6M1ZfREZSNDRkTkk0b2JPdzVjV2wwNG0xWW9iLUk4RHZsdC1nZkFoTE5iSXZDUm54eTVLZUpaSEMxQ1ROTzk4aDFPTQ?oc=5",
-      "pubDate": "Mon, 25 May 2026 04:50:17 GMT"
-    },
-    {
-      "title": "Aydın Şehir Hastanesi’nde Kurban Bayramı dolayısıyla düzenlenen program kapsamında hastane yönetimi tarafından birimler ziyaret edilerek sağlık çalışanlarının bayramı kutlandı. Aydın Şehir Hastanesi Başhekimi Uzm. Dr. Engin Tetik ile hastane yöneticileri - instagram.com",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xLXRVWXBsSWY5WFJjblVKQ1pQbDVmV0ltZHUxc0N5VzNRb1drQ2RkLWhBWnBTRFJKLXZkd1ZOeDlzWGRiNm9fZTlrczJISklkdkE?oc=5",
-      "pubDate": "Mon, 25 May 2026 06:14:36 GMT"
-    },
-    {
-      "title": "Aydın Şehir Hastanesi'nde Kurban Bayramı Dolayısıyla Personel Kutlandı - Mersin Haber",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeDBOaWFnZ3VwNnFPenRQeks3RThBbkZDMjhsdGgtLUlnb2FYazZxbjdJaU95dU9FOUY2SW9mOEh5bVduRzJtYnlyUDZ2QW9mbWR5ajhjdDFTa09Cck9qQ2JRZ3doY25YX3JpeFhxMlBCWFBfZkQ2YTI2OURqYUJpd051dFFjT2txamlHc1kwb2hhb2Ytdk93UlowVmViTV9PQUw1RTl0dzh2eVpLRlNV0gFXQVVfeXFMT1V5TG0wc3NDaTZoZ21iRE1PQXRaRTdINHlBdm05blBWZlNjV3puWG9VYUc0OGdtZGEzWFZBaUt2RjdoaTdLV0xZSDhnTHhVWElPOEtsY09j?oc=5",
-      "pubDate": "Mon, 25 May 2026 06:03:00 GMT"
-    },
-    {
-      "title": "Başkan Alim Karaca’dan Hastane Odasından İlk Fotoğraf - Marmaris Manşet",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRTdPM0tmNktacHRxUTQyeVVtczc2Ty0xby01bGtkQ0pyY1l4X2ZuUWlvdHQ4WHd3X3NEaXRZTUp3b1NycmF5cGFkMXBjNTVBNmNwZHFHbXg5QjcweFllUG50Z3dqMWVBTFpJSEo0QjlDZ2hDWWd2OXZDMHh3SEp5VEpSQnlUMTZNVkd5cGl0Rk02SjlXdVBnaFln0gGfAUFVX3lxTE0wdmdJWVlCY1NUeGNOaTE1Z0dvX1FjR2lUeGN1U1F3TFFtUGVsSW9hRmp2UDlheTRvZTY4ay0yekNPeURPMWRRVmlpYkgtWmtTS29JZ0J4QTdLWlg4N0w1bUhLXy0wQkJvTkhlNWdWbFdqdzU4djFKNWZSdXRDV1B5Smh1UUdfR0dmN1laM21KV2NqS3U5aUJ0SEVSQkJVVQ?oc=5",
-      "pubDate": "Sun, 24 May 2026 10:10:00 GMT"
-    },
-    {
-      "title": "Hastane dönüşünde kaza: 3 kişi yaralandı - Ege Alternatif",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS2tSOS1DX3NwSUp2OGNqbC1veFdlcTBXRFA1M0FMMXhuSzBfSENEWTkzRzJaa1ljRGxZUGcxRUc4dzRwNlpyV21JdlBQck1DOU5YbGhsZXNoQUpxRm9xd09PSEYyREdkZm91UEZpZk15eUEzbUNwOE9fbzBZZmFHcGxybjJDRVNVLUE?oc=5",
-      "pubDate": "Wed, 20 May 2026 17:25:07 GMT"
-    },
-    {
-      "title": "Hastalar birçok il ve şehirden geliyor. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yY2FIUGtMTnJZaUNxcHlSTGVjT2RIZmZ6NXJrdzlMN0pLVHA5bnZiaS0xbE9NaFlrT2w1eV9KQlI2QlFQcnR6YVpGajloUV9BSFBSWFRSMUd5bUJQdW5zLVh1eFVTMlN5elFOeE03Tkl4NEk?oc=5",
-      "pubDate": "Sat, 23 May 2026 06:48:11 GMT"
-    },
-    {
-      "title": "CHP Isparta İl Başkanı Hasan Karaca Tedavi İçin Isparta’ya Getirildi Cumhuriyet Halk Partisi (CHP) Isparta İl Başkanı Hasan Karaca, Ankara’daki CHP Genel Merkezi’nde yaşanan olaylar sırasında yaralandı. Edinilen bilgilere göre düşme sonucu bacağındaki - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbldBM3lpMTY2VDRfaHhKRVVKUmNXZmtsT3BESVl1MFpWdFBhUnVxSlZYOWlfYkxNSzMzd2wzbVBvems5UUhydXc4b3kyVm5qT2o2ak04SFhCak5YcWdHZlRzT1V3Tmx1STkzbEFqMXY4ZENFTDc3ckR3LVgyaURJRU9aUFRLaWdrakg0T2Rnd1ZlWUE1R1BnbG5OSHR5SU5xLTRNaVVBc0lMNnphbS1LN1ZnY3BWVFlnX1p0NHFPY3NwVTFsdlV6cTlHRDVvRXJ3c3R3LU9ZSE1USGx6cEg2NDdUSHNUbzQ?oc=5",
-      "pubDate": "Sun, 24 May 2026 15:48:38 GMT"
-    },
-    {
-      "title": "ÇAL’DA ÖRNEK DAYANIŞMA - Denizli Yeni Olay Haber",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xeVhGWmlydjNQcV9ESk1RN3RpaVNZdlFWczdZOWpIZE9NaXhXaXI1a3pFa0F5WlRTR1FyNlh6dFRiNkVKMFV2NEJDbTBpenpEN21Bamx2QmR3OUduNERtRlpFRE05OVFRWUF1b2E5Vnk?oc=5",
-      "pubDate": "Mon, 25 May 2026 06:45:59 GMT"
-    },
-    {
-      "title": "Pankreas Kanserinde Yeni Umut: Deneysel İlaca Erken Erişim İzni - Tıbbiye Bülteni",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUWtMbmFRZ3lScEJ1SGRqbklIOW9sbHlwSUd3UUFOYlZLVHlzQjNubHZSZVNRY21GTDg1VUJKQXVXZzdlYmQ3X004c3VBUTl2QU5GMUItSWlQcVpkTkhBUTRBeUZwaEp3eUFhcEM1ZTFEenBPaWpvc3NXYmNxN29iLWFuNDBUQmUwVElnYzloNTQ5TWdDUnBVddIBngFBVV95cUxPajkzbEFLM3Z0aWd2U0s4Mk9rQ2pJYWVGZWxsb05qVHkzQXBDOEl4alhfcW0yU0pXdUU2Vzhqa2dXMlpMUmpqS2FGUlhFeVh2cGFPc3VrN0dzS1h6enN3RkV6NWEyTTNkdzZ2VXR3d1IwSV82eHRaNHlGZ3Z6QnJDaHZTdVBXUU1YQnpJRUtVd09PZ1pMejNfMVpsdlo3Zw?oc=5",
-      "pubDate": "Mon, 25 May 2026 06:52:00 GMT"
-    },
-    {
-      "title": "Aydın Haberleri - Aydın'da vücudunda dev kitle bulunan kadın tedavi altına alındı - Yerel Haberler - Hürriyet",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYWtYeHl0ZDhrM3BqMnpvRHlxWDEtclA2d3YySGd0VVk2R3U4VFRodE4wWUpUNGFsZ2l0aEhNbmRVdncwZDBhQ2pfeDRkNzZvcFlEZ1NuTDQtS2ZGU1VWV2hvV3FBQUt6bGNhTlZQZjlVaTY0bEQwWlN5ZDNldkdQNUQ1bFNveV9VNFV2bDBKYkM1RUt6U3ZtSUp5ZVRGc0FTVTFBTGkybw?oc=5",
-      "pubDate": "Thu, 21 May 2026 23:00:31 GMT"
-    },
-    {
-      "title": "Yoğun bakımda tedavi gören Kadir İnanır entübe edildi - İlke TV",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORE1rR21RV2c4aTY4M2x0TnVLZGFTTWdNZkVTNm1IeXBLUUFuOWEySTRtRU9ZYVJQZ1AwZGRCTUZpWi1HSDBDZW1FNXdFVDlLcThpX1d5c2oyX3JvUlpYODFlTmc5Ym9HNTFUVTJGbDNKVHR5RkNqXzlEZ3h1WHQxWUNR?oc=5",
-      "pubDate": "Thu, 21 May 2026 14:15:46 GMT"
-    },
-    {
-      "title": "İzmir’de diş doktorundan özel tedavi vaadiyle vurgun! - Yeni Asır",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVzB5TFFxYzRPYkEyOHBKVlFJbHAydldpVkFLVDNqZXV1YnM0MEtyLVR3dF9jQk9fa1A2TWkxQWw0NlFLdWJPdU5MWV9TRENTSFVtVDZyNnVPdHJKSGlTVXczanVXME1hTDJsRDBmdElybXJhdG83MUxDbU9HNUROR0xITFpqT0pLRHhxUFlvajg0SEhmLW13c2d5REY?oc=5",
-      "pubDate": "Thu, 21 May 2026 17:12:15 GMT"
-    },
-    {
-      "title": "Hareketli Yaşam ve Doğru Tedavi Ağrı Kontrolünü Destekliyor - WinAlly",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUVNaUGRsenpGS2JzUW5wQmdXREN2ei1mM2QtcWRTNUE2S2ozSjRNOGFVQnJGZWg3V2hDdjNFZ2UxSW5HYm4tOXNXcm83bnBDRUNYVllRLVU1QUlEc3B6TGdJNGpRRnk0MlVtcHdhSWFMRFlxVlRIcUhfdllmdG5ObVZ0NngwUVB5dWpmWg?oc=5",
-      "pubDate": "Thu, 21 May 2026 12:08:55 GMT"
-    },
-    {
-      "title": "Yoğun Bakımda Tedavi Gören Kadir İnanır Entübe Edildi - Onedio",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNck92TS1RN3E0a29meWhnbGVFSzZPd1RGVDk3eGZLdXNIWVdGc2JDLWZ3dnI0N1dFQVY0R0lZMTl6Q0x2QWJMT3g0MVdzTFFyRThDNV81MlFLMFZhX0VaSXBUWjV1WXNmcDluMkdWOFFRa3A4Y3lVOXJsRDBYM2VYbkdMaDU1SnNqMFU0em9Xbw?oc=5",
-      "pubDate": "Thu, 21 May 2026 14:02:05 GMT"
-    },
-    {
-      "title": "Tedavi sırasında hastaların sigara dumanı solumasını önleyin. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZmRGX1FQUDlqSkpDR2xPTUxlY0ZPN1hvc3dPRTFnOHp5ZlhySmRlMmJYaVZITnJDZkVyS3ZPT190N21zcXNYV3N2VHl2d0pVVzhmTlltdnpoRjZfSHJlRExGdXhweDM5YnpGSldGeC1VOEpGY2lGTmFhbjRxVHlQaUlTNEVuM3g0djNGalJjcC0?oc=5",
-      "pubDate": "Wed, 20 May 2026 02:12:26 GMT"
-    },
-    {
-      "title": "Kahramanmaraş'ta dumandan etkilenen 14 yaşındaki çocuk tedavi altına alındı - Bursa Saati Gazetesi",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb3FJTGdnSm9FUlBKMVU1cmpfSmhnMndydkRLTzFQaHpNcHhhM194UWg2LWRFdWlKMjNfdF8wZ0MxNl9PUDk0ZVhvWUlYOWpjOUZNNURubkxlWV9STWNMZDE5YTlxZEdaaDJKZFlDWC15UnU1LXZZUzdqWXh1Q0VPR2ZTMWdhN0cyRlhYQ0UtRzVocE50NG9TaVdDRF9zV1d4Rjl4Q1pHSdIBrAFBVV95cUxPMG8yc050UlRfb09vaTZDTUFuVzZkY2szU0pHQmlsQ0I0YjdRNUdtQjhSUm14SU5Vd2VsYjFLWEZsaTlrUHgxRURzV0dCSFotN1pqMTdvRThoS1JpaXBzQ0FYMG5yaHUwRUlCeDhwWFplTHphQjI2d3RPVFhsakEwSzJUczMzX0ZXem5UWW54ckhySDk0a05nc3FTRXlsZmN1VWVtWDZwVVE1Y084?oc=5",
-      "pubDate": "Thu, 21 May 2026 12:16:50 GMT"
-    },
-    {
-      "title": "Usulsüz reçete operasyonunda 4 tutuklama - Nefes Gazetesi",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QU3VRdUxHOWVxX1lzbGdRc0xIT1dRdUZ5RExNM2lYdmRoMmVaX0Q4OGItczU1SjF6X2NXdEhhYkpuSm5VUnNPR0hZa2Y4cTZNUmlUQkpEMXFMWDFKWi1LVHdDUTVFd0hKVXRCSjhMM2tuWm5aRGE5OW51T1rSAYIBQVVfeXFMT1NUV3J6b2ZSSmhNV21nYXpvVDNuaEdCYUs4RUJfY0FMYmlUdmwyVnMtTHVpRUN6bFdzOHZLWXRkM0VNcVRReEpDTEcwQkxybDBVOEdWaHdKVXdNYnN3WXc1Rk4yWWVEcGZJQ21USTV6eUk3T1dPZ2NrdXFNZHlTTm9jdw?oc=5",
-      "pubDate": "Sat, 23 May 2026 09:52:00 GMT"
-    },
-    {
-      "title": "Uyuşturucuların \"kafayı bulma\" etkisini artırmak için içlerine fentanil ekleniyor; Sağlık Bakanlığı uyuşturucu düzenlemelerini sıkılaştırıyor. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb2h1LUlxTzVLT0o4YlJiMmlIYnp5c2paT0JydUxXSXN0WUJwajdNNDg0ZXZ3UTBhTWp4Z1k4TlEzUlE2a3hVR1k0M21IaXFMaXA2Sk5HYWRBMFRZSnN0cTBpRmFMRlJNZ092TlEyRHRXeWhhcXlZME5WN1BDQWxuVkFNam1PdzFpakpCLVlDeFlXdlBOakRLbA?oc=5",
-      "pubDate": "Mon, 25 May 2026 06:05:35 GMT"
-    },
-    {
-      "title": "Pankreas Kanserinde Yeni Umut: Deneysel İlaca Erken Erişim İzni - Tıbbiye Bülteni",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUWtMbmFRZ3lScEJ1SGRqbklIOW9sbHlwSUd3UUFOYlZLVHlzQjNubHZSZVNRY21GTDg1VUJKQXVXZzdlYmQ3X004c3VBUTl2QU5GMUItSWlQcVpkTkhBUTRBeUZwaEp3eUFhcEM1ZTFEenBPaWpvc3NXYmNxN29iLWFuNDBUQmUwVElnYzloNTQ5TWdDUnBVddIBngFBVV95cUxPajkzbEFLM3Z0aWd2U0s4Mk9rQ2pJYWVGZWxsb05qVHkzQXBDOEl4alhfcW0yU0pXdUU2Vzhqa2dXMlpMUmpqS2FGUlhFeVh2cGFPc3VrN0dzS1h6enN3RkV6NWEyTTNkdzZ2VXR3d1IwSV82eHRaNHlGZ3Z6QnJDaHZTdVBXUU1YQnpJRUtVd09PZ1pMejNfMVpsdlo3Zw?oc=5",
-      "pubDate": "Mon, 25 May 2026 06:52:00 GMT"
-    },
-    {
-      "title": "Sağlık Bakanlığı, etken maddesi fentanil olan ilaçların yönetim ve denetiminin güçlendirilmesini talep etmektedir. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmRNeHZQSXBKYUZVZVFsV2VzcmdmcWFrRDVsQU5XdXFJQi1XN3RmX0pCN3U4NGVldU41V2l0RXZoamFkcHF6RXBWNU1FaFYwZm5idVdldjBBbE9VRjF4aDNBWTBfT2dDdmRMTGxkUFRlN3pZMTFGWjU2RlJQZHVaSzU0cTNFVTlpcG5VRXltYTJSdVhEaHBRMm1BVmphQ0FmcDQtQg?oc=5",
-      "pubDate": "Mon, 25 May 2026 02:51:35 GMT"
-    },
-    {
-      "title": "Türk İlaç, 7,5 milyar TL kayıtlı sermaye tavanı için SPK onayı aldı - Investing.com Türkiye",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON3Bfc2w0OGNQVnFWc1pBNktjeGdhcjVXeWJ2dEZpN1Z4Uk1Ua05CWU1SZGxOTFZUbmJpOGJTdnpBc0NCV1pITHYyRVA3YVlwazZaSWZaVXVkbzVkUHNSMjFHRnBPRHljc3FZeS0wT0c0c0JxbGVnaTV3RUxRWFJ2NEVwTmFkV18zNDdhYVlZcEh3c0dtUE1RTDd1QkY1a3QwdTVySGxkNkRfZ2NsLVRodlNHN3RmSmk1cmc?oc=5",
-      "pubDate": "Tue, 19 May 2026 09:21:31 GMT"
-    },
-    {
-      "title": "Gen İlaç’tan 641,5 milyon TL’lik ihale açıklaması - borsagundem.com.tr",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSDBHS29uX3JsQnczaWpKS2JGTXdDRl93MmdoR3NOTDRoWFdmcjlVMC1RZk5ld21QZXRjNFg1ZGlweUJ2Y2gtNFB3Vk9mRkpOR0RraXRuc1FlMS1QZnhYQVVUTm4tRkhPVDR1cjFDWlZ0THN6REdPaFRGd0o5dnlHZ0o0WQ?oc=5",
-      "pubDate": "Wed, 20 May 2026 14:12:00 GMT"
-    },
-    {
-      "title": "KAP ***TRILC*** TURK İLAÇ VE SERUM SANAYİ A.Ş. (İhale Süreci / Sonucu) - Bigpara",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONkdxTDZVQlh1aXZRWFhfaXc1RkFuN0tQN2NFc1U4alZ2dmZzLVVpRENsX0RkZm1YZXVZcnRsOXMwSGx6VFBrWE1fQXN0QVNiQVg5Y1NqaERwMzVKTTRCZU5mOVliTnY1dVlBWlN0MU1zSmxIWnZHUElMYk4xSjhudFJyOURlN05SN043UDk1dHNoMDZxRXZVSDVIVExJbE9ra3M1VzFlR2I2eWVVNE1UMmlDNTZQZ2FPbHhBMg?oc=5",
-      "pubDate": "Wed, 20 May 2026 16:37:04 GMT"
-    },
-    {
-      "title": "Türk Bilim İnsanından Tıp Dünyasında Ses Getiren Araştırma: Yeni İlaç Hedefleri Keşfedildi - Sağlık Aktüel",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU1B5NUVLeGFpTWZSSFJtUUhBWGVZU3R0Y085ZUsteU5WYXpHeW5BaWhGeVluZ1ZDSEhIenkycGFGNThDRDJGeko5SU4tcFFSMHpJMzJNUGlMa3BMcXJSWEgwZ25IV3lpS2FEQzVqQkRaMTNTWDRrdk9MTGpvSkhWTVhNUHpZeTdINHJsa251VVB4dmFmNUJ0SkxKaW4tbVlMZXljb3NHUk1QTkhPcHpKT1FYbV8zQTNaQnNPQzZNWDNKN0U?oc=5",
-      "pubDate": "Thu, 21 May 2026 08:30:06 GMT"
-    },
-    {
-      "title": "İlaç değil, takviye değil: Modern çağın unuttuğu en doğal şifa mekanizması - Odatv",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObzdnSTNRdElFT3JpN2lQbEZoaWpoNG45WlFzUG1vQ1R5eURUQWJNZklxMlBTQm5OVkRSYU9mZFc2UDYzdXZyX29wSTlDXzRiY083eG1VbUctem10VHBuMG5rQ1RGdlpFeHN6TzdRUDRyaTg5eHNzTXdPeERoczZxei1PYkFNNHkzR0xZOXpyTjZOUTNqbW5VSDhlbEZ0NDkwOG1lUmtlbDY1b0pRWkhqclNNWFBabjJGZTd4Q0RrUWhBODRTMWFwUEJ0QmdEckZXMlhnOWs0VQ?oc=5",
-      "pubDate": "Sun, 24 May 2026 05:28:31 GMT"
-    },
-    {
-      "title": "FMF hastaları artan ilaç fiyatlarına çözüm bekliyor - Yayla Haber",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNHdxRmpINUNMZURuV0FyX0FxNm5JSG5YVjRTZGM1cTh3U3ByR3U4R0FXWlBtT1h2WnItSjFsd2cwT0Vtc1BHd2JfMFpjVEpHYVF1SS1TVS10aEw4R0RKMWo4VFpNdkJkR3lOVlN5eXFnMWdxLTFiVXZQUjgyNlJUb0RGa3M0eU5I0gGOAUFVX3lxTE84YS1naktmSmFGRU5NUzhSZDJ4U0NfR0pJOTR6QUIxR2FiaHZYMWNFcmFxNjNDNF9PaTVsT0xfdl80Uk9UU2FMdTkyRFFiZEJaVkpMUENueDVEYzN3cktYMU1nREdHbWZGdDdwMW52cFNJR3FqX2Q2OC1LQ3NtT1NQQlNPU2hia3NqMDR5d3c?oc=5",
-      "pubDate": "Thu, 21 May 2026 12:52:00 GMT"
-    },
-    {
-      "title": "Bilinçsiz ilaç kullanmak hem çevreye hem de ekonomiye zarar verir - Esgazete",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNHhzRkZuV2ZuN1RiSEx4VVNiNWZvZnJPNFl2akZtbjl3X0pRdlVFS29iaFRjWXllUWJObHUxb05XOEhiNVF3VXA3T0xEWUEwTC1ueXAwTldSOEcwSW94WmFZVmlRS2FEWmR1ZVFaYlRFVVd6dG9tZlNvMHV0bVFWcDRadERJV19kTE4wNmIxUHVGYi1G0gGaAUFVX3lxTE9sZFZ0REw4aHBpUGdxYkJvZGpPZHl5Q1NTTHRjQmtWbS0weGxxV1VTclBsSU5VWDd3Yk1pRk43Yl9lNFJhWHNhVks3NFFaeGJQZjdRd1B6WE52RTZaVTg2cFhyVFZqdTZPM3hsS2k5Z2EwWkJGaW5PWXZqM1V3NS01N2dXOFBzSU03MFNoQkxRbUcxZXdOTl9fZUE?oc=5",
-      "pubDate": "Tue, 19 May 2026 10:39:33 GMT"
-    },
-    {
-      "title": "FDA, Aardvark’ın ARD-101 ilaç denemelerini durdurdu Yazar Investing.com - Investing.com Türkiye",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbFM4YWE1aFgzTEZDVm5jaXMtZ19xMVJIcWxTdjRlR3pEZFM0eUlLRndybzE5MGhqU2lzQTFnNURCd2gtbEJRdldnYnZGNTl1ejZtbnlVUFVZaHRkOWhWT2tfcFZjd0thcUw5Y2JJcDFHZ0xKal9mTTBjWTlhZTBBaWRzazY5X2wzTjM5QWUtV2ZVZHRVakhneGxEN0dPeGxQYmR0dmpB?oc=5",
-      "pubDate": "Thu, 14 May 2026 22:32:21 GMT"
-    },
-    {
-      "title": "YKS Yaklaşırken Sınav Kaygısı Vakaları Arttı: Klinik Psikolog Faruk Cesur'dan Aileler İçin 5 Uyarı - Gün Haber",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ3lZMDV5WmJZTXpQdDRZYW4waUxobDZHYXRIbVJTZjhOWTl4ZGJQeUd6emJjWnRCT2tuOFFoaWszdFJweThkcFAtQUx2ZHdtbHVweXNUVXFhWnFFZy05VFJZLVJwaFNxaWZjdWdWODFPN2Z6RE9mMFlDeE1LYzdrWnlHTEZYSF9hanBwSDZxSTdEMzlCWWc2empGYVV0U0RQNDdVYmE1NjZPRzI4NktPNEVMRGtMeC11eUk2NVNybjE3MVYyRUdYY0x2UGR2OHFtVndwOQ?oc=5",
-      "pubDate": "Tue, 19 May 2026 10:01:00 GMT"
-    },
-    {
-      "title": "Aptevo, AML ilaç adayı için klinik deneme sonuçlarını açıkladı Yazar Investing.com - Investing.com Türkiye",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZTdvS2ZZN3VEZ1JWRml4dWlsOVFfZUpZOGVZVU5KZ2E4cXl0ZmlmV21BZURuVmJFM1dpQjBQWU9hNWR6Tk1wYTR1ck1rS2xYcTBySTdjR3dUT3FmSDRtdnlqWTNTZXBMYklyR00xdmlKU2UzSnBsZy1xQzZ2Q3A0a0NKWUM0Zm05aHdXeW1BNmx4NmNWbktPMnEtR2IzakZ4ZFF2WVA3NlpMRUs3dG9rMHBn?oc=5",
-      "pubDate": "Wed, 13 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Dera ve Süveyda Kırsalındaki Göç Eden Ailelere Mobil Klinik Desteği - سانا",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9WOXd6bk81ZEd4cmFUbDRZU1RrR09DQWF4bWIwbnNNRG9ZclhGSU9uVGJRN3Q4YW1ibGdSRFp4THFJdVZGV0c3Sw?oc=5",
-      "pubDate": "Fri, 06 Mar 2026 08:00:00 GMT"
-    },
-    {
-      "title": "CHP’li Bankoğlu’ndan Bakanlığa 7 soru: \"On binlerce klinik psikolog mağdur\" - birgun.net",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa2I3UEM4VmJUWjM1WXJkTFZwRUdTWEpxYUktalp4aWE3RTJBanZWdE1LVVBpSktOSHk0bkRTdTZfSUtPMFgzUDJmajZzMTZaSWN1S1Z3RzhWTURmRF9nOVJQWWlKUmFubVF4VW1ISTFYbm5mTHBKMWgxSFBYOE9pRDhsZHlCZm1TMVB1cC1nSFdzb1R6QXZEODI0R1VfVm9MeWx4ZnlzTE5XQQ?oc=5",
-      "pubDate": "Wed, 18 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "Klinik araştırmalara SGK desteği - Sabah",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjWko1M21yTFZDQ01IR2RGLW1HOWE4MUlmYkFOem8wMGtyRlhVQ1JObUNFcnloZ2lUNlZSRHRteTJ3bVZUSHhZMHRFV0JnRFFncVBhTDZfTXoxUUs2QnFPQ2RJTzlJZVFOc1lQakRXNzk4VXVLa0VfUnl6QlZmd9IBgAFBVV95cUxOdUxRMnhMQlh6MUNCVlJBZVJoRDZvczdPYy1haFpMRXRDdjhnWkhYa0ozM1JuWlNycGlmSk9GYmQyZmtRVnRweWJKLWNQUEFLNGUzeUFxZHFEWTZCX3M1cF9oT3JNU2c5c1hLWmwzNWNyVFVVM3hMT19kY094amdrNA?oc=5",
-      "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT"
-    },
-    {
-      "title": "Kadir İnanır'ın doktorundan ilk açıklama: Klinik durumunda yeni gelişme - Yayla Haber",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaWVfUl9yVUxDOWIwOEVXdnFYdWFsa0hMNlV2emtUOVZHdzdOWFdjdU92YUlYMTRIcjVOei1SNkx5UmJGVzRNcXc2Zll3SGlMQjU5RVN6YWFBZWRsUml0OE1ONjFiaC02VVhBVkgwT0dOekRkUlhXTHM4dDNrUl9wU2JzdFZ2YlhQNk9BUVNlWmtpNXJhUGVZd2ZnZ09mWDF60gGmAUFVX3lxTFBXYTQ2YXZZTXo0V2VvdzRhWWZzVTVkYUxsNE1MWUUwOGRXVDJiVVo2dHNTcUFXTjBaMndzUDZQM19EVGhaWUcxbG1yOFV3REJyeXl4WThKYWpYaE9sNUk2SHJHdDVaMTVEZnREQ1pkV21aa2RHYUhORTZhaVVNbXZJUk5QWVQyekRwLVh1a0IzNjlDYm5uU1dZRnAwRkp3ZEtac2VQQkE?oc=5",
-      "pubDate": "Sat, 16 May 2026 11:07:00 GMT"
-    },
-    {
-      "title": "Klinik araştırmalarda GSS kapsamındaki hizmetlere SGK desteği - Sağlık Aktüel",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTHJ4WFNjeGtGX0VadVZodVdJRXg2a2hPZkw0NzNFYTJnc1hMM3pORmx2UWpSWk5aOW5IYldEMzVsTlE4RGR3UUx4cGplWW1RdHpMUlRTaUo0NGwzcVRIZzFsUGRnbG9rdlQ3LU8wRDRBbENiVldPaTIzT1FCOXE3WnkwSFdOWFdPc2dOVW5PdGg4T1NOMDhYRWs4S01uejlaUHhxTW1WcU03c0k?oc=5",
-      "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT"
-    },
-    {
-      "title": "Binlerce öğrenciyi ilgilendiriyor: YÖK'ten diploma kararı - birgun.net",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSUlzV2l2M0NJSXRIS2RyS1o1R21Wa093Zy1WcE51ZHZiSkFVSFpZTGNHWXY0cFZfUVZoLWRuNHh2dGcwUTFUeFZlS3BSVG81bVZnQnN0Y3E1cW9wSW9xVnZUVklKN1NSbXFRZ3pLay1wOHZkYkdPdnJoZnJZRVJIUjI0VkY3M2k4SmprX0xhTkZISTRIQ29F?oc=5",
-      "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT"
-    },
-    {
-      "title": "Instagram CEO’su mahkemede: 'Klinik olarak bağımlılık mümkün değil' - Gazete Oksijen",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbEFOSGNhNUhscS00YXVqNlE5N3d1QW5Ya0U3X0NJcEJtRUVCVDFVbEV1WlhPQ0VWTFZXMWZ6dGZpbVpoS3RvYU1VVHQySEd6YWFPZmRzVnYybE82MW1DZEkxb0M4YTFtdm9KRjRKZE1jdk1sQXVxOGRNX3o4cTlMbkJaRExVVUJJcmtDTHZIbUFKVElOV25QRktsMEFGWHZEZnk0YUhHUi1tTnV1OTMyWTh3Ymdndw?oc=5",
-      "pubDate": "Fri, 13 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "Nikotin ve tütün bağımlılığıyla mücadele edin. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MTC1RTzZId2psM3YyTXVUYTBSeEJZTURLTUR1VFdvcUF3TGVyUjdubDBYTWJIc2FnLVl6cFlMUjh1ajVXT0UwV010MnBFaEhxVllvbXdsclVjYlR5di1icGphS2lKUmF5ZGRPYzB1M3Zjekk?oc=5",
-      "pubDate": "Mon, 25 May 2026 02:39:57 GMT"
-    },
-    {
-      "title": "Sağlık kuruluşları, Ebola salgınına karşı izolasyon ve kontrol önlemlerini sıkılaştırmaya hazırlanıyor. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORmRuUE1BTXNTWWdiV055b190N1pTZHFSY08tVlVQTk80MVZzTmdncENMdHZ5YURHY2drOTQxZEY5aDlBQlZKczlJZGhxd0tNU2VnZGVvNnVoTnR2Q1Q1UVVqMWRYYTZfam5ueFVTZVdrMkpQMkRvUzI0aXFsNkkwS0M0SmRSUDJnNVd4VkgtTE5Edw?oc=5",
-      "pubDate": "Mon, 25 May 2026 02:38:37 GMT"
-    },
-    {
-      "title": "Komşu Laos'taki eyaletler için sağlık çalışanlarının eğitilmesi. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91a1dGWGxJVFZsbmk5YXphYjF3VjZxNVN3dDI2RW1XYzJGVHlJbFIxNC1VR1BOajRWN1ktbnNjM0FHY3lKWjMzdlFlY29uTkRQMzFBdi0zTGZRN0lDTm9yUlRFNWVfNXlsSE9Takw5Mm9IcjBLWWxqcE0wWQ?oc=5",
-      "pubDate": "Mon, 25 May 2026 01:24:24 GMT"
-    },
-    {
-      "title": "Kanserin ilk belirtisi nedir? Kanser neden olur? DSÖ'den tarihi kanser raporu: Her 10 vakadan 4'ü bu 30 faktör değiştirilerek engellenebilir! | SAĞLIK HABERLERİ - GZT",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNcFVJRkZ5aVNQZ3pZRjlSMnczRjlYYmg0WVhXdHRwVFlPVldwdXJrcnBySVVvMEstemdVTEVWckJfYllCQ0xjT2t6ZVNkOVR0UkkzdmxsUTJqRm9FNWJCTjMwNUVxZC1YTHlKRUJWajdQQk9aTHNzWmQ1amN0THRqLVRRemhuNFVPcnZXcGdBT3JzejFQMENKdUpHZ01uVGZIcEdYY2YwRlBHaFhjamVRSTNJU3E2YnVoRjk1dXZRckxoU1hGZHpVUk5mQktrU3hOZTdHWHY0VHJSR1BzY2htQzlwMUtUaFVQTkdIY1l4Nl9tcUZFM1pVVW1YZmotSzdTQTcydi1JSWV3cXUxNGpZR0Q2ckQ?oc=5",
-      "pubDate": "Sun, 24 May 2026 13:38:37 GMT"
-    },
-    {
-      "title": "Sağlık Bakanlığı, Ebola'nın ülkeye girme riskine karşı test ve tedavi kapasitesini artırıyor. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVVR6ZzlXLW4xVWhoclJZNktnRFAzMGxuYlp1M1hyd0ZKQmFqQWVJcjdyLUF4blg2UTNxNmZ0QUNtVmRmSUZ6Yjk1YVFkTGotclR1N3I4UXEtWWl3UzRDbFZEQWswTVlFaEEzbjVYblpTQ2UtdE95eExOS2dqRU9vYi1LYzIwTjJxclg3RlVuMTNZc01aNVRIeWJpRkNSVTdYTXQybw?oc=5",
-      "pubDate": "Mon, 25 May 2026 02:40:19 GMT"
-    },
-    {
-      "title": "Ho Chi Minh Şehri, ilk 9 belde ve özel bölgedeki sakinler için ücretsiz sağlık kontrollerinin programını duyurdu. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT2FGMUpuMkRZdUJnYUlNN21kN08yT3dmc3JxcTdXU25fVnVVX0k5QWtibU5td1FKZzJBQ0Vad2I3N3kwMTk3RUJ2RkFKUmpnNnQ0Z2Vxb1BHbkNKcXhSRVpjZ1Z3Y2p0TUdWN2FSTVZSejFwTnJ5aFJxWWpFLUlPS1M3akVaemd5VnhCSjdMUXdGb2tSZmRfV3MxR0VheW43bWNCcU95MkhacUlo?oc=5",
-      "pubDate": "Mon, 25 May 2026 01:20:57 GMT"
-    },
-    {
-      "title": "Ho Chi Minh Şehri: Birçok belediye ve özel bölge, ikinci çeyrekte evrensel sağlık kontrollerini tamamlamak için çaba gösteriyor. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTVBpM0xWSTBOOU14dVVyTjdiMmxjNmxFRnZadUZtRUdweWE3V1F4bnNBTW9FYkRlTVluaERpVEdyZXFVRUJORU1TM25DNEtPNjRlWnRCRldpV2Q5RXVRUThqbXdmcnQ0TmltMGhkblBSY3FzWE93dXp1RzZ4aW9sTmVwbVdIWFV1UzRaOF9nUTdKVDBhdUFSaHBVSGQtRVQ2czhoQWluMjhqZXc?oc=5",
-      "pubDate": "Mon, 25 May 2026 02:25:07 GMT"
-    },
-    {
-      "title": "Aşırı sıcak hava dalgası - herkes için sağlık riskleri ve önemli hususlar. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNLWlIYndQMnYxd083Z1NzUE5xempybVNrSVdtblJTb3pBSXNaVzFRZ2hjeUxpM0JLZWM1N0hPUWw0S1BLSWJscEtnRnQzV0hpOG5MV0VReXRyaWFBdkpsUXdaeDg2TDlqbUg2TERsMF9lRWM0NXA4RGdMaEhnTDRyUmJCdDVxZnAzbDVRU20tNm9BcDl4TXE1WGZwcEQ4Zw?oc=5",
-      "pubDate": "Mon, 25 May 2026 00:50:15 GMT"
-    },
-    {
-      "title": "Ebola ve Başkan Trump'ın politikalarının ardından ortaya çıkan küresel sağlık \"açığı\". - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM3VWZW9JS1lEalBoQWxiS1ZUYnVod1NFbERxQkNPOFYxOS1va3MxWmVaSnFJUTdPSE5MQ1lLR3NweWVpWGJtdjJLS1BaX3RCZlRkTkNjVXZVWDVUelZzN3JRX1hmQkIyNGNNQjh2dXFUTGdnWUFlVXFnUTFib2M1ZmJacVRMdUNVVElPdXZVMXkyS3BlY3dNdUQ3TnI?oc=5",
-      "pubDate": "Mon, 25 May 2026 02:40:42 GMT"
-    },
-    {
-      "title": "Ay tozunun sağlık üzerindeki etkileri hakkında şaşırtıcı gerçekler. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZGpRZmFpRk9RRk1oWExuaHlEM09sYzlrRXV6X2p3SWxaU0hOSEFUM1ZRMnU4dERqQUZQWGltay1iV2ZaYkRibXpuM25EaTE1MjBNMGdvcTNQV0FON2RZV0ZLNzQwM3hTS3p1RzU2Y3RPVnVDeHRUa1N6VkdHdHoyS3A0YnEyUkE?oc=5",
-      "pubDate": "Sun, 24 May 2026 23:56:29 GMT"
-    },
-    {
-      "title": "Ebola'nın Vietnam'a girme olasılığı düşük, ancak rehavete kapılmamalıyız. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGZMaWtJMzNQcmNpTGJnZFNkaDk1ckVmMFREM2lWQmJwaVhObW9jeHFGQklic3loSXNMRXNONFc0UTdsbU9ZN0lZaWstVnJvVThBeEtkNXFTZFhGRENWaFNRLVVVVC1Ea3oxSGVSTmtZWTVEdG9WbEd1dHNWUDdKeTdLOTc2ZVQ1QW9GX3BycmpZYXhSTXAyNw?oc=5",
-      "pubDate": "Mon, 25 May 2026 02:35:24 GMT"
-    },
-    {
-      "title": "TİP Genel Başkanı Erkan Baş madencilerle birlikte açlık gevine başladı - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeTFGT00xdnVQSGJ0MERyODNCaWNMLWtMQ1dKYTJYQm9SbWFBTHVLLWtMZGt5RWx0NnZiZUdfVFRuYU1uQUVyc0dqUkNMdWg1TWhsTzV4elZwRjFaNmxVelNhQXNsSG5GMk5JdUFlb1oxRnV5S3pic0gzMkJnYXB1Nm5IdlJiVV9sUU94NU1COWxTMk5pdkN2TjltamF6YVFodkl2RlhSMUY?oc=5",
-      "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Gamze Yıldız’ın ölümü sonrası tıp merkezi için kapatma kampanyası başlatıldı - İlkses Gazetesi",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYU1EMW8xcFdZZHZTSkc1cFJtTHdXcHphXzZ1TkhaU2dHQ3k5R3dYNkxJQ01EX3pPdHJHU04yVk0zbzlTUVVrMUs4WTVrWU1KWTNNNENoMHdveVN1N0pZdm9zTFhubmh6OHVsZjdQOG5tcFFQMDdfUjVaY2dQUHViYmxLUloyUThPTHpZMVZZQTRyX2QwVjRScTdtWVhLanBaczVubXM4Qm5BVHdPdERKdEc0RmxNUdIBtgFBVV95cUxQYU1EMW8xcFdZZHZTSkc1cFJtTHdXcHphXzZ1TkhaU2dHQ3k5R3dYNkxJQ01EX3pPdHJHU04yVk0zbzlTUVVrMUs4WTVrWU1KWTNNNENoMHdveVN1N0pZdm9zTFhubmh6OHVsZjdQOG5tcFFQMDdfUjVaY2dQUHViYmxLUloyUThPTHpZMVZZQTRyX2QwVjRScTdtWVhLanBaczVubXM4Qm5BVHdPdERKdEc0RmxNUQ?oc=5",
-      "pubDate": "Fri, 22 May 2026 08:58:25 GMT"
-    },
-    {
-      "title": "Geleneksel ve tamamlayıcı tıp uygulamalarında sağlık hizmetinin kapsamı genişletildi - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSjVtTUdqLVdHbGh3NlFMczZVLU9FU1dlU1ktdDZHZmcyTjlaU0VIVVdSc3JKOUFicG5HNTlhNmtfM19VUEtBUWNGM0FkbFpIdjh3NFlkYTF0c21WWkFjSTBHM1Vwd2I4T0xNUTBSbExFWGxvb1JPNnAxZ292RXpycm1mS3pZeGpRaTdoQ0NqdTV0bGFBWXo2SXM3VENCWHZfR0JCX05YazNyR2V1U2lVTDdDQkFYN2QzYjdCY2JDeFhrQQ?oc=5",
-      "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Üniversitede 'kayıt borsası' skandalı: 20 bin dolar vereni Tıp fakültesine almışlar - Sözcü Gazetesi",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeEttYjVNaURidGgwcW41N2lKOVNlWndBRFhRdDYxRzRiS0hvMEw1aVJ5ZUpXQWxCcC1VSGVJd2NWN2lqTVlxUDJYVW9NaFFOVE02bGhnOXVlOS1EcFAzY0lwRVJRalBHUGs2OXgtSWNOaVo0bWJQRjZha0xGMVM1M0VnMG1lZ0VNWjE1cmNnTENmTU9WZGo0WUtJNU9UXzE3ZnZIWkdqUEtDdzcyTjhpMnoyYw?oc=5",
-      "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Sakaryalı tıp öğrencisi kazada hayatını kaybetti - sakaryahaber.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaG5FZTRDZHg5Y3FiTXU1SzBaVnhOVGw2Xy1udEN2b2p1RzNDbndFX3hJRDRvd1FtOXg2bTF1RVhnV0s5U1dSV0lTY0pYZHd0SGdVejBLd3JDWUs0UHA1TURRRmtCaVlmY3Vyb2g4Yk5hVEpYQ2I1STgtRUkzcjExNktCNWxFTzlVUFA2cw?oc=5",
-      "pubDate": "Wed, 20 May 2026 09:07:05 GMT"
-    },
-    {
-      "title": "TİP'ten mutlak butlan sonrası toplanma kararı: Karşı Devrim’e Direneceğiz! - Halk TV",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOGhhNHFRR1lIQTQ5VkYzNTZac2xZTEk5QWZlaThIb1lDdTRhTzJWckRsRzNqWXlOdDAtT3Z0N2Jva2QtdmI2d2x3MVZpaktTTzNXMjhHcmU3ejN3ZExJcTRrU3RtUUZIYXUwV3dKRkFhRjRYT1FUUWFsSTlNTFRFVlp3eS11SDExUk1EU28tUmg0aWtWazJFSllyOHRSeExMTnhNN3hZRkVHZ2s0WVE?oc=5",
-      "pubDate": "Thu, 21 May 2026 17:18:00 GMT"
-    },
-    {
-      "title": "SON DAKİKA! Gamze’yi ölüme götüren tıp merkezi sabıkalı çıktı: SABAH tanık ifadelerine ulaştı - Sabah",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNc01CWlR0QUM0dXF4am9CMXdxcVhfU1dkWlpZd2tvMDg0c0s3QmVWRXMyOTNROGpyY0RZSGYyTU50VXpEM2xvaF9zcHE3eEhlU3MySW8temVsbjRfb3BVNllIY05wcFNRa3RHZnhWbGY3U1NRMktCZ1lFbVV4QjlPbzd6T2t2d3NQcXYxSUVTdDJ3alRrNk5HRklRRXU2anE5Z2pJd3pKRlJYNmRPeFB3TkI4Z3owRWkxZHdDMXowa0k5MTNnOEZ1SmZWY0JtTzTSAdIBQVVfeXFMT0p2ZG5ZX2xMeEptUlhOWmJVS2w4LXV0YTRybzJId3dzbEdib0hUa3lhS3ZuOUdTSl93djJ0dkFERlMzVGxpODI5alMwUXdaaXNWQXZlakVEeHJjVDY3U1YzQzRxVG9aM1hQWGlJUTBCY2N6TFhzVE5SUDQ5QkdJUnlZblFQb2Z1TzlRQWppWDl6TUgwT2lEdXBGcndGUHI2NlI2TUlBeGd1akxwa2RFWXdHSVRzOXF6c1hYVjFfX2VYU0dEaVJTdE15bkxDQndsT0d3?oc=5",
-      "pubDate": "Fri, 15 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "7 Numaralı Askeri Hastane, 'akıllı hastane' kurmayı hedefliyor. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNkt6YVlYak83NVQzNHphZVRXRWl3TUJwM2dPT2JkT3o0WkZ6YWFad2VRdGZKSnJVdHFBZXBWX2pjMzhHb2VJWlg0Y1ZIZ3ZpOFQyNU5ZOXgxVTZncEEzTml3LWVmT2NuaXlkX2xsSExYWG03cnhoM2hHa1VMZVJTeFhXTFJFQUlBS3dFNg?oc=5",
-      "pubDate": "Mon, 25 May 2026 01:18:03 GMT"
-    },
-    {
-      "title": "Türkmenoğlu’ndan Van’a Yeni Hastane Müjdesi - Van Ekspres",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEZklyWi1XNVFpNk1fYXZ1Z0hfM0UtRnVRbGxfTjlGMDJDcEJvUzluVFVVb2VxQXJOZ0xOZjVmX3h6blFxMk9mMU5SWU9zRlNsQm1pWWp6aDYwRTFiN0ZONGx1cWdhdWxmYzJTeUtfbEd0Q0lsQ0UyWm94SdIBgAFBVV95cUxQbjROR0NBb1NWbUNKYVI0UUJoT0hoUTFVd1dySEJneVU5RHJJSkFtUU9HQ1lfWUw2Q1BxRlV3RTdJSjRoMWlELVJvYXR0dVAtMVFEM3hGZmZEU0c5YVdjaEEwYnZWRG1rQWJzdGstTmEtWHk3VnY5MXVDSDRyZ0VPUw?oc=5",
-      "pubDate": "Fri, 22 May 2026 23:11:00 GMT"
-    },
-    {
-      "title": "Muğla'da hastane dönüşü kaza: 3 yaralı - Haber 7",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZUplVWlEei1UZ09mblh0X251b1R4My1EdkU3WjRpNmw0eDNsWVhXMHByUlhXV3lwejdtY3hrU2JXcTFBY1ZmUHpLYVJVc3N4VUFNdzZsMDlYWVdVNFU1WXltQUdkVC1naG5Eek9fWThxXzVMNHh1enU1VnVPOFhaZ1MwTUZtMGvSAY8BQVVfeXFMUEZsMG10TzhqLU5yZnpoSm9MVkRaYTE4bzRDaEJrSEhOUWpiakNvSlZXN2F4V0EtU3FzdEtoUDdlT2h1T0pGUS11a3B1QzBrVTBTMFIxcWZWNjAyRWo3WHNra2ZwalR5bGV0U252T2k5MUhDSkR5NmR0aVpXcHZBa2FVRmNBTXJDNFRVNE9jRE0?oc=5",
-      "pubDate": "Wed, 20 May 2026 17:29:00 GMT"
-    },
-    {
-      "title": "Hollanda'da hantavirüs skandalı: 12 hastane çalışanı için karantina kararı - İlke Haber Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLXUxUXhQQ2ZaWHVtN3ZGaFFYRFBQT25jZGpKTktXT2lDR2kyaDVjNmVjeEtHYTV4dTZ2RXotVF9yOXh0aFR2cUp5d3B5eHc0UFFDX01neFFYYXhnYUxxNlIwbDJDZUlQUTUwRVBIWjd4blNyWGdYeGstcURXQzdkLVF5eUZXVWQ3eVdBWmdmTzNqZzhVMlJyamNjNDRBa1NFYmpkTGlyR0t5VEE?oc=5",
-      "pubDate": "Tue, 12 May 2026 14:39:57 GMT"
-    },
-    {
-      "title": "Osmaniye Eğitim Araştırma Hastanesi’nde Bayramlaşma - Akdeniz Gazetesi",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRjhIZ29aLXBSdmtRZkZnLTFGTHU0bmFveEx5MVhxZTNSV1dwUW9TMGYtVXVES1dqNGlkWHJjd2RRT3RWVDJuZDRnQ19BbFg1M0hSQl9VX2dGS3g5MERFSEI2TkI1TkhxSEZQU0NvVkk3eEhpWkw1WHFlRWQ1SmRaTjhkZF9ZN3BQcmc?oc=5",
-      "pubDate": "Sat, 23 May 2026 10:15:00 GMT"
-    },
-    {
-      "title": "'Taştan Hikayeler'in gelirinin tamamı kanser tedavisi gören çocuklara - DHA | Demirören Haber Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOG1fa2UzbDAxZ19LNDJxTWQtb0xIQmQ4ajRuNVNiZnR6a1F6V0hGRVpvbS1IZm9IUVR4Wm4zMmF3TkxnaWJaZUVoemRVUnZ4QlV0TUFEbWJ2VnVVaTJSOWE3azRnSU5xeC1YRmw4X1RNVFVCb0pGV2x3aDBPUGhtTnZ5aFFaUnNwdVluLWFGUzQtNnNrdGhxYVg5MUw2Q01hRkdUZVVMenlHMmo3OWfSAbMBQVVfeXFMTjMzY3F6TFhkNGJqeTctcUZrZHU5Q3B0UUhmd0o5cmJxUERmM2tEQ2JCZlY3ZGFLQWRJNFRnbTRWalJTcU5EVGJ5N0ZMd1RzUWRsUWF3a1dnRUh6RHdXLTBQQ0ktMEp0WGgzVEZoX0VoQzJLMlRhNlRLUlpGNG1RdFhsSVlOa2xGSmdfVkdjQ1Y4UWZrTUVrM3dwRmRBUGlWZEVvMGJLakJ4ckF1MENFYlVuNGc?oc=5",
-      "pubDate": "Sat, 23 May 2026 07:26:00 GMT"
-    },
-    {
-      "title": "Yaralı Küresel Sumud Filosu aktivistleri İstanbul'da tedavi altına alındı - Gündem Haberleri - Posta",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORGtpMXptY0VqTUVYa2JodDllOURCVWhDb2hDNmRWem9TUkJiclR3X3M4MWlhR29wMTJHWmhJdFd0NDM1bG5yS0NBY21lWmxQNS1MczZqSTJJMDNyTS1CQTBiN2xFMVRQcVFuaW4yT0Z0Zk9Vbk42WGRubHlKaXZjUjFfR0hGaE9YUkYtNlJDNVo3QlNrazZDWm9xaW82UXhoV1Bjd0JIUk83R0J5Z3BMOXFB?oc=5",
-      "pubDate": "Thu, 21 May 2026 22:53:27 GMT"
-    },
-    {
-      "title": "Göz yuvasına derinlemesine saplanan şiş nedeniyle acil olarak tedavi altına alınan 2,5 yaşındaki kız çocuğuna müdahale edildi. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNkpTMXR5OGxSMVVJSGZual9ycTNTcGRwVWJ2QmVCQmNGZ3RuMmxDaGU0REdqQ2RleTdwcFBVbzEwMEhLN3IwSTZ5U043OG8weW5xZ3VUbUtqZmZfNnNLbDBLcFh5MU9ueFFhSTY3eWtTVWtMU3R0T21aRG9jTjU0NzY0TXVjaEJITTQxdkNFTEsxejA?oc=5",
-      "pubDate": "Mon, 25 May 2026 02:17:04 GMT"
-    },
-    {
-      "title": "Fizik Tedavi Hizmetlerinde %40 İndirim Anlaşması. TÜED Avcılar Şubemizden Üyelerimize Büyük Fırsat! - Türkiye Emekliler Derneği – TÜED",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOd21rWkN1aldqYk43QTFaMWJObm5hcmZFNU00Z2hLZG54NGxaTzlqOEhmdE1NdThlR0dhRUpKUE9jZnNGbjBMOXJFc1B3STJXRWxTbw?oc=5",
-      "pubDate": "Tue, 19 May 2026 05:26:08 GMT"
-    },
-    {
-      "title": "Sağlık Bakanlığı, Ebola'nın ülkeye girme riskine karşı test ve tedavi kapasitesini artırıyor. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVVR6ZzlXLW4xVWhoclJZNktnRFAzMGxuYlp1M1hyd0ZKQmFqQWVJcjdyLUF4blg2UTNxNmZ0QUNtVmRmSUZ6Yjk1YVFkTGotclR1N3I4UXEtWWl3UzRDbFZEQWswTVlFaEEzbjVYblpTQ2UtdE95eExOS2dqRU9vYi1LYzIwTjJxclg3RlVuMTNZc01aNVRIeWJpRkNSVTdYTXQybw?oc=5",
-      "pubDate": "Mon, 25 May 2026 02:40:19 GMT"
-    },
-    {
-      "title": "Hisarcık'ta maden sahasında bitkin halde bulunan balık kartalı tedavi altına alındı - Son Dakika",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM3RsVXFKN2JtNzFIbFJobzJjLUlqdmFPSFRPUndudm9kTUpYLVJLTWZFQWVPdDNoYmVBbkhIYl9GN0Rpa2cwQTdWUnZNTVQ4ZkNuRGVCU2lhMUE1Zk9DVnBxNkw3NS1IV0x1RE4wa3NVMDF6VlBRNEgyQTlsczZtaE9NYzV4X0lJRVZqRWRudXBmYS1ETUFwcUNqcnNISnZjbUHSAZ8BQVVfeXFMTzB2Y1BsY05wOGVMWFZvWUlEblhLWHZQZXV3YTZlV2dHZjVlS0NsYjVEcTZkTW5wdXJpa0Q4YjVrQ0VMUTFoWGJ1Z3BFQ2h4SUpJNmtjaGNTdlY0RDVjRnNPRDJ2VjBfSGVEQTA0andXQ1M1c25ZQ2xxdFVmSFVzMzhxdVp4M1FtdlFrWXNQTVZBZ1JhbDRLU3FEczQ4RWNv?oc=5",
-      "pubDate": "Sat, 23 May 2026 10:58:55 GMT"
-    },
-    {
-      "title": "Yavru Tilki Tedavi Edilip Doğaya Döndü - Son Dakika",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaGo0VFhKZzN0YWpwcWNKTmhfZnZyWDVSN19mbVRjVlVvcHI0TFh2bzhtT3lVR2ptdHhuVUtST2RzYy1SUnJmeG44a21Ja1Z2RnIzZWxIbjZjV0Z2d3R3R2tmcEpBZThVdVJhWmtUbzFGQTk2QmRMdTNBdFA2N1dXdzRHbmdSaVpSQjhIRmdQSnjSAYwBQVVfeXFMTi16VXhYX2o3c2daSGdiWEVHUU5TSVQ2SGVpdEVsWXJ6bzZtT2U4bDl0MGlyblRtOGRpRGdJZzY3RW1OSnNKSHRRNV9xLVYxMExXMUZkWGFuc19tQ0t2aEFDeEVYLVlWbFdkZWlpUkJJQVBVX1Atc0xvWlBuMGNoakdnbkR3RGd0ZDRzc1A?oc=5",
-      "pubDate": "Sat, 23 May 2026 09:53:01 GMT"
-    },
-    {
-      "title": "Kanseri yenen Batu’ya moral ziyareti - DHA | Demirören Haber Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaXlKTjlOQVhaeTFVd0xXZ2dSUG1iSnpjNkxIVUhpemN6U19Na0JUNzcxWDcwQ0NmRHVlR0g3UWdwZjlQR1ptUC1UZldHVnhxeVpRc0NUYWotMXF0UG41WThlSXBaWFZPWDJVVVIzSloyOWktaS1qOWUxdzZ1NjJ4Um5TX0zSAYgBQVVfeXFMTWdBWWlFYXVvZVJMVmNvaXBDcXpNWEFyS1RIWDVZdXBzZ3hXVG1HSGpIQ0NkMXRSVVdXbnZ0dGZKTFNOTTVOM1hDQ1hITWQtb2V2NmhkVGYzRG14SzdPWnA1MVZzWkgtZDBORFJFSjNqYTNMQXY1SWVVa0Yzbi1HQjZ0dC0wMHhMZw?oc=5",
-      "pubDate": "Sat, 23 May 2026 10:03:00 GMT"
-    },
-    {
-      "title": "CHP'li Çakırbeyli'den hastanede tedavi gören yaralılara destek ziyareti - hakkariilsesigazetesi.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZFRCTkhRYmdBZjhXTkY0blA5dVI5YWVwQzVwcTlxYlBHc2J2YlhrMGVaTXpOREc4Wk9hUGdZSEdnSHpZVnpCOWo3V1R3NFNIZDhIM05ieXl4enRFdG5KUy1wTENjLXZtc0I0OU1yNF9oVHVJM2hPcFRFMmwzRTYwOEVBVzM0MUNhMVRzemhQcWV1b0RMZ0cza1d3LVVhRGFDOE5LdU55UXV2SUU?oc=5",
-      "pubDate": "Wed, 20 May 2026 16:15:00 GMT"
-    },
-    {
-      "title": "İlaç İçtiği İddiasıyla Hastaneye Kaldırıldı - Bodrum Kent TV",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdFpKWnNYS2VENWd2Ym5veTdJQ1NkbGdlV1JHSUJSQnpoOE16NmdHQWtHUTJHUkF2WTY0ZWVuWngwY3FRQmJOdFBsSGlPZzJPR3VGWjlVSjNac0lVdGNDOWpQcnN0dlJsRGpmOWRGaEVFcWZuNVdSbmM3M0hBbjI2NURUa9IBiAFBVV95cUxORWp6VXNBYlBHTXUyUXYxM0luX1RodkIxSXVfLUN4anZQczBLTUVFcThyZzdqM1FnbllHRUVZNUNpb2llYXZMcF9laXhRZ1ByeVZncFptRDZORFpjVGlhdWdVbTdpNUZmZVp5WDNaRU5fQWtHN29kUlVGMjZUVm9ONnZrbS1sNmRr?oc=5",
-      "pubDate": "Sun, 24 May 2026 21:37:00 GMT"
-    },
-    {
-      "title": "Gazze'de ilaç ve tıbbi malzeme eksikliği böbrek ve diyabet hastalarını tehdit ediyor - Internet Haber",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQXBhSUJLZjlDdTZKaFZuaG41dmJCT2dMOTBsMUplaTdjTDJlMHMtSW9VdW1pU2pBR0pMa0ViZy1kMV9felNQazhSMlVSdFJoT1lDLW9vQ3JuZ2RpTFppdjF1NjZWWFJjbXRWbU43NjVMZ01UVkIyRVZaMVZhZTdnQzBXUE9zV05IMzNKZENuWUtSY3RQT3hlSy1vQ0NMaEhqbl9GazhPODVvQ0d4VmxrSXk4YkQ5NDJMRWZqYUhxVjVvZGZ1?oc=5",
-      "pubDate": "Sun, 24 May 2026 13:50:00 GMT"
-    },
-    {
-      "title": "Thanh Dien mahallesinde yaşayanlara ücretsiz tıbbi muayene ve ilaç hizmeti sağlanmaktadır. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORGdudkp1SkhDS3B6d2RLd1RCQk9pazFRY01EVU4yMmZDZC11Tk93ZlhWQUU1YXlrOUFBX2VVSDhxLU1rOVNkMkRGVHVOaFFJMUdoSUoxbkkzMjhUM2prOGh0eHc2eV9Pa0Vsb2VEOGxQNWhiYUVjV1hFWllRY1V3VE1KalhMM3hWR05vTmFEYw?oc=5",
-      "pubDate": "Mon, 25 May 2026 01:21:07 GMT"
-    },
-    {
-      "title": "Bilinçsiz ilaç kullanmak hem çevreye hem de ekonomiye zarar verir - MSN",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdGVFNmtSVkp1WWdYWkFGNTg3X3I0VG1lcFBFeElwazVkTWNOaEpuQTg0b2hfZmRtcEFYNGVhNVRxZ2NmVEM0V0J2Z0F0VDFCNGRtbHhYTTAxSmF5akNpdnBsSEdUTkt2elh6SVJKUy1SM1otTkJJVXNaSmxQRURrWXJWZU1xcFBOaGJmWFhZLXAxZGFkUWc1U0hfTk1LUEdkVURDQ1Y5MjA2dk9VZHdGUEN2aGtJUHlac2I5aHNad3BJamN0NFdBcQ?oc=5",
-      "pubDate": "Wed, 20 May 2026 01:29:06 GMT"
-    },
-    {
-      "title": "Interpol dev operasyonda 13,1 milyon euroluk sahte ilaç ele geçirdi - Euronews.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMzQ4aWl1am9yMDlEVUl6LWVjZzlpQmhmWFdZM1p6SC1xdHJEamFHM2ZtSzNiQkJvM0tqZEJFVTdrSkZ4V0lqVVBJMkdGMWdOSy1IbHN6eUhBTzEwMG1TNzlYWkowbEhvUlNoUG90dXVRUGpqTUF5WVFYOVBFbHFDTW9wbXNtUGZGZkx2MXlxRHlRZFRubDgzVGowNDdVQzNHUkFEWFdxbWowSU5kRnVCOFRtcXpuUQ?oc=5",
-      "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "BM: İsrail'in yardımları engellediği Gazze'de ilaç kıtlığı ve fareler sebebiyle cilt enfeksiyonları artıyor - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVllXSHBzMWFVX2p0WDhTVW9oblJKZzRnWTlDUXhER1lyNVB3MnVjVkp6R25sS1pjeUhaU2c1aXh4LVFnbmEtZ1dOV2RFSjJqSFRPQnNBVm1vcEY2MGJCWWowQ2lkV29SRlMySVNQRVVVMU1Ic3d3VWpURnJBWW5YSEJHRHhyU1RyY3ZNUHc3SVJJVjk4Tkg2RmhUMVRZOG9BYk94eHAwRGNERDFVWG5LcTY0eVhqSHFsdVhudmRuYXB0Y3JQN2dkYjFSMGhVTXR0c1MtVDVoZmlKeUk?oc=5",
-      "pubDate": "Tue, 05 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Voyager uzay istasyonunda ilaç tarama platformunu yönetecek Yazar Investing.com - Investing.com Türkiye",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQkhlSkU5V3czb0tSM2FYOEZocmkteF9uR2xKcDEyWm5lRnE1dWNqWXlLWHRhNU95OU43Q2RuSm9rWEloVEVkU3dKVGJqb0FtMlgtSnRNQnEtRThnbi05R1RIOXhua3gtZGZMZ1NRb3ZvRmppR0k0RDlzejdpeUJnYnh1d3BXS0Y0QVdaRmd6NUVWN0RTQW1CV3BWMzltdVpOdFQ1V1phekMwc2VRM1RzMnk1VXV2QQ?oc=5",
-      "pubDate": "Wed, 13 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "250 bin liraya kurulan şirket 350 milyon dolarlık şirketi aldı - Nefes Gazetesi",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVkJtXzI4QV9zTl9sUVlZaEI3UW1NV1JaTG4wdFNjUzlERHA0TWZlUGZQYklLT3pkSmxtVkRZVlNhazdtSXFtUXlkSGRGci1kUXZDcG1JZW9uLWpaLXBpdm1FYnhVV1pMVjYtQVloYzVuMTNTMGtnckpEcklIa1lBNEZleUhrRUVHRy13VkgxN3pSWUROOVJ5X2dn0gGfAUFVX3lxTE5lTFpURGlZcUtNdW9JQTVqMlFORURXZWpvT0EtYkRDZzl3TXVrQzgzRUQ3elBkblZtU0JmODZMd3hhUFJuLUtlWWt1LVBsU2doVVhuRFZiOVMybVI0X0JOWjJmQ3B5SGdaWXVUSzR5UVhqQWs5RDdFbklSQXQ0dVFvSWltUzN3TkxYYXExbzhCNjNaN0l1Qm1GRU90LVlWMA?oc=5",
-      "pubDate": "Thu, 21 May 2026 07:52:00 GMT"
-    },
-    {
-      "title": "Türk İlaç (TRILC) %540,89 bedelsiz sermaye artırımı nasıl gerçekleşecek? - getmidas.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYWlsajdvRWtubElaU29CZVlacnZoMnpNQzRfeWY0eE9BRGMzMEl1M3BuMXlaaU9nai13V3I4RC00WUI5ZDNRX0ZHTXZ6OUlmNEJsZzJ6V1kzUWtxRXdqNVZDWDdndnJIZ012SV9xTWhKZUU3N2hKWktrcDA3RWExMXBGeUtRa0pJMkl6S0NCM09faXpjUVROZHdEUUt6Skg1NVZ1dERVNi03M2UzRThFZmtKeWZ3REpoUmVr?oc=5",
-      "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Tansiyon hastalarına özel DNA tabanlı algoritma! İlaç dozu biyolojik özelliklere göre seçilecek! - Sabah",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWjZaQ0lJWmhRbGh0YmxZZkNibUR1dFBycU1jTTdUbTJodnREZEF4d0dGUzlEeFF6RHFoRVVDX3YzQWU2NnNsamYwYmhXVzZrQmpTTmp3YUo2M2JkYWhRSjVFZkVLT0dtVkx1ejZYLXNmSUg0WlVYa1BHRmhSMTRMVW9RYUlvRXRiXzFINHM0N0pDUU91RGdxM1JGOW1ETlVObGtiSnJaZ0xlVWt5QU83bUVJa1VFVTNjdFQxLTBSNmUzYk5ZQjU1U0JEb9IBzgFBVV95cUxPaWRhdEViSWdvT2doRFVMbmNzSWJmRldERTdScjhxcHFuZ3NTdWU2V1E4RG50Y2hYVkpDYjVXN3Q3emhabDd5VWRiZXQ2T1pNU3NJcjB3SV9BSnV5cllIVkxOZmtUcnBwTWw3Q3ZMU1FoSTlyN3F1Zm43Q2VybkFnRXdTSmtLVEFwQ0lvMGdzd3JNYWJrYTNLUlEyUTdLcUhHenRJSXNLWUVoNk5USzRjN0xUUGJ5d194SVltUHp0RGZyVmZXTG1HSGwtRWI1UQ?oc=5",
-      "pubDate": "Sat, 23 May 2026 06:51:48 GMT"
-    },
-    {
-      "title": "Kıbrıs AB Dönem Başkanlığı’ndan kritik ilaç düzenlemesinde ön anlaşma - ΚΥΠΕ",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRFlhNzJaY3JESFVUaXl1dWMwMnN4elp4NEhiZnM5MGpPMlN0YmJJb3JKZDVLemZVeFIzZ2Q1ZW5CSk85MHlFVGRRWEF5X01FandTSHM3LVZRSXVLbldUX2wySEo4Z3VPcEVCc0xwa2ZaUlZmRkpJSlRkQjRVSldIWUp1RTg4aGlSVV9QTVlscWRjVEhidy1HbFNXd0wwb3pWd1NzUHgwSmdLZ0JBRnhsSFMtV2pKMFppX1ZqUndCOWFZR0VWSjU0ZjlyS3FDUEdwc2lkbFJaWjFhZmkzWEt1Nm52eFYyOWRtSFBFbUpWV2FfWUR1Mnc?oc=5",
-      "pubDate": "Tue, 12 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "GEN ILAC VE SAGL - KAP Haberleri - 2026-05-08 tarihli - Bloomberght",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16Z3lfelZFUTBDM1lzbHJFY3MwQl9pb0hIWnFrWWNOSEEtM2FTRW94ZC0teHJ2S3NIeXEtQkFieW9JbnJPb2phT0xhOWpMU3ZnN1BBOGJCM2UzYURhdmZLVDJBWDQ4VUhjRXBKb0tFbFFMZ0hwR1NBN3MwV1ZNTW8?oc=5",
-      "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Sadiye Gürsoy ile Sağlıkta Bugün 13 Mayıs 2026 Nev Sağlık Grubu Klinik Psikoloji Bölümü Psk. Bahar Kalyoncu - Bursada Bugün",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPT1hWZ2pxc29SSS1QZDlGTE9nYTlaZklqWHBPamotb1RYZXBYSkZkRzUyd21WX2sxUlJ4WWJwc19vWDhqMld3WmlPN1ExOFZneFFwQ0hGZEtGYVlOcTRjWmxobHp3OXZKc3dXeVNJMkpzcGp2YVV0LWJHTEEzVTFSc1hNMU9pQmstRjk4dTE0RGhKVVVjYzNOQWFxRFNsU0c5cWpnT3RXcFpxb1pEcVh2T0lJZVk0MldBQ1lJdmVHa1ZURzJOQy11RENVTzNMZ1lJZTJrUGhTc2wtM0dPQldRY2VEeTVNaWtY?oc=5",
-      "pubDate": "Wed, 13 May 2026 11:37:15 GMT"
-    },
-    {
-      "title": "Lung Nam sınır beldesinde gönüllü programı, ücretsiz sağlık kontrolleri - Cao Bang Online Gazetesi - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ2VzTXQzZTFsck9aa09HYktRSkxiT3dreHd4d2JiRTdXTDJJVjhUcUdPd2hMaDIzaENFUW1QbmVJTFZhdFdkbEZYamQyS1ZneE5XeU1ucUxDZkotY0EzeTF3aEhleHJrT2dVVDRSNXVmZW9Hc2s1Vi1wM3hlUkpONjNCcmxacGVTNlJVNGliM0lkdnYtZGtSajlxR2lUQ09oM0hXbEsxNXQ5X2JJWDVkTXNVQUJIdDg?oc=5",
-      "pubDate": "Sun, 24 May 2026 23:41:28 GMT"
-    },
-    {
-      "title": "Vücutta bir bölge ne kadar çok şişerse, sağlık riski de o kadar endişe verici olur. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxek9pbTJvOHFSR2tNeGFvaDMyd29Gbk9NM0lDQXY2S3VxejBSMDZ6TWNtRVhheEktVng4RGgtdU8wMV9aX1lmeGFSeTVlUWVYeHJVck5mVWI1Q0Q0SEJzVWg4RHBYRGwxVzloZDZ6M294QWQyVVE1RWVway0yVUk?oc=5",
-      "pubDate": "Sun, 24 May 2026 23:06:22 GMT"
-    },
-    {
-      "title": "Elazığ’da skandal hastane: Tıbbi atıkları açıkta yakıyorlardı, dev ceza geldi! - Ege Alternatif",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTS1XS3JhLXIxSTdpaVRydWoxVkphRjRsdTNKTGl0VS1FOW42TkNtcFR2ZXVNcnRic2xDZ0dfNTlyOV90RC1mSzdOOERYMDJuTHRJRW41UXQ3dlJQUFNheWFuMHNUQmhZN2JsNlhEd2JKSHNRSE5Ld2NWWlhwRHNpY1drS1JBbkZ3Q1g0UWx5R0Zhc0lDODBKUWI5UkZBZ21XX1RHUGV3LWhoa1FGLVNWZWNldTQ0ZGloQUE?oc=5",
-      "pubDate": "Sun, 24 May 2026 23:40:08 GMT"
-    },
-    {
-      "title": "Siirt’te hastane çamaşırhanesinde yangın - DHA | Demirören Haber Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY0prQVFrNEQtS0JSM0k3NWxDVXJ2N21MbUQ0UEVzOWVjU1N1aGxHYjdpOHpCN1d5ZEdBVGY1ZnVEUmhGaGJVc2gzRmFJRlF4aFNLYlNNbVl2MGpHdzVuanBtNzhFQWQ4ZnFCMWZZUDNjTEVGN21PRTN6S0NhVE91dldPOG9RM29ya3dheXdwbVktM1E3RlHSAZoBQVVfeXFMUG9iS2t3N2xUYkNrX25yeElZY3p4bU5aTFlsX1I2Um1GMHp6dkR0N1h4V2VyNTlyXzVUdVZfNy1Db3hidnY2UmtuRDdEZE8zMWkwWUNJc0t6UkVBRkxoUVQ1YjRaYjJZem01akpOWTRQU0d2dktJaXZEdERuY0JFZGhGc2VOdHpRRnZRelZZdmdWZGRZb2JuZFNaUQ?oc=5",
-      "pubDate": "Thu, 21 May 2026 09:59:04 GMT"
-    },
-    {
-      "title": "Manisa Şehir Hastanesi Anne Dostu Hastane unvanı aldı - Medimagazin",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS2pRSjh2ZDZUODBXb0lXWFhsY2o5TFFwSE9qNzBwcnVQeEdRX0hfbTVjR0JtWkx2ZGFQOW9fNzZmQkYySlVNY2I0YWxhV3NxRUVBS1RsNWJoTnpDeXRER1FRZ3BCbWIzV3VRRzRPSU5pMFEtdXE5ZEZUR183LURxQkFlUTRzN1h3UzNoVm1UQVNZb3JhMnhUaXFWVmNpRTBDVkRMZkM3QUlIRno2LThlTGFLQmlLdWhwNjlSM2pQdjdpSXZBb3liYw?oc=5",
-      "pubDate": "Fri, 22 May 2026 23:37:30 GMT"
-    },
-    {
-      "title": "Özel hastane dolandırıcılığı: Hasta yok cihazlar çalışıyor! - İslami Analiz",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTXhmb3ZSTHFkZnQtMXNIektEQXRfLXZ1dG9td1ZNQzVBQkk3OXljaTJ3ak1DYUNlNEJHQktTNm1CV3kzODNyVHRIbEJJeFNnVHcyQ3RIUHo5eTl4RWROYkIzQ2swdVpCQmhWaWlMVmQycEFYX3h0b0RKazZsOGhrbUhhUks3RmxOalU3VHhvTzAwd0VaNWtvcW82cmRQUdIBowFBVV95cUxNZzM5eUkyTFE0ai1QNy1mbzNnSktnLTU0R3VnSjh6RzJrdmZRRHd4ZHd2LXBWb0hZTFNFdWN1YTctdUF3cGZDazEzOTY0WmVfNnJwcUhrZ254LXAtNTZrZklUcTFhb21YZ3BrUjlNY3pBdFJoc0VXNVBzaVdsdlpBVU1XQ3hibVRQdl8yS0ZCUVJzd0pncExHMkVNbVE1dmdjcTc4?oc=5",
-      "pubDate": "Wed, 20 May 2026 10:35:00 GMT"
-    },
-    {
-      "title": "Kongo: Ebola tedavi merkezi ateşe verildi, 18 şüpheli vaka kaçtı. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb1dpbzNjT2ZNUjFmM2NJOWRZN1NhVV9MS2RsTTVtWTNtcV9pQ1o2T1FoTVRQRkR5c0hGaFNmOHFYeGhPMWhQdkwxcXVlN1R5a3VkcFJXMk8tb3VFNzhLbGZldkxMQnZxVTRmWThfV2dScFpYb2RtZXZ1cDhMR1lFdzRHTTMtYWFWWnpGc3JNTGQ0bmxyTW5nYlc1RnFXV3c?oc=5",
-      "pubDate": "Sun, 24 May 2026 23:41:53 GMT"
-    },
-    {
-      "title": "Gazze'de yıllardır insanların acılarını belgeleyen muhabir, tedavi için yurt dışına çıkmak istiyor - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQamM4ZjVzMms2QzFfdC1ueXhjamJ1ODUzdEpIQmZOUFFzWDBBendPQjNucVJmakE0NjhZMm1wUWJvU05qcU03b29FSGc2S204NEdCakhUcXlpd2x4ejFaeW1KWHNIa0JTSzBRaG1ZRDNad3ZkOXRYZHFReTctdy00LXlleUV1SGs3Vmppai0xa0U3ZkFRamhUUW9kMGdLdEd3WjE5cEpTa2hLbWxiYUtGcXgzNXNpelpOTS0wQUhsTGtwaG5ZWHluU2FYWERuR1ZC?oc=5",
-      "pubDate": "Fri, 08 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Antalya’da usulsüz reçete operasyonunda 4 tutuklama İhlas Haber Ajansı - İhlas Haber Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT2tEN1FkTWtpcmctaE1nMjZKTTVDd1ZzWk9Pd2xzcXNsV0IxZUNRd3A5Nklnc2gwZXplbF9yUC1qelFVRmpMQUcza1V0Ti1IQkZDQWpGV1JtcFdqZ3FZZVZ1aUpTSHZaSzI0Umlqa2FRNWFTa3NIM0l5ei1KWGctcFRSdFh3Sy1mT0dmbFhOOVlGWllzMWhOV19XdlUwdElIaDdF?oc=5",
-      "pubDate": "Sat, 23 May 2026 09:18:10 GMT"
-    },
-    {
-      "title": "Nuri Şahin Başakşehir'e ilaç gibi geldi! Kötü sezonu iyi bitirdi - Fanatik",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeWtxZzJxNXQ5YktGY0pWOFAwUi12NGFKSHdvXzc0QnpPcHBtc3F1MV9tUHl2OTFMcjNpVkNzUXZKbDN1T0RIeGs5M3B1TXYtdklBODU1dWJBYWg5dk9MN3lrUnNqdV9TNVlEX28xSjYwdmpsS2JSNkFjSTdieXdpcHdCc3hvLUk5M2RMRkI3UW9pQmcwNXR5MEJRQkxMblJhLVNNRklrOXR4dlBz?oc=5",
-      "pubDate": "Tue, 19 May 2026 08:14:28 GMT"
-    },
-    {
-      "title": "Ebeveynlerin kendi kendilerine ilaç kullanmalarının ve yapay zeka kullanarak çocuklarına teşhis koymalarının riskleri. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMUlQWUpNZ3BQamlqbkl0R3RrQm1fNGU3Ui15NkJTVDMxUGc1SXVKV2VGdlFPUXk0TWZhZnFOcUJIVTFDZVpQU3NiT0lTRG93M1dWWER2QzZHVHJ3UWptRzcxQ1kxSTBYR1JKcTZGMTJjS0VVRll3WGdRSDZTTEx1cnJXLUw1Y05KNnc?oc=5",
-      "pubDate": "Tue, 19 May 2026 05:19:20 GMT"
-    },
-    {
-      "title": "Antalya Gazipaşa'da Usulsüz Reçete ve İlaç Temini Operasyonunda 4 Kişi Tutuklandı - Mersin Haber",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNlFDSHF2N1pTVzRpczBvNzBZa0tEcjExT3FxVWpLeU1QSkdVSEt1MWc1dmZfVWtIakF1ZUxkMFFjM3pabVQ4cnppYmp4dEdjTWFhOUtlWllBbnBqT0xWVkE1MUstMnVhREZtaS1ldXZkWnBhNDM1eDQ5a2duMElLSnRWd3pSUzA4Ty1UdUdtVkpxczhaME14SmJlOFY2VDR6M3I2czZwWjZyUDA1QnJDQU8wR2gxZXFMUWtxS2VR0gFXQVVfeXFMT3c3ZEpTZjdtS1BDYUFUVzFSNzBtejRKX1RKcUJOT050dkZFOTR1SGdfYk8yMlJlVXhOM0o4UVlVWUtYZGwxNU84UDRYZFh6Rm04QTdTU1Fz?oc=5",
-      "pubDate": "Sat, 23 May 2026 09:18:00 GMT"
-    },
-    {
-      "title": "Kayısıda Büyük Tehlike: Yanlış İlaç Atan Yandı, Cezalar Peş Peşe Geldi! - Malatya Söz",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVGF3M212dWl0QThiOER2LWlQTE8zVGRzaDN5Y0czNXU1SEtxcGN6MGhDVEZydFhITnpZTzBTUktLUWt1RmRWZGh6Nm9ZWFZGSGo5OXo5V2dPS0dRdTJlaUlmWUtkUlJodFBUMmdIX3FLTTkycFhyaGJDWTZWU0o5MjYzbWgxNDJKdzd5cUtENTlpLXhxY0FaakJSNNIBoAFBVV95cUxPOTFhTnBlSW95UnVqYkh0bWF4cWZWNzR6WGVJWFducGxmaUR2cHZIRXJ1ckxRYzF4Njh4UWhWdEswOUhoSFlrTm5aNDBHMFRIQl91b0lxUlROWkdHR1VFbkROMnZuYWYwakRvZ2ZvWkxhUjVwR240U2J1Xzl4TnY2cHhtaDZodTNmSVNvMmJieHFiekg5UkhPTHJSZkhBbmll?oc=5",
-      "pubDate": "Wed, 20 May 2026 14:59:00 GMT"
-    },
-    {
-      "title": "Dünyayı korkutan ölümcül salgında deneysel ilaç umudu - Nefes Gazetesi",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdVRHS0ExOVJBZzZfTW44ejg4NDBPVnZWWmkzTU9LeWNBR0dVN0R5eTNURl9tVFNKdHNGLXpsMVVsSWVwOG56ZmpvTHkzem5RX0Y4amdOX0FBcFVMaGs4bm5paVNvd0xEbzVKOHJyQWhQYWtndFViU2tPNjZ1eXRFNTFBQ2RKT0g2RnVsQTFR0gGTAUFVX3lxTE4wbGd6dnZuVjJmYVNsLURXMWhGZGp3X3FPcmFXeEdnbDRKLWNSdUtIOWVFdjRoUmprclpidjNSNUVFdFVXUGQxT3ZuSUJObHN5cW5GX0RPNHZfTXQzd2FSM01hTXRLeU4ydDYtNnpBZDVHaEIta2gtZkFBbm5jb3pESGtVQUEwN2VCQkVuRWFmaER3NA?oc=5",
-      "pubDate": "Tue, 19 May 2026 05:51:00 GMT"
-    },
-    {
-      "title": "İlaç ve gıda alerjilerinden kaynaklanan anafilaktik şoku önlemek. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQVdNZ0ZnWnJpOFFNWUdVS1p1alhqWm9sMW5fOEdDYkl5VmtMS0tLeWV0UXVkOFp2NHVrSmE2STZzQnBLeXg5czVHcDJ0Xy1KRkI5QldIT1A3TmJmTGdQeG5vMW0xVHdNTERZX1RGY2JhSmJFN0xfUUtKeU5SdnZWY2JVUDF5QQ?oc=5",
-      "pubDate": "Tue, 19 May 2026 04:18:03 GMT"
-    },
-    {
-      "title": "Filiz Besim'den çağdaş sisteme geçiş çağrısı: İlaç erişiminde ciddi sorunlar var - Kıbrıs Postası",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMk1wM25LNF9DTmpsalowRW5CRGJyUTJxN3lZMWpzSG95amlmV1FBWUQ4MGdwY1ZUQ2hsYjBMbGNiWXMzcW12TXJLZzZ1VDFEc1RkOEd1Y1JMVUdxbE4zZ3k3ZDZuYzRhakJ5dUxqNUJPR2d0ZEJhRVZNUVZMRnpzYkRieEhPekNpVENkMHYzRkV1bFFvbDdjUWp6cE9NMjhqU3pvMlNoZEswUDdsNURYcWFiODNXRGtoSGZZQVNxUzVUdVJ1dXc?oc=5",
-      "pubDate": "Thu, 14 May 2026 14:17:00 GMT"
-    },
-    {
-      "title": "Zirai ilaç kullanımında doktor -eczacı sistemi getirilmeli - Gaziantep Sabah Gazetesi",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOekgxbGJMcDRBY2F6WW5KbDJWRlljbFpfRm9zdmczR1NHd2I3Ukpya2Y1enZ1LVo5LVpKT1VMZnA2cFNTajhBeGdhRG0tUmRId2hCcGpEVGk5WmVoXzltNWVHSFl3ODhlRl8zcFUxSUdFdlRQZUJhaTYtdmhUWnpjbVdYM1FGY2dmN0JIdDFxTVFabzNyZW5FVFVlb2RrY00?oc=5",
-      "pubDate": "Mon, 11 May 2026 15:42:13 GMT"
-    },
-    {
-      "title": "Nuvation Bio, ABD’de ilaç üretimi için Thermo Fisher ile ortaklık kurdu - Investing.com Türkiye",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcTRVcER4TFVkV2pDd3hGcHRtMGhueTFTbWV5dHlnYzhrclZrV0tKN2dKSmFVajhSUWNtWXpMcjFFTUFqbk5yR2QxZFpJQVItcVRtN2ktbzBrOTVrSm1QOHZEQU5Fclp0WExqT0pza3pibHhVa3VYS2hoSjk5OUUzbkdBVHNBaUNEdGtkeG1JOVRUNExzU040OHBTTWpjTC1SeWJtcUp3YklrRUJ2S1lWN0JfUGt6cjMxR0E2Q0ZmeWpJQQ?oc=5",
-      "pubDate": "Wed, 13 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Gen İlaç'ta Abidin Gülmüş'in hisse satışı sonrası payı düştü - Foreks.com",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSUtLWnFQVkxVR3FfcWJHZV9qcDZwdDlpaEdOQUVUUDNjRERmZ3dhVnFZM1N1X2ZxQXY0N3JJN2FhcXA2Nm5zS2FGMGZXbmJ6U1FBeTFHMGk3dW50UHhoTkJVYlljdlBLRkZseDZYMEN6eXFtRU5CNEFxVXhyS2NYbGxJOEc2N3MzNkxCV25nMlRjTGpST3FSWk5Hcm1CWDhvbVoyZTZseExzU282MURVZlUwMmo3cWZaN25LRlgxVDhTZGlPcjQxUGExU3ZRa05xQ2h3X1VGaGduT283ZE1obXJvOGM4czJ1S1g4d183UFhKd1ZySTVn?oc=5",
-      "pubDate": "Mon, 11 May 2026 08:03:01 GMT"
-    },
-    {
-      "title": "Şanlıurfa’da “Akılcı İlaç Polikliniği” hizmete açıldı - İlke Haber Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVlVVcEY3VmtXaHd4bnhNaWZ3bFZuZHhKQVJnRUNHTnY0UnZib0R6b1NZQ1NMdlU3WGp5TzFDYlRMSkFCcURzLWxITTU1Sm5HZjJyMVh2RzN5b0x1UGxibHUyZUg4UHVVdUdZZ09hQWwzbFdjOUV6a0M0Q0w2VW5feUV4RFh0ZEFhcVZzQWNtT1ozdVk3b0NhQzY3UlQ0Y2UtTFQzNEthd0Q?oc=5",
-      "pubDate": "Mon, 11 May 2026 10:22:49 GMT"
-    },
-    {
-      "title": "İlaç kullanmadan kronik hastalıklardan korunmanın yolu bulundu - konyayenigun.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNklLbHltSWRfUDh4a3RLdmF4cTFNWC1HWlhzRUJMVWlRZTBub1d3My1GVkMyOTVCUFZ3a2VXRERMeU1va3hkVlRmLVBZWWJTaEZvcUFSRW9zTWJPYTRIVkxwUVN6Z05xS3lYR1N4Y3NQRXJmOGliNzR6SmZkX3dEQnVkbExtNmMxTUtXZFRvRW85empHZnfSAZsBQVVfeXFMTWozMWoydzJBU21TSjM0RWh1WmRmNVBuVmdIbVhBODhlVHZTbjFSZVotR1Z2ZG1KR3BkTHhFNWh1OG9RTUZxcWQwR0NJdXVMcEh3YktCR0JBekR3b3YxSmEwNkMwVmI1b0xYeldic2pQdmx6ZUJRWUprLVdPUzdiUXNrVEJYU1Z5N0JQSWs4SFNWNnBJNnFEWlBkV0E?oc=5",
-      "pubDate": "Tue, 19 May 2026 07:10:00 GMT"
-    },
-    {
-      "title": "Boğaziçi Üniversitesi akademisyeninin kanser için geliştirdiği ilacın faz 1 araştırması tamamlandı - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcWJjNkcxaW96cmZCU1JJVHI2WlB6aHR2MWltSFR6cUkzakVyMjlORFMwb1Zxb3Z6U003Zk5NbElPNlNxMjB6OTE4TnpabW9ROGV4aW9CNkxzVW9CcGROOWgtd1RYRHQwUWJMckVqLTgtc094VXQ2VWd2bXpGX29ZSDRtZThnTF9hbW83VkxpU2ozZlBUcHVxal9WUkI5cmctTi1rWTc0a0k4eHJqa0RFaVNVOWo1OE5MUHF4ZTdORVVJZGxKcjZ0bTlOTk9yQVRyaEg4dg?oc=5",
-      "pubDate": "Thu, 09 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Güven Hastanesi yapay zeka destekli mobil MR sistemini klinik kullanıma sundu - DHA | Demirören Haber Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeWl0Z2xxdFA1Wk9ETkFETzlqTG9qdFZPMHF6aVpFWmtiaWZidkJlSXdweHY1aDcxNW8tVzd5T0JQbXh6M0o5bkJJMXNoZTIzR0h4d0dGR09hNTV1aFZDVmlHUmFWZmJSd2xrLUFKOW1Ec1dYcFJSVkZmcXg2YmpIUHE1akZkTjY1UndHYkdnQTd0YXM2cVJGRXNkSlFfLVVKbkJHQ2xpcFRaRVZXSzFNM201aUdQS0s2NXRJ0gHAAUFVX3lxTE9SbTJwUC03Ukk0c0xhT3RkSVNEeXNFTzM3eDlZdUR3STE1Y3k3cUdEYUtBUXRvVnFXOGk1R0x4ZG1oLXBwZzZ1TldLOHFldk40TF9qYzBCV1M1MFl0djg4QnVreEVyejNCTU9RelVKWFVtRHZvNzNqSGZ2T0pDdnBjZmZBWXl3UXpxNlN5aDN3RklydHYyVlpHOVl2Mzl3Vy1XdWktZDEzZGV3MlJxX0hUWE9iR0VGbXIySTVRam1NTQ?oc=5",
-      "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Klinik Psikolog Koçakgöl: “Sosyal medya, ilişkilerde fark edilmeden uzaklık yaratabiliyor” - Gaziantep Söz",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYjJEekIyZ3ZfMjlNODhydV9SUS1WTDV0cjJDdVluS2tSMWNHbV9WeHNoanNCbnAwWkVZUHdWSXpMWXlsRWdTMnB5eFdVWlZfc1phU1cxVS0yc0FWNXlkVFBHZTJBZmtmeFB2NXR5TnZuSEt5b0hWS2FmWHdwREhyVENDN0xJanI3UUlxaWlhZU8xb1RuV0lQUks3RjFyZlc1R3lzTmNQQkVCZmlELTZGVWhRSHpvQ1k?oc=5",
-      "pubDate": "Sun, 26 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Hackerlar Almanya'nın sağlık sistemine saldırarak on binlerce hastanın verilerini çaldı. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRzYzRUhQbzZRb1o5Q0hwUWFsaFBCMl9TSzZkZndYRkdqMGJfTVlNX2l6MjRIWW5HUkNKdlNrMkJQYkllREFucUpYSjVVenYtZ2tSU2FLaGFMR2FmVFdqemszUG1TZXFnb3RYVWVlemQ0emxLVzZvbk92QXJZclZoTHU2RVpTUFdWdGFXZkw2dDVMaXYzalI3UHJMektYWFJCTmZqWGdn?oc=5",
-      "pubDate": "Sun, 24 May 2026 22:46:51 GMT"
-    },
-    {
-      "title": "Elazığ'da Salgın Alarmı: Valilik Açıkladı, Uzman Doktor Uyardı - Kanal23",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa1RMX3o0Xy1VLTBZck5GeWg5enh1T1VMWm1iVldXeFowMkpXUy1WTmRWOVc1RzUtS0lNS0pRNUNNTEw2NndCd3ZDOEp2SFBSd0hMT0ltOU93WTVsMk5EYy00dWlZNjkxVjc1ZEVPR3BtM1htUjBpRDFoaFUzMVJURGNtVkJrNHU1QWtHLWM3ZnZILXppMGc2QUgyem81YTd1S2hfN250Z1Y?oc=5",
-      "pubDate": "Sat, 23 May 2026 08:44:36 GMT"
-    },
-    {
-      "title": "İsrail Sağlık Bakanlığı, Lübnan cephesinde yeni bilançoyu açıkladı - Yakın Doğu Haber",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2hDcW5FWm8yU093UUF1Tl9oNWk1UjhDX2pxSmdyaEs5UHhxMkMtWFV5VG5YbnNnXzdKazJmVXF0dl9BczB6TzNRTnJCQk10ckZ6Y3pNdkFZZlpVbFM5OUE0cDR6NEg4Y2dDeHpzZWQyaTNqcF9PRGFOLXdVc2lpWi1NSHBsQVhGM2pBM19YWS0zODFLZTRQaTFrNk4?oc=5",
-      "pubDate": "Sun, 24 May 2026 22:19:01 GMT"
-    },
-    {
-      "title": "İSTANBUL ADLİ TIP KURUMU BŞK. - Sözcü Gazetesi",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81eEw3amlnREN2QnJDNWl2NHpWc1JWdUUyTFNocDJGVDR3TWVUN0hwem5pN1pENlFpQnZsY3pMLWxvdlAxa0tuMDJReC1Fb3hCQ0JYUTU0YmpQOGhJWW1lOFp3eUNnVHduSUxjd3lLbjZBQUU?oc=5",
-      "pubDate": "Sun, 24 May 2026 21:00:00 GMT"
-    },
-    {
-      "title": "Türkiye'deki tıp fakültelerinin durumu: Artık tıp diploması yetmeyecek - Medimagazin",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSWJSc2VoNFBQYUxMR1llb1M2Qnk2MlNkZWVaVmJfRV9aOF9qbmxaOTIyS1pHSG9IZzlCZVo0TFk4VFFmaTd6VUZ5WGlfRXdMZ3V0U1lXYnpIRFNWbTFlTUVORDhJS1lnTXZwYXo1YzVfOEl6eTFPQWpxMlkxWWZpaEhpcjh6YkZ0dmdFeTRBX3VZbXVsSzMwMGdSR19vUkRxN3RIUWcweU1FNnBtbHZ4U0ZnNnZpb3ZLZWgzMURlOTJEMzctN2V2eVZWRTczeWRIMm1JbjJGVHRCd3Bk?oc=5",
-      "pubDate": "Wed, 20 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Saray belediyesi ulusal tıp kongresine ev sahipliği yaptı - Tekirdağ Yeni Haber Gazetesi",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWDlnRUtrU0NhX3JoTmI2M3NJa3FKQkt6RncyakFRZTlSOWhfQlhXUTVJYWg1Sl9GcmwwODVibTVvNEpmSHVUV1NzZnAwazVJd3ZZNGNySUZacTFRSlhONHRyQ29wdkRXV0pYSEx0Ui1JVktaRDdqMlA1RFZoS1ZpLVFkMlkzdUVOd3Rud01jVTBrTzVKUEhuUHI4VkdMSUpu?oc=5",
-      "pubDate": "Mon, 18 May 2026 13:22:20 GMT"
-    },
-    {
-      "title": "İstanbul'da yanlış serum can aldı: Grip şikayetiyle gittiği tıp merkezinde hayatını kaybetti! - GDH.Digital",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZWlHdDQ4UVA1WDRaSC11bmNiczFMSEh5OExaUWV3cnNMWnZmaUVxODZkcnpycGcxd2JLaDhWNk9uWEY5Z256bDlubENLQkVuNHp0ZE44OUZMUEVjQ3JfdlkxdE01ZjZXT1pzODBSOXE5NUg3bFVtYjBsMnUwMFhxV3FncTc2X2Y4OEt6Z3BRT25IbklUcktuOXFRUXJ1aTl0?oc=5",
-      "pubDate": "Thu, 14 May 2026 14:41:59 GMT"
-    },
-    {
-      "title": "Muğla Büyükşehir Belediye Başkanı Ahmet Aras'tan Alim Karaca'ya Hastane Ziyareti - Gerçek Fethiye",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaEFNdDlOV2FBY0ltZG03MzhYM3MtTHpDTGdrQVQ1cTdscUZZM2d2SnpKUTdsRktYWUVsTUFoWDhvT3Jjc29uWEcxVjJRbERLQmliMXI0YURBNlNjUnBlQl96WjBlM3Z4LVMxcF9Vd18yRnRHbWx4cjhlZURId2hwc000QXBjSTlPaEFhdjU5X2RQc3h3b3F5WkxxeE1TVDI1amNCOTJ3cUFibThwc2tGeDdFVDhLVG9ueFHSAb8BQVVfeXFMT0UwSGZhWTllTnVjZHRibzBBejhGTWgzejczeENkd3RGZi02bWd3STJNMks5LTZNOUsxbE9MMGhmNWVpNE0teW93aDRuWWNsRGZpb21NMjFicUtOSE1WcmU4S2FYeERSSU5VOUQ5a0szX3J2TDNxaWtmMzhuY1MyZC1aMWNMRE1McDc4SmI0ZXllVHlzRW1pQldFeEFmZ25uRFZNMGwzeXdzOV95SFNkcjFub3BOMS16cE5CU2h1MUU?oc=5",
-      "pubDate": "Sun, 24 May 2026 14:16:40 GMT"
-    },
-    {
-      "title": "CHP'li Cumhur Uzun'dan Alim Karaca'ya Hastane Ziyareti - Gerçek Fethiye",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd3VPUlVGRlBJMlItZ3BhQnZscEUwNzllZ0NkODZGLTdIeHlFQjFvbnU5by00ZGR4VWM4RDFrVWh1d2ZSdTZDOFJ1STBJa2h0dkJhVWNYU2hGYXotYmFjeFAtTHVwdmFybDFWcUtGSGFlcmFwdk5vdFc3OTRmTXNLTjkwUVNqTzJuX3dPWlBfRUNodHRxNVdj0gGcAUFVX3lxTE0tNG04WjFCRk83QzJnblh6YUhmWEJGdHZsTlJlT1gxeEFUMm4yZzNEcGt1TUI4Y2Jfdnp1bUM2ak1MWERvdHp1cUJwb1dKUWozZmNzdzh3X016RzZZV0ZNMzJDSkxkT1Fwc2xxUE94b3Z2MDBsTm84MGxQMG4zeXNNeFJyVmNMRjFsc3A4MUFTUXU3bzIwb3pSaG5POA?oc=5",
-      "pubDate": "Sun, 24 May 2026 10:47:14 GMT"
-    },
-    {
-      "title": "19 Mayıs Salı (bugün) hastaneler ve sağlık ocağı açık mı, kapalı mı? 19 Mayıs Salı özel hastane ve acil çalışma düzeni 2026 - Hürriyet",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWGZiV25ycDM4RGJmT0NRRm9ETG1uZkxGUlJKMklCN01kcHlHLTJOYmVLZGxLZUo3NWFONS1NcHl6d09tdXRIaWhHejJQNTlLOHZFYjNZUWxTbUtfMnFhUVkwdXpINlB0VHd3UllodUhUcjE4NkRDQW5yZlVpbzVJeVJfLVR3eU9QQ1BIWDBhZkFBSk5STmROQ0pJdHJHaTVXc2lfSnljdFhZbUx0Ulo5UTdRUkVTZjBCOC1vY0hrUUp6RXFVWkk4ZzNETzZnUGk4Wi1rcVpOaDJDNzhDc0tWZ1Z5M3B2QmtxdnJFVHVzLTJyUQ?oc=5",
-      "pubDate": "Tue, 19 May 2026 07:09:01 GMT"
-    },
-    {
-      "title": "Eskişehir’de hastane arazisinin özelleştirilmesi kararına Sol Parti'den tepki: Bu arazi ve binalar halkın öz varlıklarıdır - ankahaber.net",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOc3NIMlh5eHFsaVE1ZExVQ2dhek5faDdHcW1sTjAzblBoYzZ5aDVzS1FtMGRRR2toVlVDdVN3N3NTS2VuQlBVVmxiX0lYcmtQYkJTQ0l5dDNJTUwxb05DVko1V1c4WWYtaUNJR1Y5RkU4V0RRUER0eHdlX2JjZjZ2U2d2eWhWTkRPRkI4cUVzUnFpbHU4QzlMQVdEVTJYMHhRSFFvLUc4VUczSUpqYlplTVEzWFp1RFFlbldxNmllNkNHUHZjcGpRclVyT3kxRnpUd1FBRGF6SzVfbEhfYW0tMUpkVml3VUtYX1JMSHJkX1dQUQ?oc=5",
-      "pubDate": "Sat, 25 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Erdoğan’ın Eski Danışmanı Emine Çift Hayatını Kaybetti! Bir Süredir Tedavi Görüyordu… - N Gazete",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONUxDTFI4UUp3bU03Z1dTV0pWLTE3MHB2T3V4Rm9OR2hYd2dUcEZsNEw4blcxb2hWYjRxN28zWnlHeWstbkdIN3ZmdkJSd1l2NkZYYjRaWkE4dUV1YmxLY2t0WUpoc25CQ3M0dU9xYjFwOGxfb1lTRWRvcTBmR0lEYW1wV1BiMnBqOHZZRmRJMUVKa0NwY2lCVDlReXp3eHA5TkdLdk1ZR2gwTDhSS0ZjQ2xFelJvZDJsRGI3S09sNVJad2ItdFlpWU130gHKAUFVX3lxTE41TENMUjhRSndtTTdnV1NXSlYtMTcwcHZPdXhGb05HaFh3Z1RwRmw0TDhuVzFvaFZiNHE3bzNaeUd5ay1uR0g3dmZ2QlJ3WXY2RlhiNFpaQTh1RXVibEtja3RZSmhzbkJDczR1T3FiMXA4bF9vWVNFZG9xMGZHSURhbXBXUGIycGo4dllGZEkxRUprQ3BjaUJUOVF5end4cDlOR0t2TVlHaDBMOFJLRmNDbEV6Um9kMmxEYjdLT2w1Ulp3Yi10WWlZTXc?oc=5",
-      "pubDate": "Sun, 24 May 2026 13:52:48 GMT"
-    },
-    {
-      "title": "Sağlık verilerini birleştirerek ve ileri teknolojiyi kullanarak tıbbi muayene ve tedavi kalitesini artırmak. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObkRETi1ZSGJkN0xuQjJ1WXZ2eFlmWTJYallPY2xHdkdYZkpUT2dBTm1jTWZjTU1veUtIOUNnWElIWjdaZGlNc3lPbXlVbm1XMHpvLU5OemhldjI4Q2M3RExVdEExbkNHLXptTGlJTEtXblMtaVJrVFQtcFdfNWR1dFFjVW5UdEhxcXUwY1JqOW43M2lHbUJxdmJ5N2NoRm9RZDFpaQ?oc=5",
-      "pubDate": "Sat, 23 May 2026 06:57:26 GMT"
-    },
-    {
-      "title": "Ly Nhan beldesindeki yoksul ve dezavantajlı ailelere sağlık danışmanlığı ve ücretsiz ilaç hizmeti sunmak. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZnphclJRN0NUX0UwakQzcThLdDM0UHF3VWVVVXBoS1Nfajk4WVZaQTBtbFMyWWp6T2FYRHc5MTdHNEVRd0RSZVNVc2ZjdGpRNExEU3ltdUc5UU1XTTRvZ0hRRnBfTjY3XzBnQkFqQmw4ekJNTTVrSDZQd21wSnFhbzJESklFTWZzQ2t6amdlQmptNmhoU0hzaGRlQlpYcThyX2x0N19QbDRQOVJTQUE?oc=5",
-      "pubDate": "Sat, 23 May 2026 06:43:19 GMT"
-    },
-    {
-      "title": "Sigarayı bırakmanın anahtarı psikoloji| Haberler - Gazete Kadıköy",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOXZfemtEbk4yaE5lQjVoa2tBYVlHU25VVUxaM0xSdmpyYmZvQi1LWnZERDNacW0tRmpjVEo3eXFfVi1lU1dtYlhBSVhQU2ZDeXBzdmxJQjJhazJGYkNBaWRqN2pjcGJPVXpjenFGRmNXOGdMX2FFMzFaYjZmbUhoclZ0bFA?oc=5",
-      "pubDate": "Mon, 09 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "title": "Akdeniz'de ilk Faz-1 Klinik Araştırma Merkezi açıldı - Akdeniz Manşet Gazetesi",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONTREOVZCanFrX25DdVF3WGpGTjQybUFWVlNBaXUxYks4QWY5TWJZSFRIRGo3WGsyOTNJclZienB4LXNsTWNvYXhwblNldzRqaXNSYU84bVliaDZwaTkxdk5QbE51ci1TbUJ4VnJTZnNJaUlsNHRMbHdzQXVTUzFzQ3pBNmdSQk84Mmt6edIBkgFBVV95cUxPU3BUZWFzUFd6WW5iV2w3UmJmNmtCMndRSHhCblQwd18xSjhDZ3V5Y3ItZWJIZU1YQWx5ODJwWXBVQlhpZHVfTjgxVmVfYk1rTjYxUFMxU2d2eFpDSF8yLXdvcUhmWGwwV3drRUZkX0pDLUFURzJZWERRLXpHRFJOaC1jWWRxdFBsYmJKakhNXzRwQQ?oc=5",
-      "pubDate": "Sun, 26 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Bugün sağlık ocakları açık mı, kapalı mı olacak? 25 Mayıs Pazartesi Aile hekimleri ve sağlık ocağı hizmet verecek mi? - Habertürk",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMTd6d1B6Z1E0aFdWYmhCU29EZ0xWRTNwNjk0OVljTWZwZVAxVFFoVkQyTUZzckxQbUp0M3NwMUFNTzZlQTdxUlVOc1pldFhNWldGbU9rU1E1dklxR2Y4c0RsRlhEVUF0MXZpcHQyQllMZzlRTGpKSzUwZlpfMFRObEE5YzBpSUdXaDFObUlyd0hyWU5GOHEtejZmZ1dNWkhMcGNvVzZZN3pWTEFCV1RzaXFxdWh2Y0VKbUdSSDJQYndHYkNTYmRTNmxJY2lFOFJMalJOdTVJNzFZYVQtNW02dDFn?oc=5",
-      "pubDate": "Sun, 24 May 2026 21:41:08 GMT"
-    },
-    {
-      "title": "Yalova İl Sağlık Müdürü Kaşıkcı’dan ADSM ve ASM’ye Yerinde İnceleme - Yalova Gazetesi",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVlo3cUtWZ2YxM25MLW5IeTdaRlJBLVIzOXlrQXUtT3VnRmNKQWV4XzZ5VFRKSy1wSWtTUW84ai0xMVY0dmNTT0s4aGhwRGZLNXd6OEM3TnFuVmlqWUpRQ1dBMmY1Qk45RnptaTVsQ1Q5UmZlMmJFWTBhNFFHT1l2XzhmMHdtdVZYTUFBQzZkWldick5oWkVCaXBuM08?oc=5",
-      "pubDate": "Sun, 24 May 2026 21:00:00 GMT"
-    },
-    {
-      "title": "Lula’dan Fiocruz Sağlık Teknolojisi Merkezi açılışı - hibya.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSG9FWkp3UzFJaTVOSlB2bGN2QnZkQ29LWFBOMFRWZ3kyY3VCNkVkRlFUM1V6SExXdkwteTY4SnlISzg1dUJXelBxaDR6cFJDN3FyelQ3SWQtTmlFaXJqX2QzUTR5a3JWNXo4bk5HZVZFVWhLVEJvNkRrMDJCeUVvbQ?oc=5",
-      "pubDate": "Sun, 24 May 2026 21:40:27 GMT"
-    },
-    {
-      "title": "İsrail’in Güney Lübnan’a Saldırılarında 2 Ölü, 10 Yaralı - سانا",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkeTNDYURTdUdDblk0Mzd4Nk5MaUVpRWZLd0loelRkeTBVam5hYUJ5aDVldXB1c3RWUXRZbFEwTzBmTWU3ZlZTTXJlNVhjN1JzZFBj?oc=5",
-      "pubDate": "Sun, 24 May 2026 20:55:00 GMT"
-    },
-    {
-      "title": "Kurban eti nasıl saklanmalı? Uzmanından 'soğuk zincir' uyarısı - Yeni Şafak",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbGRZZEhMOEdRcUlic19wUkdzSnY1U2xLWE5id3NrU3h2UmFPam5kVU0yMl93Yi11eG5UQ0M4OVU1Q0JuUUw5RjJBZ21lcFJjX2p6bmV2eFFPYlhLeEtLa0NJMkxjTk82NVo5dk9TNy1IQ1FxNEQtYWE3cWNTS1FBYlJUNkdPV1hGQmY0czRGbGcwZDlLX1oyQ090ZUk5ZmlK0gGrAUFVX3lxTFBSbV9URE5JV0lnN3NFUmozeE5KS2xBdlJYSVNyUTFFbFRjUC1jYzBXWG9qdjI5clp4RkNwbU5Qa2xrOVIzYVYwSnQ3UUNlLThILTk1WHNTVDhDTFpPYW03T0h3YmRDNEdudm9IYXB1bkhkSG9YS1FmaG03MWNMZEViVjZScl9nWjVqMFJKNWE4dFVnckxQbUVTUFdja1BxcGpubXBWLVotbG14dw?oc=5",
-      "pubDate": "Sun, 24 May 2026 21:16:10 GMT"
-    },
-    {
-      "title": "Modern Tıpta Yapay Zekâ Dönemi: Geleceğin Sağlık Teknolojileri - Tıbbiye Bülteni",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV3pEM1ZlTzAyTjZOQmVYb2JMNTg3OG9fS3N4WTh2bk13bzdwaGxHZ25uOHpNQ3lXRXJjZjdmM1Z1RDVCMVYxQXEwQXQ2eFhrMXdsS2xMbzNnUGw5TXc3dlJ2cFdVTUVmN1lBOWV2ejNKVjJZTFliQkM5dVR3cENCYmhlQ1pWaUhzR2VwY29xMWMtRWthTWRz?oc=5",
-      "pubDate": "Sun, 24 May 2026 21:06:00 GMT"
-    },
-    {
-      "title": "İstanbul’un havası ağırlaştı: En kirli ilçeler belli oldu - Yeni Şafak",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbGVhdDR2WUY0cTRLUTVabHI1ZXR2ejh0QnN6YVk0cWtGbXZ3djJ0X1hqa205aG9scnRFOThkV3lNTi1uS2txcTdkN21sLTd6R0VvYldnVjJZYVNLckJvOVpVcUxUdmtDVFU1dTZsZk5TMFlLT3lNOHRhT01hZVYxclFUUUQ3cXZpaEdSbGJ0NmwzNlk2NXVpenJLMNIBpgFBVV95cUxOTVZqUmN2UEY1ZU9XdlVrUmdNamtEV1VzSHl2Qy1rblQ1VFNNTEhRZVZIU1Q0TDgzbENHYV9vT0lGNVpRMEpZSWpnR3Z4NHl6by1DLXJFZkhSVUlFdThLUEhMTDB6a0diMF9fdUdHcTdIOWJjd1F2QTlGbFBvdG1NbXlMc2tGdzZuNHpSd2lTa1VrdFdXdlBzSzhCbHpVZnJndjNDZ0Jn?oc=5",
-      "pubDate": "Sun, 24 May 2026 21:18:38 GMT"
-    },
-    {
-      "title": "Modern Tıpta Yapay Zekâ Dönemi: Geleceğin Sağlık Teknolojileri - Tıbbiye Bülteni",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV3pEM1ZlTzAyTjZOQmVYb2JMNTg3OG9fS3N4WTh2bk13bzdwaGxHZ25uOHpNQ3lXRXJjZjdmM1Z1RDVCMVYxQXEwQXQ2eFhrMXdsS2xMbzNnUGw5TXc3dlJ2cFdVTUVmN1lBOWV2ejNKVjJZTFliQkM5dVR3cENCYmhlQ1pWaUhzR2VwY29xMWMtRWthTWRz?oc=5",
-      "pubDate": "Sun, 24 May 2026 21:06:00 GMT"
-    },
-    {
-      "title": "AFSÜ Tıp Fakültesi Öğrencileri Sosyal Sorumluluk Projelerini Tamamladı - gunfm.net",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNjlFOE5vM0lReV9MYUNsSHNORGNJODl0NTFBOFNEanM4cVhFRy12ZUlLN2Vpb3NvSjlUNVJfQVBmYUtXaUpDLWFxWExLaXE5MC03QVVxREczZjYtdXJUb3FmYUpJN0pTZHVqRUF0cUtsTzQ0dGYyTUczOXhOdkJiMTFjQi16cjhMcTU0bHkwNDVfWXFoQW1HQjJNd1B5ZF9oRVo5WWhpaGV3aGlJMmc?oc=5",
-      "pubDate": "Sat, 23 May 2026 06:46:22 GMT"
-    },
-    {
-      "title": "TİP Genel Başkanı Baş: Bir grup asalak daha fazla para kazansın diye iliğimizi kemiğimizi sömürüyorlar - Independent Türkçe",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IM2l3cTlsWVgyOWZPOUZtX3RheENBUzU3N3ZmSGV1WkxnZ0hMa2FOTGxDM1p0WWZLb2NLejBrQUlHWHdSaTBQMndnd3E?oc=5",
-      "pubDate": "Wed, 20 May 2026 13:42:20 GMT"
-    },
-    {
-      "title": "AFSÜ Tıp Fakültesi öğrencilerinin sosyal sorumluluk projeleri tamamlandı - odakgazetesi.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZmV0Ulg0dFowN1pqcWxXdE1fYzlMSklMaVo5RXZicDVsRExzSHFEQXR3ZEt4NzJYdTNsV3N1NDFTaXdESjNCWXVwaGRGcnd5WS05d0Y5WmRmN2JIb3hDWW5HUGo5VUp0cXNkTGVZS3QyT1pmSEVXZWdoaEczY3RyT0QxbGx5dEM0cDR1bGRjeUxxbmVZam1YTDB0anRheE5RdEl3?oc=5",
-      "pubDate": "Sat, 23 May 2026 06:18:00 GMT"
-    },
-    {
-      "title": "Sumud Filosu aktivistleri hastaneye ve Adli Tıp Kurumu’na götürüldü İhlas Haber Ajansı - İhlas Haber Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbDhFYWZNZVljU2I0MTNvTEpPNlBjVUI2OFdYSkJVR1FvZ0dzMWwyUkhEWXFWVk9OQ3NwRXROQ2d5c1pFVmxLNEEzcmp2cDRvZjZYNTFMU1FNSU9LUFNpejhzc3ZOaWZ5aUlhR2ZldXY0em05SXM4eE1HX05nMmZUTlo2ZkVFYVE3a2VpM0dUMWVwQ1RPLUxaS0FkNHlQTE5tS2ZTOEJ5RW5HWmpjUzBhaEF5SGNZU29YRXc?oc=5",
-      "pubDate": "Thu, 21 May 2026 20:03:28 GMT"
-    },
-    {
-      "title": "Yeni çağda geleneksel tıp, ulusal kalkınma için bir kaynak olmalıdır. - Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQem5iX0VxRXJIaUxHX3FGOTV3dmFiWlJIY1NKOGhhSEtMMlRYdHl1VEowMERwZ3g5RVlfQlFyb1BXSmdzZEpKeW1RRVpjeHQyQnhNQ3BOZFpIX0VyWks2SUdpdTZiQkdLci1JTHRZRVEtSV9TQnFPZFJkdldvS0F0cTgwaGZrTHBKSExlTnN4cTFFYnhOVzYzdlU3Q0RDRFkzd1B4Sjdn?oc=5",
-      "pubDate": "Wed, 20 May 2026 13:04:12 GMT"
-    },
-    {
-      "title": "İstanbul'da 2. Cansağlığı Uluslararası Tıp Öğrenci Kongresi düzenlendi - Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc1FlVEIwSS16VXJLUEJQR0MzOHBnbXkwQVNhaFpZWG56QUhNSlNTYjNrRlVwVDNFWUh0STllVExqTnVfTjJ5X09kcklJcUdQd2MzY3NoNVZ4UmhBMEVJVzk2b25Ma3U2dVg3TTQzeFdhbU1pdUFNVmpnMWJnbFotLTYxLTdUaGpTUTBPNU1kRC1jUy1tRU1VYUxqa3hEbGg0cHQ0ZFlJeDAwa0Jq?oc=5",
-      "pubDate": "Sat, 11 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Tıp Dünyasını Yasa Boğan Ölüm: 37 Yaşındaki Beyin Cerrahı Hayatını Kaybetti - Muğla Gazetesi",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUnhrMWlGTUpQbkNwTnVwNE1qcmFJSTJfS04tb3BUbDRJQUF4QmRLbFFFSUZKcG5jRTNyM0JGeHNCdk1yMWxRZTJRamF0MFpvaU9iRUQzRTUyeUN0RktTRFp2LWZ6UUdoX1lUQUY2U21XMHZSc1FYUHg0R3JEdUxTb1NRQ2w0MjF2aHA4NEY3b0d2RmxlZEdoMVByc1VNVl83dkk4eWgzZ2d1YndkNGtVakZGQ1UyR3RrNC0tbW8ydw?oc=5",
-      "pubDate": "Thu, 21 May 2026 15:33:00 GMT"
-    },
-    {
-      "title": "Sumud Filosu aktivistleri Adli Tıp'a getirildi - Haberler",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGpOSHM2UkdneHZrdnF2TFdtUS1NOURTSkVHMzFjT21ZYWVpcVFhYlI2MEg2UHFHU1psMl95bms3cHU2THFLU0d4SF96anNWYzBPVkRqTjE2MlZMeHlhY0dxNU1XTWphYUJsQnc3dFY5OXdETkdxMS05OFBVWWZhLTNHc2NJM3Q4SmhjcERuUVBDc2JCTVRmNzVnNUQ2ZkJVYlN3aDNR0gGiAUFVX3lxTE9ick5HS2ZOZFJZSkRPemhrYnVlZTVneE1ueDB6VzRpZ2w5N0JjWHktVkg0TTFFQmdtdDdCUkVGaVBQRzA3RF9xNkZXNF9QQ1RVY3ZmbjV6elAzNmlLTjVLY0NBMy16UW82UVpXenZJTzBNS3JOZGxOcFBYcjF3eWducnJFamt2dE5hcDNjTUpIS2plVkNPYlBNNmNaanJubDYxQQ?oc=5",
-      "pubDate": "Thu, 21 May 2026 19:03:59 GMT"
-    },
-    {
-      "title": "Tıp dünyasına yerli ve milli teknoloji damgası! 5G ile 1450 kilometre mesafeden böbrek taşı ameliyatı yapıldı - TGRT Haber",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSU9sMnNBUmg1VXdaZGZ1Y0JzNGRHS3JnTDRQRjBmcHJIeExFRlNEZDRHVW1YRHBibDRTd0xjdVM3QThtNHYxTkJ3ZGlnN09wc3dMRUE0TXN1YzdmeTRQWmp1RmVyT0NhaVB4VlFNZk9hN0RIWV8tOHlkcmZqdlNlSUMyX0lvLTJ6ZVd3ZGJBV1NRMjFLbzNKZTJCamIyeEJGN1lRNUlQVXN0T0VzS3gyeGtxMFJzb2hqNERIQnlwaTNDeUJWaklUNQ?oc=5",
-      "pubDate": "Wed, 20 May 2026 12:57:37 GMT"
-    },
-    {
-      "title": "İstanbul'da Sumud Filosu Aktivistleri Hastaneye ve Adli Tıp Kurumu'na Götürüldü - Mersin Haber",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV0I3WldqVkxFem5JV3NSM3duMUdJZ0lVYlBlc2JqUXlmMno0dXdRS3JWYjVnSzZya3ZHUjdKdFctZ1Rmb3JraUg2YmtpalFvR0RHU0ZNNjRJcjNXMVNSNENPS3pLRHp2Z0JGblU2VHZ4QW1hMzhvTlc1MVJiWGVLakdhQ1VKSWJKX0U0eTJ3QXA2YWlEa2xwai1iQmRaV250Y01rSVljbm50SXU0SzF2WC1XQVZSMHVwTWfSAVdBVV95cUxNR25mVzFzaHdHeHJUV2JGV05uVFdTRHdZZHNsM1F2eXFsN2I5RFpWbEdKLTAyenJNQWFVOFFhRGxMLUhrQ0FObURRY2FJNnlka2l0aHVEUUk?oc=5",
-      "pubDate": "Thu, 21 May 2026 20:03:00 GMT"
-    },
-    {
-      "title": "TUS yerleştirme sonuçları açıklandı: İşte sorgulama ekranı! - Kanal 3 Tv",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNmZiWmhTVkdfNzV2LWxVWWdKUkVoWlZiUlNOcVY0VGF1ZkNraW8wNFowcVpCU1dORDNJd1FwS3NWdW5FeUFTcXdjQjZhZlZiQmVuSVNtdzA1MzhwT2hza0hLTEM0VlFyZ2pyZm1wZTViVmN4Uk9pRjNhcnB2WGlsajlUTFl6VXpMaF9KMA?oc=5",
-      "pubDate": "Thu, 21 May 2026 12:12:22 GMT"
-    },
-    {
-      "title": "Elazığ’da usulsüz tıbbi atık yakan hastaneye 47 milyon lira ceza - Uzmanpara",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM2VhZ3hYUG5yeWkxMEwzZTRoVHlFNi1kS1ZhMDd6bk9veTJTRzFhN195X0dfX3FITE95dTBxSW9pOHNVbDNUN0hnN294UkpqZkp4TlFjMHY1TG81WkQ5bEprLXJNMDhfellvckJNeGY2YWsyaTJTVF9OOHZ3WU1GV3UzbkhTUUdSYTllYS0wakduNWNsTmdoMTJ4WXBlWFkzSVRjTnNBVkk3UnhfZU5sMm1TbnlNUQ?oc=5",
-      "pubDate": "Sat, 23 May 2026 07:29:00 GMT"
     }
   ]
 }
