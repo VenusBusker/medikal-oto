@@ -2,6 +2,361 @@
   "status": "ok",
   "items": [
     {
+      "title": "Medicaid/CHIP Monthly Enrollment Tracker - KFF",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PZlduTlEyb3kxaVhyRmJkYkZJT0dIcmRZWXVPSC1kZ0l1T0dQRzlHZFZ2SThndGRsMjd4NktNQlJ2RHY2MFFrY3p0NDJrRXU1T0NsZjh1Um42WUFSTkhOblc1REl4UWRa?oc=5",
+      "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Penn State Health Milton S. Hershey Medical Center adopts “Heart-in-a-Box” technology to expand reach of donor hearts - Penn State Health News",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdkViZm55Zk1JLWtKa2Z3bDFDRkFMdS13cWdiVm9tdEluUkdkV01FanEwS295ajVLYk94SV9HWTk4VGVmQmJCZ214bWZuSXRCVUlRaTZ0bHcwdDE3QjdXX25aeG9VSEJtb3BpTEZDZk1taThrY1dhTzNPcXVlZlRfenlFdGI0SFBJdllCcmJRODlQWXlNdGtHMGFsVFVNSnRncEFXZVBmdDc0TkxvVC1GUVQ0MXhEY0EyMnBQTnlLUEFERHNFYkQyVUgtdDUtZE1hNHJmS0RicGZhQU9ySi1MaVdnV0dEQURNblZ3?oc=5",
+      "pubDate": "Mon, 22 Jun 2026 14:34:17 GMT"
+    },
+    {
+      "title": "Penn State Health Announces leadership transition for Milton S. Hershey Medical Center Board of Directors - Penn State Health News",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaVhzdkhZUFRSUDVRN1o3RU5SalB5QUpEYmh2OVhEVnJUWmlpa3dnbnM1MEF2WDhMRlFjZk9aRkZxejZqbjFYYzRNOGhIM05hZEU3LU1OM2h1UUQtNXJ0b2NpNmR1TUtoaGZaTVFBMEF6c19uZUs5UldqWEtfZVM4QWVadV9oWWNTUnA0bkE3SGh1RjlaeEVSV05GSE9kdUUtZHd0aE52NERNM1cteFBuN2R3STRBc0Nqakg2NnJub1VrdVpBQ2lrcW81RFJWcWJZY0VfV0dtU3ZkM29mVGc?oc=5",
+      "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Survey: Staff say school-based telehealth cuts behavioral issues - North Carolina Health News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTnNEVm5HOFFENENEOHJ5aHNzcFRfRW9ZamV0VDhOaE1oME1UQWwyS1AzMWJ0Z29XRWpIZVlGTWRqRFRmTkxwU25HZ2xUMDhqbGQtaWZ3Rkg1SmoxcTJRZFVGV3ZRLXZtamFZZFMyc01Gem9mNm95bk82djMxQnVQcDJvMjBYT1hObzR6TFpiTHZIc0ZfM2RrUU9POEtDbS1rMHZmWU52dw?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Plant-based ‘anti-nutrient’ may offer protection against ‘leaky gut’ - Medical News Today",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcmFKVERkSXhxNHVCQlFEUlEyU3Y0QUZ1elRSeDlTSEtDc2ZPQ0xtcnVFanFidWc2ODVmQzg5Q3BKRVgxTXlHRkhvU0ZWdXJ0c1llNGFVZ0docnZTZTVvamh5QWoxZ1QwYms0X1o1TFE3c0xUSHUwQkxVTXIwOC1OMTdhLWVYWExrX2pIWWgtbTdwRllFc25HNHdGT0t0QQ?oc=5",
+      "pubDate": "Sat, 06 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "'Silent' heart attacks linked to faster cognitive decline - Medical News Today",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTGRtQm9ud2VKRGNrOVlJdndaX1JnUEVfcXlGVFNBajZqLVpqX2I1UTVjMlAtOTktRzNKRFlkRWJabDNZRWZadzBSZ1h3SlVuZkZiQmFmaHNQNElnRWhDY2o0NERWMmpnbVBXYVp5RnZzMllIQ0ZCSWE4dDhOYVFUbWhxZi1JWFVZRjdlc25VVEpjbFBtUGxNT1MzVWYwYnZaRGc?oc=5",
+      "pubDate": "Wed, 20 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Sanford announces new Landmark Clinic location in Minot - Sanford Health News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUEpQdlozSW1CU2w4aWZxa053OGlVWXg1YnhUZ3gxNlEtaVNacFUzSVh5c1luRkRWY09SRjJEbmVTZ1REejJQNHlGOXRyMUJ1SVM2aG9qYUhMcUFkUHZHN2s1MmlDVGpBblJNTUoyeW03bEMzWk5tQ1UtcGlnWUN3MHlJUDk2MHl3eHlWMzc3NXNjSldGNS1MMXZrMWtEcGdJcGxEcU9zWGZpM292QlE?oc=5",
+      "pubDate": "Thu, 11 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Brain imaging study highlights ethnoracial differences in dementia - Vanderbilt Health News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVHhUN2dCV2lJYk44dnJIRXRaWnY5ZWlaRDdfVzJpVGhmbVFZcmVWLUMwMmduU2VyLUg1a3pMWnVPVzBlcTNWOFRzYXhnbjVObGJWVHhNWk1sLVJLbF9OaVB4aFA5N3dDNlpKSW5pSGRTSlpfVjZDcGhQeUtjWlJTT0ZQNkxEeDJJWmlGMkdYcVAxQUdHbXRNWXUzYjNhd0UxZ2c?oc=5",
+      "pubDate": "Wed, 27 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "NJ Health Department Alerts Residents of New Confirmed Measles Case, Urges Individuals to Stay Up to Date on Vaccines - NJ.gov",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwdXRpRE5XSHI2Yjh2TnBYTkhNYTNhdWp0Z1pNQVBsbWlsU1ZsbVFKSEFVNFMwMXFsR21zVDRNRXpfSTFuZC1zbTdZdjk5WExWNE05ZE43WVJTcEYxVEpSSGt6U1VnaWpTUDE5Rw?oc=5",
+      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Reimagining mental health: Stanford Medicine experts chosen to lead precision task force - Stanford Medicine",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU296VW1mVnFmejZPUU85cEJ5TkpnVjVDU1JrTHhxbmRZdXdFZ3B4aGh4ckJOdWJqUGwxTUpIaTAtMHlEdDZ3UEk1bTl4UDBrTVF4LTU3a0R2MGFzOUN1NzlKeXExa1FZRTZnRjhIRnZRN0JyNGZkWkhveVNoSDY0aUh6QnpLMllRLTVVMkE4RHZBZ3BDZTEwYnpabXQ5MGctZGRleGQtZUVQbXlGQlNrYVpjem9WR0U?oc=5",
+      "pubDate": "Mon, 18 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Track 1300+ Cell &amp; Gene Therapy Programs, 500+ Manufacturing Facilities, Clinical Trials, Funding Activity and Market Opportunities from a Single Platform - BioSpace",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNT3Q4ZWh5bG5sNE1pMHFhVWdnSjQyOXcxVnhWR0xvMXUzTDlDVHZJZUZVWlhObHVvNk9WR0JXR0ktQndYYktlSnNpbTg5R1ViOUtlWEZ4T3E0UkFTRzBLQWhQdzdBX0hJcXRfZzJPY21QdnlBLV9Eb0JhamdEZ1o4VmFKdVctOHQxdHJhOEw3aHRUQjUyMDZILTVSbTJyRVRqaGJyUkJITVMtQTEyeGozYVprNGVWQ19vMzNBTVVaWXNWT1J0dy01NWlsckh5Q1V4aWU4bGsteTUtTk4wZWtBS2tYY2RGOUtTSWU4bFpEaDNERkR2d21yNkFqQ3BXaTdRVmxhQW5jREF0V0R6ZGtwblpic3JmZw?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 18:13:13 GMT"
+    },
+    {
+      "title": "PARADIGM HEALTH SUBMITS RESPONSE TO FDA'S REAL-TIME CLINICAL TRIALS INITIATIVE RFI, INFORMED BY BIOPHARMA SPONSORS AND PROVIDERS - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQZjM5TG9tTW03bnZKYUdKQVlrQjRiWjJPd1RneUxPRndKLUFyWEdSbDZnM2lpTGk0THJma0pSRUpfMDllWEhMZFZoWUV4U2h0LUo1UzZteFc5Vmt2WXBCVy1QTnFaUThWR2Q2OWtrUTBfSFNsTEZ6TktHUUl3QjBmOHFNaXgwajJBRWQ1M011bkt6YU5hV0xjcXdEODlHaUNDMVJTTk1xWXdzclhrUy1BcFlfN3N5QklJakp1emwzZE1oWlJ4NWoydGg2ZTI5MnVSbnhPeEpnRXZlR2dEdVAtVlAxSWppbjhoaVItcF85aV9WeFprUjM3V3hhNDFOcVlvMk9yWEdCbnpieHA5SG04?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 17:44:00 GMT"
+    },
+    {
+      "title": "Merck (MRK) Faces U.S. Security Probe Over China Clinical Trials - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZG1LaEktSm1rdnZtVzRLdUQ1c0g5cWsteGdibkFja1RBOHY0NG50UXRUMS05UFo2UkRGNkp3UV9DUnlwVVJaWXp6SnJWNWxxN0FBVFhmYzNFN09PNXVQUlpDXzFGVGJ0VW9XU2FNZ05ka2xydUVuOG1IdmdidXVlVlUtSmdfT1RxVi1nZmlwVmQ?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 17:06:37 GMT"
+    },
+    {
+      "title": "Holland &amp; Knight Health Dose: June 30, 2026 - Holland &amp; Knight",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHlNdUJpQURhVWozd3R5ODd4UGU1elpSb2F3S2diclhKVEtJdnpUc1Zqb3lqU1BORG81QVRPdEdqVGhpRng1dW9zZEZpek5NSzVOWHdST3ExM3ctVjk0dkZsa21FZ1NUT1ZQem5kN18tZ0k3azVhVkxlNzVpNWRKT1M5aF9ScC1WTkJCSm00V0Q5MUZfeDRmUEFyOC16ZTQ?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:40:55 GMT"
+    },
+    {
+      "title": "U.S. House Committee Investigating Drugmakers Involved in China Drug Trials: Report - Pharmaceutical Executive",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSldhelRERUlMSlA0dFB2THFKSnFSMklTb005SWtibi1RQzFsdlJJOTZFVEtmZTVsU0ZjSllyRHVYRzNNcUlZUU5mWVdLNURTNTd5dUFRMGxUV3VSdkt2Nk04RnlScmJpcWhzcVQzSTVfNzZIaF9McXJnVk9hRG1sSktJT2w1M2lUVVlTQ2NES3hySlpuZmdieUtpTENzSUk5?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 18:01:08 GMT"
+    },
+    {
+      "title": "Headlands Research Expands California Presence with Acquisition of Clinical Trials Research - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRkpveGdsZlFPVXJpSmZrSHNjUkU5U3BEVkZQbXhGdEpzbHMyTVVmVkdsOTFLUFRqbjh2Rm9zZkpLSTU2RjF5RV9qYkNCSzh6ZGZrU256Y0VhQmxCYWU3OW9SV19yQ09jdjI5czlhRU1ETjR3ck1fUVg5MkNYOFBvYUVOdGR6LXdqN193MW9hY1Q5OEtoQnVURjNDMnBsdDBIOW5kY3ZINTFtQ1ViSnlqWDBoQllyUWZOcFlOMkNOUlhSbVFRaWxLSFQ5TGk2RHh0cS1xRE1JM0NYTl95QnoyNA?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 14:00:00 GMT"
+    },
+    {
+      "title": "Merck, AbbVie probed by US lawmakers over China clinical trials: report - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc2d6Uzh3cUVaSmlIZ1pGTTlsZXY3R25xRFZQeWZfSENES2pXSlRubW8tQXZpRnBSWlZqVjBNNUZZU1ZHajhRdzhtSkxYdmJrak5ncVc5Sl9TYmxuMTBLSVZtSk9heE5NOFFSdTN3c2pzQ3YxSDFkZG9sV0hrcHFXanMwTDJjNmZS?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:19:00 GMT"
+    },
+    {
+      "title": "Genmab and AbbVie’s Epkinly combo improves PFS in second-line DLBCL trial - Clinical Trials Arena",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE10RnRRUTViNTE1bExtVXBWVHc4RU5UeTlkWEZNQXYwVFVueVNBT0tyUnMzcGRHckJiWDhJQXpEamZHWFZvWGU3YTJ3MjRzTXJmUnV4ejBILU13eExMeWx5anpsb3ZoaU5Ic1dmREpaeUJ0UG9tVTZtYVl6Rm4?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:59:22 GMT"
+    },
+    {
+      "title": "US House Committee Opens Investigation Into Merck, AbbVie China Drug Trials - U.S. News &amp; World Report",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcTlEMlNVWEFtV3hsSkJDdjF0VFc3NnZ2X3NSdm14a2JneWdWdGlNQXBXdDVpa1A4TjAzX2xLWFNGaEFGOHd0WHJvMkxvY2NfaDlRX2tWVWJLTGJYUTh2ZS1ETVQzYjNyel9WQzFRblpLWXFkdmpjME1sSUlmQWs0ekp0TE1NQm96bkd4b0h6MUx0Q29UaEhnVFYxWU9Yb1ZPaXA5RWpHaWR6Vkd2eEx2aVpyYnVKRVBZb3VERWhBX0VTMElGeGx0d1ZiclFkdXYyeHU3RQ?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 13:19:12 GMT"
+    },
+    {
+      "title": "World Bronchiectasis Conference 2026 Highlights New Tools and Patient Resources - respiratory-therapy.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUzRneTNWMG9MOVdaZ1ZKNzNSTDJSc0JuODg3NjE5SGhNaWo2SnlYRGVGbi1wT0hicFZOWFNNYURBZVFwSjNuWlN0V1B6RTVZblJyaExkRERYVDE2WlNVUjc0a2pYRHh6MUR2aWxhOGZtR0NOZnJ0RDZNMFJSSnRnRGdLc2xNYWxBU21iMGhWNlQ5ODlIeGlVdGVOTmYxTW5nSTloR093czdrVXRISTJ0aXNjMkd6Wm1sUlozcUtzY01INXNlc1FmSFlqQXhXb2dtdDloXy1BajdKdE90?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 18:23:21 GMT"
+    },
+    {
+      "title": "Repurposed epilepsy drug could be used to boost vaccine protection among elderly - Medical Xpress",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWDk3Y3RmQlQtNWVzOTRiT2JDSnlpbE5WODFYMEJ4RnlkbGZxZk9TaHVWeFFuNmF2ZFlIc0otdnBzMTF0aUVURktxeWYzTGlRMFJFNmQ0VjFfNW1KcHJkQU5OUllONm80c0MxeGpIT3lodXlYM0lsSnd2WlRYbVRrTW0zOUQzMjZkaGc?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 17:40:09 GMT"
+    },
+    {
+      "title": "HIV Treatment Idvynso Approval and Clinical Findings - Infectious Disease Special Edition",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcWMwNy12T2pzTXNUbGFsV3ZiUVJUQTd5MmllTmVVNU13R0ZMaFZ2RXFaU18yUDR1a3RFZUNacFhkSnAxUFhQQUtoZ19uelpYU29Td3QyTW00c1UyWVhfUXBXYlJ6Qk51bjgyaEp6dG1pQkgzMExtYmpHcXpJdXRqV0R1TnNnRTF1ME0taHJ2WlV6RG1nbFVOR3ozdExDUnFPNkdZcA?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:50:45 GMT"
+    },
+    {
+      "title": "Medical College of Wisconsin to Lead Landmark Multi-Center Clinical Trial in Traumatic Brain Injury Rehabilitation - The Milwaukee Courier",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOLW45VHR4QnZaVmlRTHVXRzloenMtSy1PU2ZYVW1xVzR1d2RhcmZTcENLRUlvUThkTW54S0pzSjA3QmF2WGRIUGxxb0FJdnA5aW9ZUk94SjJFX3lDRE05OEF6cVJ6bmV1ckFvdWNkY3VUMEZybXBzQW5hd2tld1hOVDc1Zks3VjZYRzU2ejU3aE9sVWs2S2hEd0kxbGI2OFFlNk1ZNDF0RWY1ZW1XRl9pOW1qYWpjaVBUVWdMNlNRYjI1MnJ0V3BIX01mV1IxVTJqWk5TbFU4RGVXX1RjRjVrNF9MNGlaRzBISGdMdEJpUnQ?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:38:00 GMT"
+    },
+    {
+      "title": "Caidya Combines With Simbec-Orion to Expand Global Clinical Research Capabilities - citybiz",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjhfcVBBOWcwNmoyNV9HbjJ2ZS1jMVdHZFJoM0UtajhiQWx2a09QeGhxOC0yRS1MVUdoV2tLUVJEQzY2UHdjMFB1dktGanp1QTFnMzJPSzQtQlR0NDBITzJ5RXNROHpQdWRVT0V4cWtaVGdjdzNmQmJUckJETHI4eHpqek0wa0FDTFhMelJmZUZoQzFzbW1nU2R2aTg0czhxZXdDYm14Uy1yQjBpVmNhYi1DUHRSOXNrNWU2bQ?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:10:48 GMT"
+    },
+    {
+      "title": "Allucent Launches IGNITE™ Site Network to Enhance Speed, Quality, and Predictability Across Clinical Trial Delivery - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQMTltZkx6U2VpdEVZMnpRMjc0dFo0R3lsZEdVRXVneGY5UFFOc3QyTmVUeXlZeGw1cVhYbmxzbWlVWGNwa3dUb1VJT0lxSFpYM0JxbFNjRU9WSmY1emRTWWg4aG1QaWFXVU9Xd296V0hJbFE5SmJyZnVkbXpXZUVtMlhabGxTY05zZnNtMnRsakhSMHltZlY5cnNmUS1fZzR4MVR0LVU2c3hSUGZ2Y0VpOE84RWd5Tjlkd0lIVVR4aVEtOVZfTndENlZlZ1J5dlhScmFoc1UtVjZ5Y2JFbEhTTmpsUDlxS09qZU9IMmg1c01SRW5QdWlnNlB5Y0M?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 11:00:00 GMT"
+    },
+    {
+      "title": "Ever Supreme Advances Off-the-Shelf CAR-T Therapy CAR001 to Phase IIa After Positive Phase I Safety Review - BioPharma APAC",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSjVJM0swMFQ2M1AxOVBBbE53SFBqbi1CT1JiQUJ0dTktby1ZMENhY0hSUTNBY0xGOXJZeXJycXhMS2k3NTdScl82dUJIR25qWGlrQnVzVkw0TVJ6WEpQZlJ3c00tZEM5enJLcExUUHhidjlkenVBd05adUNld2lTSWV6R28zMlZQUnkzdnE2bmgtcEdlX1NlN29WNGJsbllQV2tQM1M1OGx6aDBLREdUcVdMUkd5QjVybUhSTGRRUVBMUmFCdkh2b0lTQjlMcnVyTmhTUDNHOVh0UzRudzNFY3RSNVg?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 18:33:53 GMT"
+    },
+    {
+      "title": "High-profile retraction tests confidence in China-led studies - BioWorld News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnFXLVBKRi1RcmFVQjJrMkZ4RFBBNW81Rk5telJLLU56ZTBkSHNTcUdTdjctSGxLVFR4OVBxTFd3aWo1T1QtOWVRLWRFdFY1d3NwQTlnTUxPN1hzSG91b0pJZ0FkN0RuUjJBbTM5b3ZDakI0SWV3ZHlzdFotekxJRzJJTTJXTzNlSjVDQ0FlSGRIN1RZRXVQS1loOVhwaENxbHBwUQ?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 17:19:56 GMT"
+    },
+    {
+      "title": "Exclusive-US House committee opens investigation into Merck, AbbVie China drug trials By Reuters - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOXg4YThRSExJbmxsSmNiekw5S1ZEektyeTF2SDZCWXdpM2ZyMnc5TDhBaEM1U2FONVN5MjB4enJVNjJ6RXlZb0xLajJEWWRqVkgtYVhlVDJ3S0ZYYVg3OWI4dHlNekNnLTNJZFRSNWFPRXl0ZnVnUHN0WXdHeV8xclFHYllNMEE3SjZDamo5ZEJ3QVFjbHZlYnBpYlM0S0xLcm9sQ1VDMXRfTFlQem5fSUFCOXBtYUtsRU9RUUtGbk5udnp0UHROaTZLNlE2TTdTWlZOVXN5Yw?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 10:09:42 GMT"
+    },
+    {
+      "title": "Julie Gralow Receives MedNews Week Global Oncology Leadership Award at ASCO Breakthrough 2026 - Oncodaily",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CekJ6N0hRc1RmSERyeUZPTDlBd01fMm5DTllreGNabkRobGFTM2JYTzVGLUxoUlZ4UUx5MGh0MWZzMURzWUVrR3ZlQTR6SnVHcGozVXpGQ1RhZw?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 18:04:35 GMT"
+    },
+    {
+      "title": "Breaking decades of stagnation in brain cancer research - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYWx1Nzg0aVZfWURtZFFQTUxaOU9aV0ZyUm1va1hUeGxocG5ZZXNBREhXczFaOWd6d0UzTm5YVk1oc2NHck1ZNzZvWm9LN2pDU19feG9IZ04wb0lPcXFaZFVLTWN6bk9OLUhjaE9BUXlBZGNQT0s3WlhtRmUyTTlSOFAyVkNNdHdlRjhqcDUwU216a3hVQzRrQkxBMDBjdWV3N1E?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 17:57:34 GMT"
+    },
+    {
+      "title": "Srotas Health Adds TriNetX Founder Gadi Lachman to Board to Accelerate AI Clinical Trial Platform - citybiz",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRGlDV0haWGdpcDFnc0lmUmNqX1VhampqZFdqZVp3OFk4YWVxTDhzelJyT2VLdTkxdVkxcURvVndUdWlnX0NTaUVRZ05kbFFCY0VzenlnMEtzZFRFaEI5WmRJVDZlSnlMbUpwX1lmU0xqd1FzN3FQM1d5dm5YMkxXTEVIaEtwZWt6TVZHSlFNZHdmVGhwRl9Qa0ZzMVh3Z3dTNWRGOFRIdC1kQmtMdi0tSkc4SjVTVFdOeTg4MkdheWozRW5Ocy1GNkNmTS1YaDAwN3c?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 12:20:35 GMT"
+    },
+    {
+      "title": "Capgemini Q&amp;A: AI's Role in the Future of Drug Discovery - Healthcare Digital",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeU1EYTNCZWFzNXNRZHJkRzB5enFMS0l3TWxwN2ctV1dIVHZGeEZOMFd1a0NaTGQwTHdRUi12eTMwS2Rid0hUYlh5cUNKNzA1TG9hWUxMZFM0WUpyQnk4UmNrV01OZmJjbWZlQVNJWXFlc09FZGUycEw0dFRuLTNsWk5XSk9wZjljaGN4Z2pYcXZJMWZw?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 17:00:41 GMT"
+    },
+    {
+      "title": "Nurses in Carmel, Indy, Brownsburg charged with fraud, stealing meds - IndyStar",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNU19UeTdQRFA3Y0lENVdobERlM0Z0eWd6SlFZVThtNF84ZjJPT0pVVGFPMEowR3VXQnE0QzlxbU5xbzY2M3dDZk1zSFYwYkFpOExSUmdSem9UZ1M0RTBMMndJYzUwNlRGejNfUkxVZDZRVnhRaDhhNzc2MDJVMFRNYUNvUUk2QnlzdTlYZjJLY0dsRWl1TmZvMC0wLWZKWndlQlpOanZnVlB3TUExdDlzTC1nZzFEYjhQSWxDczYtajBMd3FldjZCaGxJZ2p4aE5GWHBqMThXdXVDb3FmR0hEWXJlTS12cm5D?oc=5",
+      "pubDate": "Mon, 29 Jun 2026 21:02:00 GMT"
+    },
+    {
+      "title": "Protecting Access to Established Research-Backed Healthcare - Fenway Health",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUEllREJuNGZYYW9RMnNJcTFINUx0SnQ2QUdUWml0UmgyVVppY1UxODlrMUR5RUZLbFd1MVJPeW1XeG9VNkRmVE9OTlQ0T0pLSGxHZmJtY25nVjhaWFZfWDNZck1fUW5hN1NHZWpsb0JURFlQY0g2Y29RTUtfdkljdlgzcnM4SXg2dWFSUjZn?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:24:11 GMT"
+    },
+    {
+      "title": "Delaware students earn national recognition while building the future of healthcare - State of Delaware News (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jRHlQM0MyWVQ4aVhWYW5LUnBDRmxYcGhrTUJ6WmdDMEhjc2w1OHlQY24tOEJoQlc3WjVfcks5Y2VlRTFHZHg2Z0JDMm1ab1hVemhsZWVPTQ?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 15:54:46 GMT"
+    },
+    {
+      "title": "Dordt University students gain global healthcare experience serving refugees abroad - Dordt University",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS0lUQW5kcWRqWG5pX3QwLTYzb0hDWDdoX1JGVEpRcVo4WFEwSTR5MGFhbDJGTFNINm41U1gxWWZWMnBUMk1oSzBickdCZDRjVTNZSHoySm1SUXI5bnZJZ0E0anU5dnhaUFRJVVpNQVRtMi1RcklVMHpxOS1PS0xkTmpQY05CbVBrbGVmenY0dTVsUUdvVXozdTFCN0VMYTlVY2NYX2E5TG5NdV8zYnFj?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 12:39:00 GMT"
+    },
+    {
+      "title": "Lawler Applauds Court Victory Expanding Professional Degree Status for Nursing and Healthcare Students - Congressman Mike Lawler (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5URDVlYmh6N3MwNzhBOEM5b0ZXYmZpUEluRV90ZGlhUEVUWk0tZzJ3bTF3TXBpbEE1UEVRVktUazBHaFRvcU1hbEVza3ZkWXZ2YjNmTnNveUxiM3N1ZHlHMXlYbkMyaTlSaFVzQVlqVUIzLWc?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 17:40:21 GMT"
+    },
+    {
+      "title": "Half a million New Yorkers will lose healthcare in July - Hospitals are at risk too - WAMC",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMThfMFRaX0F6TTJzRl9aSWxHQWYyeFhsdlZXQmlJNndkTDBnTUdCLTdNb2VrVkRnVUZFVEpNcktLVl9UYUpLOXdzZlkzcmZmT1AzV2Z6Z2t5dUZlbjE4V0Uzb19EaklwMUZFZW9nNVRJampvYVZCdk9Nb3NiVWRHM0xqU2NieHpLQU1LcDFoSkZvbHJiM3hraHVQU1EzbzNSdWFINGV2UzBLd094a0g3eU4yNXl1dHlpVUE?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 13:50:00 GMT"
+    },
+    {
+      "title": "Cut Payroll Taxes and Provide Healthcare Benefits at ZERO Net Cost with the Compass Saver Plan! - AHCA/NCAL",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTWlBQUlPT1RPbjFzRTA2QWJGLWhNaVQ4QVBvaVV5SnpSQzEyMUxaZU5kUGFHSUhzWW0zOHpXNVFhUDg1NkJUanNQdTFQekFkX3B4OVk2cUxCNFVVeWxOdTdsWl9jRC1PUTVmZWRld2hsazVnZVFNV1I5WFl2WURYdEhvekc3UkUtQWlZUEg5WG96VUNEOTlNVVZLZWJsSllKdUNZRnVLMmxHUEVTRmo5dUY3aG5XTGxEcVcwSXhQWjYtdlVXZ0czNmV3M2NBWlFlVGxFemI2TzJkLUdFLS1KaHJfR21EUEtiSll5MkZvUXVpTWFGZW9idEprcnFfWk9p?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 17:47:27 GMT"
+    },
+    {
+      "title": "OSF HealthCare expands use of DeviceWise™ for safer surgery - OSF HealthCare",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ1NRMHFodUQ2VldBcldlZGVybHlCSlVvTGFWRjZCWG1zTENvLU9zZHctRkZid20weVdkOU5RcWstU21jaXdQWEJBNS05QUVZZjlGbEpHY3o0dndLNy1lbjNHcWNwX3RwRVljc3pETWxuSG12SGZqckk4bFRjTVNDS0Q1T1d3bzNsOHhXdG84eHNiM0t6bFNJdEJDNlJubTQ2TUhRX0ZLNWpvS0pHUmxvTDRMMUw1c0VSM1ZCbXlFRnBjSDJVSEE?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:36:24 GMT"
+    },
+    {
+      "title": "New Hanover Community Endowment pours $12M into safety, housing, and healthcare - WECT",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeWZJVXZTZldKa2pNajZyWnZWX2Z4ZXBvdzlZYnV5aGExSWJYc242TlZuNXZ5My1QQUk0cFRPTVBMTXFMazdhYmpSc2E4X2RWTGpDdmV6ejhMVERuQ1g4UmJoaFdXVmF0VmhFVWdkX0NocWh1Z2hmRjllQVNRQ0R5bDMtN3AyNmFYWER4WXVKcTNUdkZZZkxzaXdObTZoNTBMT0VPc2lsNGTSAbwBQVVfeXFMTjFQa0N5aFRPaFZqUGZOZXN0UVlHMENRUXR2R3AyVDBWUmFCZTBJanhGUm1jdDlsSFBmV3FiSmlNV1BVcmV1M2ZxejViOG10dVk1WFRWQzB1YklrSkdVYjFJUXEyNmROc3diTE1nMmd4RjJBMy1PNW5MRGdjdlNHcm5nVGZmQ1JwSGR6dk10bE1ELUROOU0zeWpTUkZjdW5LS29oeFh5Y25OQ2FlTWh5bG04RnZmX2s5TE02U1g?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 18:19:00 GMT"
+    },
+    {
+      "title": "Gov. Healey proposes ban on reporting medical debt to credit agencies - WBUR",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT0xrT2ltei1MRldzYWdUMGVyY1NHS0FLcnFZU29jRk0tNmhxMDFrbklYdUVpUzlMT2ZZNjVtZTRPZjU5elBpWEZ0SFYzNDUxbWdoYk45VmFXSDV1a0dTUzRtWHFkU3VEWGc3WkNVNXU1UEtFZlBmR1RkRmszQWw0RU1R?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 18:13:22 GMT"
+    },
+    {
+      "title": "Memorial Healthcare System Opens Red Road ER in Miramar, Bringing Hospital-Level Emergency Care Closer to Home - Florida Hospital News and Healthcare Report",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdGRsWmhJMzdVVFpmdW5KNmNFY1ppR29ldDBTTXAtTlB3aXpLbzhOUEpSZDlVbllLWXRxX01uWWhwQ25LR2VGSmZPZjdKaGJmVWU1Ym5XQXpQeGJnTmxfSV9lTEt1N0xZbE9tbUVhVFpoaG5lR3dBRDJfd0VhYnVKb29wTVZLZlp0RjU1YXZPRUduT1dlb0lvNjdFVUE5TVg3UDFSYzRJUFlvZFJlSVl4Z1AtRFBnc1dQbG50bGhIZUxCWlZ5aENPLXJ1NU5QUEhjUkdqQWNIWGE5UV9rcHBPMA?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:51:37 GMT"
+    },
+    {
+      "title": "Holland &amp; Knight Health Dose: June 30, 2026 - Holland &amp; Knight",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHlNdUJpQURhVWozd3R5ODd4UGU1elpSb2F3S2diclhKVEtJdnpUc1Zqb3lqU1BORG81QVRPdEdqVGhpRng1dW9zZEZpek5NSzVOWHdST3ExM3ctVjk0dkZsa21FZ1NUT1ZQem5kN18tZ0k3azVhVkxlNzVpNWRKT1M5aF9ScC1WTkJCSm00V0Q5MUZfeDRmUEFyOC16ZTQ?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:40:55 GMT"
+    },
+    {
+      "title": "Monarch Healthcare Unveils New Logo, Brand And Tagline - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTGUyOHMxbXl6Mk5mQm1aOVNMQmRDU3RQamlLb3I3WkdmWkF4Uk9jeE5GaTBzaDB0VjVER1RiY2JEQVBOdUtpZHdmbTVUTnBERGhPNHVieUpYdVRseGt1b0F6Z3E3NEJhTVl4N1NmcngwczlocnltdVdfWnlNY2Fmc3ZMVG1mTDJXN2RVdWNHTmpQM2ZFWXFrMnk5M2FTNzg?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:55:00 GMT"
+    },
+    {
+      "title": "When Chick Fil A Enters Healthcare: Inside Matic and their Vision for AI-Native Advanced Primary Care - Hospitalogy",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbDMzNzhzYlBoYmZINWo2a2ZEMFkwZ2xWdVQybFlYVXYxSEF6MmVPRmxTZnR1dW9nOXduN3lQNDZmSFZuN2ZIYU0yR1FmR3FVckd3SmxiTWlMQ1FFTW55MVZOZ0hTM2szRENXVVZyNDVhMzhfU3JxeWhMd2xjVmNHZUQ0aHVkOUtRTmdSbmdOZkhMM01uSGFBejdLOEJpWGx6MWhYSjJvT3Y3SEZKMzZ4RmxtUllheDdzcm8wbnJQdWJaaF9ocTNMTGI1SVBXalhqZ1FZV0R1d3g2Uml3Ymc?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 17:38:26 GMT"
+    },
+    {
+      "title": "UChicago Medicine AdventHealth named official healthcare provider of Chicagoland Speedway - Jayski",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ1NKd1JRV2NHZTBmMzNCLWEyRHN6UWNWQnJ0RjJWeEJFRVRlMWRPQnpsaGh1VTFXTEZ6Nkhpa0RJZjFyVXliNFAzV043X3A2TUxoV0Zha1lDMm1wR3dRLUpRYWlfTVlhb0hNWWJXeThVT1lQblRSVWJGTDdlUWVBbmNXNFd4bm8xMEpjcnZPanVwTGRfdkxkendUbWNFUmdRc3QwMHQ4aW5MUzVIaVYxTkpqOTBJZHBZLVUxYWw2Y0Fmdw?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 18:22:26 GMT"
+    },
+    {
+      "title": "Step by step: digital transformation the Nordic way - Healthcare IT News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaHZIMmJlclRzaDhONVVzMkZ0c3d5Wm54Q0s4U2VoUFpxOEJBdW0yazhlRXFDUU03MFc2Q1BHWEVNTDJ1Ym5kSDMtLTZObU5EanR4NzdwTXVHQVFEUjA5WWVWVDdNYmRGbUp0M2pVcmQ2UG16d08wZlNtdXo5YjhGWmhOdVRZMU9tNjBWZmxDUQ?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 12:17:08 GMT"
+    },
+    {
+      "title": "Upside garners $20M for healthcare-focused housing stability platform and more funding news - MobiHealthNews",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcGFsMy0xck9VUHZxMGd3WjM0eEVvM1RaTENHU3lWajF3dXhHdVdkLTJlMHI2eHZ2SEFfclFpS1JiOS03M3FzVTAyaHRoMnhrUkpJZ3VrOXFyUVgtbnlQWXd3RkMxVkFFa3Nvb3k0Z1VUOHJXLUtYX0RDRDFSUVNMbFV4MmJaZVFJeldiWWoyR0VkLUdmczZxaWswcUVaZEtOeG9ZbEI1NlNZUXhCZ0RGS0c0YzV6VnF3a29FbWFwRQ?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:16:36 GMT"
+    },
+    {
+      "title": "American Hospital Association taps Steve Walsh as next CEO - Modern Healthcare News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZldYSWNkSjdDb0pjZUs0RUx0eGVlZVhFUzhoMm1QSFFfR2toOXNmNEx3OXloZEUxTUxsb2R5NDFSNEd1Sk9NYjZHRXkySmR4dndiZkZ5UXZPX1MxdUJIaHk1a0Fsd1Mxa3pPQ1FBc3pRbnB2SzJOWnIyNjBaT0lybGg5bXNvMnBpUG1NazlnbDBSeTY4Y05R?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:20:00 GMT"
+    },
+    {
+      "title": "Physitrack Agrees Deal to Launch Digital Rehabilitation Across Major UK Healthcare Provider's National Network - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeXB5YVFJSDI3QXplTW5fY3BGQ3EzdmJhYlB3dkNtOTQ2cGcyQW1jdG10WGM1WFpkYzc5LXBhY1NTSjF2a0puMEkwS1hIakRBNjBtRThPVnV0UlJJdExVNG1OSzY2Nk5sWlFSMFVsM091SC1WMFhwQ2M5Skw4WnlKMnRlWnlmUmhlRXlWNVhoMWRkN0pqb3VOMjUtWGJrMFE?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 15:15:00 GMT"
+    },
+    {
+      "title": "Medical City Healthcare Announces $50,000 Investment to Support Youth Mental Wellness Through Dallas YMCA Sports Programs - Blue Ribbon News",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUzlIbHAxTE8xeXJhUERVSXlhcDd3dS1KQVlUZmN4Y3BKREdScFdfSGh5ZWdZclp2OW9GMEI3bnNacWtDdTJHdU1nQ0ZiWWJMTDNzcHJKTTByZldWMnVVRjAzaUlna0FDc09jLXlNSVc4YV9GOW9LYVZ2Y1ZGaDJRaVlXTm55eXktOS00aWJBSGtzV0ZObUxhQmJkR3NIQm9pNkdOSXppM2JmTHl3enRXS2ZQU3pKWHJBajZIMy1LWGozXzBnN0VaUy14aG1lXzVHU05VTlEzcG83S21DN2Q1S0w5bTBKcU1ZdnRv?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 18:30:08 GMT"
+    },
+    {
+      "title": "Hyro rolls out analytics platform to glean insights from AI agent interactions - Fierce Healthcare",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX25FZk4tZExXU0NyZmxOWUl4bHVzakJTdVJJV29RQ2k0Ym9oRTNtdHgxV0F5bVgzTWxrUURZdmt2Wm45bkdiM3ctYkVHY29XMms3b09CcUxtbU5IMVJRbWY4bnNIWTBQQmJPeTVxRmVWclJJenc4UkxINnZ6OF9TZHp0UUI4aFN0TW5EVzVzZlNHZjk0MkdSZl9TbVJXWHlwTVBfM241Mm5YdE1HS1VFNjFrMjM5a2VsSlhCcTI2NTJMMU5DQkdJ?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:00:00 GMT"
+    },
+    {
+      "title": "Dept. of Workforce: DWD announces grant program to strengthen healthcare workforce - WisPolitics",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObk1nUzE4VXVxUWNfYW9JUnZ4Qy1nT1Y1XzNYaVBDbXl6dlFGSUdkcXBTejJzYVh2YzBmWU13SUlHVnZBcUNGbHVhVkpXb1dmVHdhTDFXZEtyMGJSOHNiUUw0MndCbjE5dGtBbUsyX3NVSVAzYW5sVUdsS2x6VU43anVzSm9iUkpfSjFwLVBrLUNkWkRqWEpZNHlNeEdSUVVneS00c3Qxakp3V3Z1MU1nVXhLb0Y?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 00:39:30 GMT"
+    },
+    {
+      "title": "Why MASH patients need a clearer path forward - Managed Healthcare Executive",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR2d3aVpCRE1SdEpFWTJHY0hKUW9sT29PR3NET0xtTlk4QUxZRmxKRWc5NHUzc1NDWW9aZjRJSFVIUHFaRm5qNkkyODlKbDZ0U0VEU1hXUUJZUFlpc1B1OXhxdFMwMUtlZ0x1TjVVWC1wdzVHMm54enFQZWg3ekxhY2lWUTZoOU5qVU1PdDlnbU8xV19uWldfbw?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:52:34 GMT"
+    },
+    {
+      "title": "AAMS Announces 2026 to 2027 Healthcare Student Scholarship Program - Asbarez.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTkVLZG1YZVdSX3c5eW56TlJzSElvVGRucWxSOGF2NjJsMFhBdTZITENwa1ZGZ0huY3l3bjRnRkZacXpxMW1TbUtiRk5iUzVYS19IM3FwOGtsV0Y0VTBHUzNSU1laNmlyTUVSRmxmcy1JdjRtc09aMWdBZndYS0tISnJXRF9LTFotMjFGRGhvSmIxdw?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 17:47:34 GMT"
+    },
+    {
+      "title": "GE HealthCare sets 3.5-cent dividend for Aug. 14 payment - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUXdRcy14dm95eDVtZ0ZrOHRLNzBuTUhnWDAydWVtcWJoYmt0U0I2RzNhSmFpTDRwUDNGbTZZTFowS2Ixc3BGZko0RU1pZHg5amtuTnFXaWFyRG5NeU02QVFYUFZyRlE2b3BLdkdRNUxDNnNmT1JHVnh6TmQtc1dlTW00cDNLT2E0aWRqM3FubDNVbXRUMGRFS1ZLOWhELVFlWDlJZmNrS21sN2xSbGNVUjh6SkFiUQ?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 18:22:27 GMT"
+    },
+    {
+      "title": "Due for doctor’s visit? Memorial Healthcare mobile clinics head to Pembroke Pines - pembrokepinesflnews.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtSC1pWU9yY2VrZGxaQ1JWOXN6LThzSm1veUw3Sndzb29HVzB5WWxfWFp3c2xRSW9FY0xEaDhOV0JQMnh6NXd6b2QyeUtUcWlDV2hXWUxCa0xCY005RUgyNGNSVUQyZ0ZEZW12dWo0cHRjRDBuSzFv0gF3QVVfeXFMT19ScWpWQmk2N2lTYThzalA5MGY1QVVDUXF3YnJoM1h2ZHowWW1VbjFfdTRGc3Nyek92Zml2aVkyQ210TmZmbHhqQjYtYlhGZWFfRW1xUzd5ZExEX2ZyV2Ixck5MRXlvSHhtZnl5Y0k4X3NtRXdIOHM?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 15:57:10 GMT"
+    },
+    {
+      "title": "AI healthcare unicorn Assort Health takes three floors at One Market, doubling its S.F. space - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkpKRGY5TmdSUGNqVTBqdExrVWF2V3BZVWdwYVNaQVBfR09BajJoZDVMV29xU1JlcnFUbTdSX0hiZml0NU9XNGdTSVRkOWJETm1jTUNtN0s4RmEtYlpGSjR6VjVrdnZlRWxhNVhKMnZDc2hfdjh4T1p4bEVTV0RBNUNveGNLelY3VzN0UDM4OXQtSzVoa2JyUEpn?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 13:18:00 GMT"
+    },
+    {
+      "title": "SportsMed Physical Therapy Named a 2026 Health Care Heroes Honoree - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdkZneEh0YmFvNG9laHBnZ0UxVkpxeDBHWndUMEZyZ3pqd002cjUzMnFnTjNPWXN1ME9WNUppOGpXeTA3RUZxY1l5YUx2WHVPei1VcFlEQ0MwUWhFaGU2VEVyeVNSNF9OXzJrWlhxSHJXZFhQQmJtbUc1b0ZER291dFR1ZUI2UHozdlFaSkRkWk84Y2w2ZFRxN1c2WlZlTUU?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 15:09:00 GMT"
+    },
+    {
+      "title": "Millions drop ACA insurance as premiums rise - marketplace.org",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY3p3LW45WXV5d3l1N3BEdUN5dldJamd0c3c3TFNJZEFORXVvRzJZNTU0eFBhd2dUdmxiTG50Z1hMVlpBcno4VXE1ZFdCSWgwOU1oLXpLWXBTUjEyS2hjekpWdjYwc2tXU01JcURxQXVUVTNPdTBPbHl3R1hTNXcxeXVLZTBCRWxnZHdoVnlWcnNvOGx2dmdB?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 11:51:00 GMT"
+    },
+    {
+      "title": "Outcomes Matter Innovations (OMI) Welcomes Healthcare Industry Leader Steve Wiggins as Board Observer - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTzRFM1lHbXdlSU9NRUdKNEhrVlVLUnZrX1Zld0M5cXNtbERJS2hRQUdpb0hPc0lOT2RWU0NMNThobHJnSUNCMkFMNDB3VHR0M29McGxnZlhuTV9MY0dVdTZPcENoYXpFNG9XMHBFTW1CS0pHNFFxNlpWRzlnUm1hS21XdnlEbHZqT1E4YlJxcnRDVmxzTmhVUjlYQVJDdTN1VXRZRDktT05uU1V5SEh5dmhIZXlrTS1MeEJlaGZmSlFFaFlNQUxnbzZrdE41N3g3UWN1S2R3VXA1NDRRQ2o4aGhDZ0N6ek5oNUFN?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 12:45:00 GMT"
+    },
+    {
+      "title": "Walgreens' Rick Gates explains How pharmacists can Fill Healthcare Gaps - Drug Store News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV2R3REJvSDlnYnV2NF9WRnZyemhQeDdkQ2VvX0ZmelFrUFRiM1pxWG1xZUNCS0Z3c3dyV2lZYzNPYmhjV0JFZ1IzVkZfbnpucVlEX01PSThOdDZJWV9nQ0RQSU9QVEFDUUFrd0IwSlBxcTNkWmQ0cW1ZbFQ4eWplckFkSUd0MTdYQmpCb2ZZUE00TXNhYTVtVDVJU1I?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 15:54:41 GMT"
+    },
+    {
+      "title": "Reducing Hold Times and Staff Burnout with AI Call Automation - Healthcare IT Today",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOEIzLTR2N1BXUEcwdm1XWnZzaTVzMFhDd01YRXRtR250OW1fTkdYWnQtd0VMemhfR0VoUkRsbGl3NFIzTm5Sc2RaWkVXM2s0MjRmZ2RKZ2thTnZ3NjI2d2E4MlA4MHE4cVVHS05wN21fYXp1bkVSbngxQ3NMSW5oV2w0Q1pJc1pmNUF1NkFNRzFDOUI2dnNqOG0wZng1cm1oZVZtQ2R3MGdPWXc?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 15:04:18 GMT"
+    },
+    {
+      "title": "Breakthrough Opens Doors To Better Understanding of Neurodegenerative Disease - Johns Hopkins Medicine",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSTB6UkhvYy1QTEZyWnJaZEJkWXU2Nk9PTHM1d0JEclhyVFlVYUI5UnN6WHdyZHdTbEF5ekh4VHREcUxYWkcxNHBmdHhrWVZOYm5zdkYydUJJLWNUcUhZb0E2ZXFFa09QM0lWNUhmTHVmajQ3S0ZUODQ2UUdlUUlaQk5wdVlKVVFlc1dRV0NJcTFleXpTOWs1eWNKRVRha2RVdkZnN1ZuM1JzZTJ0ZlgycE5hekZ1d1VraGJGQVhNRk1BS0NrZDZrYkpiWQ?oc=5",
+      "pubDate": "Mon, 22 Jun 2026 19:24:19 GMT"
+    },
+    {
+      "title": "AI breakthrough accelerates molecular simulations for drug discovery - News-Medical",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWG5LdXlnZi12VVgxNEZ6SkpWQzRlNGxSX0VDd2Fmc0dqS0dzZ0ZsRndFeVQ4Z1Vicm9xc3gzYWJwcnF3djYzTTgwRTc0cktmcjA0TFRBTUtQYUhyNThveEcxNHY3cGpmZ3BoMWhUTjJFVXpjeUUzU0ZuaVBGVUExZE5wUDRneDVKdTc1azZpVkg0b0ZwazExOUU1ZEpJcEtNX05GMkVGNG5xTTR4SXpTcmhOR01Bcnc?oc=5",
+      "pubDate": "Thu, 11 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "9 recent breakthroughs in the fight against Alzheimer’s disease - The World Economic Forum",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSnFWeldZMFVwM2NaeXZyTEhyUWxaSFlJX0FYNTdjVVFlVWVKNXVENFpicGZ5RU5TRXppVHpMZVZYa0d5SjJkZzdEUDNjQXpWTEJEM0tjeFZPS3l0TF9HS2tvcDJUU05WUGctT3p2cTdzN1FzbzNJS080UUZoUjBDZE1ieXZLbUk?oc=5",
+      "pubDate": "Fri, 24 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "title": "The Best is Yet to Come: Dr. Ronald Desrosiers’ Breakthrough HIV Research at the Miller School - University of Miami",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HT2N5TjJmWUl1S3ZxNEFpUFo3VkI4X3JmRXhJa3VZQ282V0RLN2hSeDBBU2ZNUWViTGlQUmc4SFRObGVrY19UUThzaWxXdE13UDRIZTJad3dFeVp3VnJPMkFDRlo5Z2dEWENhUE1kZUVQUQ?oc=5",
+      "pubDate": "Wed, 13 May 2026 07:00:00 GMT"
+    },
+    {
+      "title": "How AstraZeneca’s $50 billion investment is shaping the future of medicine - KUTV",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVjB3anpBQUFUMl9zVENTQ3ZJZjdGZzFMcVhzaVA5TmxBYUJoQXhxU0szLXgySXJQMXE4bklYUGVwa3h5TjFnU296SkpraEFQMTI3c0RaazQtaGhXX24wMFg1Nm5sdEhIbFBtYUFiUzlXaGVwMVB3MWlmRXBTaWJndFltRDFYRU8zY19NaG1yMXVLdE1PUXEyQWJDVVZ2cFVSTVhRSlFKXzFfcVJzNl9raA?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Congress must pass legislation to ensure Medicare covers breakthrough medical technologies - statnews.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZDF3SldBQXlLdTF6SFk2UVRZbl9XOGpaTFlkdVAzaU5NdXJSYXRNZ0RnMmZvbkE0Qnk5bG1iYTlfTVVpdnd0T2ZtVTdlU1BfdGROWEZMRFpQVk5Bem9hbHdBeTVYVlZraDc1R1hOQUpqZXlFbjJkTGlXNkdCSDBGc3ExdXFFa1pLYk13UEVKM05sZw?oc=5",
+      "pubDate": "Mon, 16 Mar 2026 07:00:00 GMT"
+    },
+    {
+      "title": "Breakthrough in cancer immunotherapy: Promising therapy for advanced solid tumours - Open Access Government",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcFY1eGU3S3ltV3p1eU83a3hJWWYxVm01TWk0OHFRTnJkb09CNjBTTmlhcjV3anIzZzd1LTB6REhzVEJYQ0RqbjljX1h4eWl6QkhSdVlyTmxic1hzT3VtUC1wbXFQRGZQSDhSZ1JpV3FwQTRMdTdGWmFQRmFEXzBHOGhVaHpMUHFZbGRBMVJ4cWVZUlA2Y19HODlTZDQ3WC1WekxWemJ6WEE3cC1UaldLT1R3eWQ2WmJRMzVuaEV4Q2dBV1dz?oc=5",
+      "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT"
+    },
+    {
       "title": "Spermidine Kicks Immune System Out of Sensecene - Medical News Bulletin",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN0UxVnJRSW9vaXBNZmhCVjU1TXc0MUZEam5mWDVycmM5Mll2SFl6cjhSdGpZN1RVNUwzNXdoYWxIX04yZF9LRkN2Y1U2dlZMZnpVaXpmWXN5WFZKNTFrcUhCWFZLdkpvem94cl9KRHUyTk9qMmdDd2lVS2FQUndJRHREcjhMVEVLUk5LbHVKN3d2YVk?oc=5",
       "pubDate": "Tue, 30 Jun 2026 14:30:57 GMT"
@@ -4645,361 +5000,6 @@
       "title": "Four minutes of daily resistance training can quadruple fitness in older adults - Penn State Health News",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWlJ3MW1ENFVqVl92YmN0SXNwc2kyY2Nhb3RVbjZoaGl5VUdRVE5NMURIWG1BX3J5OTdjSGhxWE02THFSLVBwNHBEUU1oQkhUM0ViVUI4bHlNenJtM29aWklBN25zWnhIR2VDSE1KdDJwQy1RQW9ES29aeXNyb1hEd2h6T3ZoRVlfbmpDQmFqSG8xOW94emd3Mi1KMmxjMXVIWFlZUXlVVXZmemRMelB1Wk1jMUNLc0tuMndWSg?oc=5",
       "pubDate": "Fri, 12 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "How might a disrupted circadian rhythm affect brain health? - Medical News Today",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTWRtdWdYNHZTenJ0bExWazlHQWg5NVFudGZoTVAwclFROVhMTTBYVWVzdTcxY3YyaG5uekpnQlllNFI3SGh2UmJKMldHX2xfSTdiaHBPTlJub3dQQmxHZXVxa0JtWFRaOHVDWTI4dVBQLXBvU3R6c1hHSDNTNHRRaERxT0VHcWhIRHNuRk4tdFhmb0ZoRWg0eXJiVXJHNFlXOWlsRU01Q2ZMR2FxeGFDc0IydEpadw?oc=5",
-      "pubDate": "Fri, 17 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "BIO 2026: How NIH cuts have threatened US competitiveness against China - Clinical Trials Arena",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT2hCM19ZUEVPSFY2bk5sT2lNU05mTGdFTUdpTC0wbnJaR3IycnJocjRtU1RoME1UZDZoX2ZmRmpNd215VllZblpkRl9CSGt5WTYyOEJKUGo4RG5EbWVDXzhmaUpNSDlBVWFqMUY5aTJOaEw1azA3SlZJdl95bk0yZXRXYldIOHh4VkdxTlBsS2hfZF9fWUt6bE9KMk83dTl5dHc2ZkMxeGpVbmpZRnpvS1Jn?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 10:42:53 GMT"
-    },
-    {
-      "title": "Clinical trials will stop being centralized in Barcelona to serve 850,000 patients from the south from the Hospital Sant Joan de Reus - apdnoticies.com",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPTnlfS3daejByMlRRNGNZMzFaa1luT1dRNGp6UXZkZ25taVQ5VDUxY3pMdC1wTE1fTmVMRnMwdHhpLXlJQVVQNUYxdU5rZ3J3THA0bXNNTHZWRk96WUc0VkNmT3B4Vmt3ZzVHbzFCZC1BNjdzZVo5cjkwc3JXbnJYTXluVXlraFZUWlJsbTViS2dEemg4NjY2VmJjUzFfek12XzlyRWNQM2tpVTBKRGJiSUdLYnV0S09lUVROS2ZXZ0s2QlcwUjdhSU16bmt2dFFxeTVTUXhqakZkMlJTOWV4eUlRUFBoY3ROWTY1RUxWS0p6Qnl1WVdlRDk4WWcwaU9jejdZRjZtUG5HSk4wRHUtQkxtUHNkYTNa?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 01:29:13 GMT"
-    },
-    {
-      "title": "Viking Therapeutics commences Phase I trial of VK3019 - Clinical Trials Arena",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRktyNzdqWVBJeC1hWmlBNFNnQ3hXU09LVjYzSDFiRkt3eVhCU2JWZEdxN3pTWmFUUUVlTHhmcVIycllhcEYyU3N5YnQtZTZtblVsXzI0WklBT0VLc21hZFRLQTJwYjV3S0hmdlBqZHd2SmZxSXhoUlpseUlrbkFWM1hFMzYzUQ?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 10:42:53 GMT"
-    },
-    {
-      "title": "AI Can Help Design Better Trials, But It Still Can't Tell You Whether Patients Will Join Them - Clinical Leader",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZHVhcm11NlFiLURuQ0FPLUxhVW1mZy1ySVNRZUlNeEFRa3RrVTB2RVFqMlBfVnotN1ZxSFZXblBjUjdzUjVGQlBMUmhCTVJ0RlZYenhiM2VlcHU3c29EX3A3YXdQQ1JaMFpUbERJX2VYR2ZQWTlJQmo4Vkp3a0o5TlhUd2ZqQ0tqVXlNNDJhNHFNZ0hDZzc2WWx2a3lybUNVRV81OTJ4ejJ5Y3hZZjZyMmR6aW40NTFqMkVuY0wteGJ6a1BrNGtPOWZwcFA?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 06:26:27 GMT"
-    },
-    {
-      "title": "Five Million Americans Lost ACA Health Insurance—Here’s What That Could Mean For Public Health - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMloyeS11ckFLdWJadXhyQk4td3FLNkk4bllqNnlLRTVTb3Rjb0Njc0FJRzhVc3R0djl2MFN5MUdYZlUxTno3WnBQTklTNXhYTDdUS3IzTkREMnoyNkk0eHNoOHVlLXN2TWNqZTF5cnpqdUJCS2lra1FfX2hHWUZfVlBETmpFeS1UU1JUOVNLTlk2ZnhlSkZFQVFUYjhVY0J2TC0yd0JsOEEtQWVmeUlCODVyN0tkQWtXYlBoSGJkVjh6Qmx3bGM0T2tWTmNpa093YXNYNVFOQURkeVk?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 15:26:40 GMT"
-    },
-    {
-      "title": "Renee DiNino chats with Dr Bontempo of Hartford HealthCare - WFSB",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS2xFbm12QkM5Z2V4c1dSajlRRXhaZTdzWUZtZlI0aHAtMnN3SXRadDZDWll6Q09FQkFUZmZNTTh6cnVhUm9KR3JUdWdSb2RGTnVBaWFpcFBvdDF2YThrSk5zX2RlbFhaYkpmaXRIblNBQXBQWVJsdWEtMklkVGttUHNpaWNCWU1ZUHNYMXgtSHpnOE15Yl95cmhR?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 00:26:00 GMT"
-    },
-    {
-      "title": "Fluor (FLR) Could Be 6% Above Fair Value After New Healthcare Project Wins - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZUNURUNvSG96OExmSHdfVUtuUU05dlIxUkhEY0VSNmpwSmpIbkgzb214d2ZSUmFlM1NjWGtGNEhNallEMXlkMmt2enFEcjF1SUdIbjlRUzlRN3hLWlZQLVhVOFpkeUY5R3BSYWVuampCWWtqdDlGUmJ2N190NG9BNmdQUHZtY3l1QWE0QkE0NGZwSnlBZEM3OGx0cE56RzVWV2RsejA4VEluY2lQaEloNjFjR1NlSUZ1Z2hXLUlpekRpX0dL0gHKAUFVX3lxTE9RVy1lV0hQRndvZXVVUVlIeVJkZFdGM0hZYWNzZklZZno5c3FucV9QNk9JbFBWaXVyenM5TVNmWnM4VTVLRVhSNF93SVR3Zy1LbzdpYzZIYlFlbDlnSDdjdFBYZGRCSlhLd1pQNDBaa3MxQ0FncTVFVmxaN0dVQUlDY3llT2NqdVRCMjdPdTFvWE1XWEdjWTNRMVBkUE9kNVc0aThKQ3lvMVc5Q1BoLUwwd1lUY2Ytd0pzQ3pJcnZIU1FJV25FcF9IeUE?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 02:24:57 GMT"
-    },
-    {
-      "title": "Convenant Healthcare - MHA - Michigan Health &amp; Hospital Association",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBvcnM4YkxTX3c0QlZUV2M5dHNETlFQa01CNTdwNndCTmZoVFhxM0tQbXBPUjJzU01SaEdDWmR3UDdmM0xwSkltY2RCcUc4QVdIMmNDaTFBZjBxVWkyNHFnYTRSd3c?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 19:39:00 GMT"
-    },
-    {
-      "title": "Millions drop Obamacare health coverage after subsidies expire and costs rise - WJBF",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTUU0eml3SHhLS1l6emJWMWJHcU1yUFZLVzFyczJsMG5KclU4NjNCdHZqMXNyUHBlbFBsWGp5NjFZeEZ6b3hlMDM1X3JXWVlaY2l1Wnd4Nng5LVZ3dmFVN0xVbDNFUl9GLW9uTVc2SnVnRFJtWGc2Tm1ZNUZsdnBoTmZYanJnZWluMWVoaEdhb2tCNG4tMW12LW1OeS1UY2o2TFJfdUQtQnR2QU1iTmpLYWdTMUdteTlsVnZoSlpR0gHDAUFVX3lxTE5HN2hXRV9Pdm1Bejl0b25wbXFKR0MxaEdoZDhXRGt1SHVfM1NkaHhjZ01EYjdlSkhxUHVndUxmOTc5Um9xLVdsbVg3LS0tX19SZVk0dTFmRkdDeEhqT3NIemJEZmdHU2hGOTRLVVFYTVo4OG9uQlRRZW9mYWZPLUdTNWc1OFo4bW1vWmRWYzd4ZmxNc0QycmFBclR5bzhkeWYzRTNzYXZBX1lsRmZhNWlrXzNxZnpsOENUS0pOUV9EWERYYw?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 17:51:18 GMT"
-    },
-    {
-      "title": "Can Truist’s Chamberlain Enrollment Optimism Reshape Covista’s (CVSA) Healthcare Education Earnings Mix? - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONkxZaDBBODFVbmdLM1ROX2VWa2E5Rk5UYjFTbTk2N1RfdE9zUFNQWEdKcEpoMnZTbC1jUTM1UEt1eVltZ083LVZSVkl1UEp5YmFnRlEwN2JNbnBWZ3FrUW1qWTRxd29OdkFqOWRGeDI5S2t2b24xSmJWNDFCZUpVQ01DbXlLUy0zTmlfZW9GOEFMaXQwRUs2UVF6cTRQX3JnWmJaYUc5d0hXZ0dzTFBXcldDdkRpTFlFNDE2SlY1NlkyaDhXdWFJbjViQ0ttQdIB0wFBVV95cUxQN09vUDlGSkR5SzdyVnByMjBnd05tUi14OUlPd1U5NUxPTzVVNEtsbXZRaUd1UXNheUpfVW05eEZxRWV3UzlVak12S0JHVUZTWTNySWlNeFZXNEFaSW1zdDk3Rjc5ektLcy1XRjdMczdtRjVwYTBkUTZzSU9BUHc2cFdEdlk4V0REdDRZZm4tcUtKYThlRzVUYWdFNnFjdFBMeHE5UE9mNE02d1o2em5GaWgyelB4NVBCNlJEb0tTdFBDRk5XVVVOU3FKSG5LZEtLcHk0?oc=5",
-      "pubDate": "Sun, 28 Jun 2026 02:22:57 GMT"
-    },
-    {
-      "title": "The 2026 Top Healthcare Organizations - City &amp; State New York",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN1NKRmQxYmxtNnEwcjRIWlkyLVN4bHdiNnk5Nno5MzBFRU5sTmJTX0daYnpsT0NpbGxrSm80eU5pMjNGWW5iaEEtbG5TMDZTME8wdEtSTzFweDQ1S3BPNmMybFZSXzdVOXU3TlVDZTRSSUg3TzMtMUVoQnBxZTRCTVVCQkd5dkxTSXZ2QWNHaXVCUjlDOUVn?oc=5",
-      "pubDate": "Mon, 22 Jun 2026 09:00:00 GMT"
-    },
-    {
-      "title": "New Hair Loss Drug Is Being Touted As Biggest Breakthrough In Decades – And It Might Be The Real Deal - IFLScience",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZG8xNThTd3Z2a3hNX3NzVjYtV1RGYV9USFc5bU5LTHdueUlJQmpFQzlXLW44RWk2S3ZxRkVZRkI1emdUUXpyNFBaTzd5MFEwdEpnRHA1RF9sTEMzR291MExnNjdBN3lVZG1oZi1TckZGQjRsRnJJX1NkQU9uVVdIaEwtNHdRN1RCbGt1QWxfeUdoVXVzUXJfb1kzNTVNMkd0MWVFNEJxZ2tUZVBicl9oMVRVdW15VjJRYzZrR3RtNW42QmFLQVNWZmVvMUE?oc=5",
-      "pubDate": "Fri, 19 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "ProQR's RNA Editing Breakthrough: A New Dawn for Liver Disease Treatment? - BriefGlance",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaGpadmtHZklzMnl2Uk0tN2hqb3RJWU1ZUE5nWmlDVnI0c2duNHZqSHEzeU1TVDhaSUM1Z3lTcXp6dXZGbHdaVXUyd1Z2ckU3M1JCRjlGay1PWC1NX3A1VU1kNlVUWUhEY2VXb3EyTGJoWGhsVl93VmQwOGhWYzhESXd0MFZFbDZsSDdTZHFPOWdwUnhhdDBfMHFKZEJZUHo1a3c2MGFn?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 10:25:00 GMT"
-    },
-    {
-      "title": "Chemours looks to settle federal PFAS case for $450 million. NC wasn’t at the table. - North Carolina Health News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNzVSVnh1ME5ZUXF6RUQ1aVhVLXczX3RsTHhsS0MybUxkY2hJSEN3U2tlU3Z3VUFIODE3bGFqcFlRZzVzbGlsS09CLTJPYU9XeEF0SlhKQm1DUXZFUjdkSWN3ZWV2Q204MUpoWU5RQUtMZTltS1BzMlJBR3pZbE01dkdjb2lTTGtmdldNWWR3M3lIZw?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 08:30:00 GMT"
-    },
-    {
-      "title": "Large psilocybin dose briefly improved dementia in case study: What to know - Medical News Today",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUkFrSTRld1JacGhWWVRTQV85ZElHS2psTjNNeVkyeUxNdEZpQlM3bEpfdEFoNXUxT0pORFI0T1F6LV9acVFtZlB4V0tTcjFrc1MzbHF3bC1IajhPQU1kdjVZbmRvTHlrNi1NeHBpNm5vSjRQb09tYXhOSjF2UFEycXFvSG53c3pybmtmVlQ5WlY2eTlYMVdFVzdFS3YzVDYtNHZoUjBFTmEwYS1oRHdxUElOXzlpT3M?oc=5",
-      "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "How AI integrated into clinical workflow lowers medical liability perception - Penn State Health News",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMXlCcUNtVG9CR25jYlVOUGZMU0FYX19ZYWM5eWJSaTRWTjdWZUtBdERvTXVTc1hiMmdGZm1ZZ1pzdHFWdWpDSGZRXy11aktlSzIxYVM1b3NsMFVtMTZkN0oxQVJDOW1QYVdwNk9EbDdhYXhuMWtXMDNBUUVCbUJMZjAwOER5dUdvTGhhc0MzcXJlUFNkTEZoNU1sd3NhWnQwdUtUYU5aVmk4RUxnU1NYOGlrMFJWVkhtcUJ2Xw?oc=5",
-      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Meningitis B outbreak in the UK: Expert answers 6 key questions - Medical News Today",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbmRVSXMycFR3U2VnNjBacXNQWW1xSWNpRGlERlFkU0lFNF9ENzNfZzk4QUZyNFRFX0xFTlBET19ZeVQydGVUR3VkQUstWGRyaW1pWEpwQ2t5djVCYXQ3U1FwZkZ3YUoteWh4bUI0em9TbmJ5U1p1NlNFeUlCbzE5NHRiZ0o2dVQ5QVM5dHBKV3VzUGR2NzZtV25TTmhMTk5OdWY2LVR6cWZfZw?oc=5",
-      "pubDate": "Wed, 18 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Liquid biopsy predicts response to breast cancer immunotherapy - Vanderbilt Health News",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNEhVYWNocWFYZEIxeVREY1FmMjByVEdSZThIcVo2UGFfMXZiNkU0QlZkbGZFTWFqRTdXNGgxZ2VDdjJSTWZrUmFGV09aeHdHZVQ5cF85dF8zLTk1MExsWkF0aEtjc0l6UVFSNlI5dmxSYkhWa2hkOXMzTWd2ZHpKMg?oc=5",
-      "pubDate": "Wed, 22 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "28% of breast cancer cases linked to 6 modifiable risk factors, experts say - Medical News Today",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWVFLUU9xd3hqR1pQMHJpWlgzZjRfQW85UC1Rb0xndGgtLVNtVmVjYklIbHkwOTBZT1FfanZudTA4UXNUX2RYVkxNNVJyeFRVMnhOUHFMLV9aaHJYR1Y4X2RMNHFGNGdlTmZsWHZtckR1WTlkbkE1RnNTU0lURXBhM2gtcmZJZFpsZzhkVk1vR1M0dHVRQUdkdHR5Q2JWQURCV3dWUVo4YWV0RDd0cWdFeHFkazNpdw?oc=5",
-      "pubDate": "Tue, 03 Mar 2026 08:00:00 GMT"
-    },
-    {
-      "title": "Ollin raises $330 million to fund late-stage eye disease drug trials - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORl9CRFdwTkpSOEpKWkozRVpzc3NIZWhSTTY4LXZKSVo0S183NzlFRmhCZ0FyWkZ1eDBjc1RhMk1CM1FQbGdWWDdYeVFUSTJNc1dQZ01TRm9jSzAzUlFadzh1U2JNRXJvSnJaNFlaTWpMRHpOSlM4dlpYRkh0M04tTHVuOTBxdU9wekZjLUlnZ3dHMFVubWlCN1N0Rlo0OW9SMUhPOTYyVVoxeXg1MzU1QXJiQXhESjc2?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 17:29:43 GMT"
-    },
-    {
-      "title": "3 million Americans have dropped Obamacare health coverage over past year as subsidies expire - Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSjloczNJR095RG1UUy1GVXJaSF9yZ1IyekpWbk9rbTk3Wmh6ekh3SUlmZ2I4ZmtEOElQZ2FHVWtXM1k5N0tFVzJ5WFVDVjBpa0tRbkwyVGI3YU1TMU1NMUpEcEJJSDk2SldvdlA1Yi13MzFtMlZpYVd2YnUteFVxY0ZtTkk3Q08yLTJybDE0OWV4SWY4cE9UcFRrT2pWcE03UV90TDdtYVVCRC0wZ1hHMUJ3aXVTWmFT?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 20:21:00 GMT"
-    },
-    {
-      "title": "New program in Starr County to offer paid training for healthcare jobs - KRGV",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbWpSU0t6T1pFdVI0M2lLNTBrczRDYldxbW0yRGdEVndDYW9uODNkMzdVdl9PNW5QRnIxQW45amFlWjJNdDN1YVhhbUI3bzRtcl9VQU9Da01sU3FGZkVZLW8tc1NPUzdlNUdBUlU0S0tBMGtpVkx4Z0lzZUFkdmJiOGVYS1ZHYlRzZ04wTzJDWDZVRzRNUVpOTU5FVDQ0UQ?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 21:43:02 GMT"
-    },
-    {
-      "title": "Healthcare providers continue to serve community in former BRMC - The Bradford Era",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTzVNbmdoWWpYXzNhekRTRC1vV1h1cmQ5OGZlTFAtRE40a1JfcTFHTHZFczlPeXkxd2I0Q1dueEJiencyNENrd2NWal8tQ1BQVEFxQWxuc3pGdURxS0dGZ1dDYTN4ZWZ5T0V5NTRtekVwc2pnYktJU0ZzZmtOVGtwc0R5QVBlUG12eVJ2eHJ4N0oxcDZlYTMwM1ZFTXZNQQ?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 22:57:51 GMT"
-    },
-    {
-      "title": "Turek criticizes Hinson’s vote for Medicaid cuts at healthcare event - Iowa Capital Dispatch",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX0pzQUlTelBsWFJsRWNvelBycGRMRVJuWUNINXZSWXF0VjF4cmRwT0hkaV9vZHJxN0RyZDlyWnhfMUV5cDBkNjdNU0oyeHd6dHJvM1V6Z1A3YnZIRHZCTE13aFF4UWs4SWFKSU56NzVPZS1YTW10a0x2cVlfSUpxLW9qR2tDdnpQVVl0RHB3N1pUUEkwWWhJUzF2cnd4dVR4UFA0a1VGOXQwTW5XdURhRA?oc=5",
-      "pubDate": "Mon, 22 Jun 2026 21:12:07 GMT"
-    },
-    {
-      "title": "City &amp; State: The 2026 Top Healthcare Organizations - The New York Foundling",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcjNmbndVb0QxZ3FfSmN1b1MyUGhPeVlaY3RZSmhGYVF6X3FDMDZxc193UGhIaXNDQVVVLWstWXN6NFB4ZVdreFVkZno0bHY2NFdzVFZTT2RXeHVybWQ3bGlTcEFKOG9Fb2JrbXprc3BqRWN3ZzNEOVUyai1oc3QxeXcyUQ?oc=5",
-      "pubDate": "Mon, 22 Jun 2026 15:50:00 GMT"
-    },
-    {
-      "title": "How GLP-1 Drugs Went From Lab Discovery to Weight-Loss Breakthroughs - CU Anschutz newsroom",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMzlsYV9RVFVxR3EzdGVibnRtb1RQUFRUVnp1R0MwU1JQYjZBV0xWWlFuSTl0RmEyOWNWdlNiRmk3NHZfM19fMlBTRXc0aW9jLVk0R2gyU00yWHRJb21Mb1l1VThQSGFRa3FsLVFyRk8zeXZ0Wl9hOXY5RW44Zld6RFVjM2EyNWd6ZUstYTdSbzA1dHZTVThiQWRwTFdzRy02VU9hOFRFaEM5Q29nYnfSAb4BQVVfeXFMUFJUZEt6TmZzWWE3VHBQa0hfcWFjaW0wME1ocWt6bUhoQWVjSnUxemIwR3JGQTMwSng3azMtSlFmZ0VtVHl1MUJMZWVkckdGUVpjUHFKeHpqVktrMERSWm1FbWlUSThqdFFxODVfNlFfTmRWOEk2OFF4and3azhMTTdFNkd3RGNHYzZTSWdkcXY0cDBfRmVVREZUbmk3eXN5ZHNxTE1XVExveHdBVVFKY1AwbjQ1dFg5WWRRRVRqdw?oc=5",
-      "pubDate": "Mon, 04 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "The Medical Minute: Sweltering summer? Avoid heat-related illness - Penn State Health News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZUphZ2ZUbnJic3VkanlwUDlyUTJtTDZ1T1ZSQ2dqU1dHNEVncm5nSWxkNDZkWC0tamQ3UHlHREhrcmxpOXZuT2s2a3RhNkhJbnpoVEJJdUc4STJWcUdfNjBvV1ZsbnVDZXJUWHp5b1hDd1MyZzBVQzNEM2Z5Q3pWNHNlNm1nM0kyXzQxMWRsN2lJZGw4Mk1SMmZ5RDh4RVpfbVE5UFdrNA?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Death takes a holiday: NC medical examiners plan coordinated vacation to protest low pay - North Carolina Health News",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVGE1WUM2YzBEZlFyRTRtOEVoZmhObmV1emRiMVZDUzg0dERTYXZCbG5KallvTHJEV1dVX2tOVXlkeTRqck8xYm45TXJiemowdFk4ZlpQWFBCYjZfR2ZXeFVFZGxGMXdEc3dkdzRvbGtlNlVaSGRjcG56Z3h4Vm9JVGxWOVpHaWI2UE9ucS1vc05UZ2xOUlBWemlMOEdOWTlVYWdObWNXY1FnNXRJTUZVY1ZNWjVmZWF4cFFIN2dLeE1jeE1pcm9fSFlIWmVscFdNaFBvVVVB?oc=5",
-      "pubDate": "Sun, 07 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "UC Davis statement on US Department of Justice findings - University of California - Davis Health",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ2lPLXh0NFUzRkp5Z0gtSGJ6bV9WTzFWbk1kRVFWbjd3bHcxNHYyeHhpYjcwTFFqaG5xSmZKa2pZZ2hPdWtuY0tRUnNYcUlaUEM2ZklHWmYybng1RzhWU0NILTdjeHVXVjd4NUx4MF9MblhlRWQ2U2JidXlGZUhhM3ZHclNiNGIyYzBLekdkZXkwX2pqLUhKVHVodE5xYzI0V2l1NUdHMUgzQUsyVkZfUXpKX0xsRnJDbzZGS1doUUhQOTVYRlVVNlNvUERKS3QybDhDMw?oc=5",
-      "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Popular vitamin B3 supplements could weaken cancer therapy effectiveness - News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONm1IOGZzQ2UzMkxPYXNRRDdEN1RfaUJOZ2hmdWJ2SFBRaGFpWEFxa0FYeFJOa1drLXlxX0Z0TWYtOXhtZnVtdUNIZjhCb1JTbXBRTHVjdUhHVkF0alRnai1HcnAwSVlHUW5icHZJYjYwby1CaTVWdk9SWElhS3JCOWgzNF9KbG1RZVprN1oyNW9fTDVnMU83a0ZBRDJwWW1FSEdnMDR5Y016MGVKZ2JLeUpQUzNEblRzQnFUeQ?oc=5",
-      "pubDate": "Wed, 01 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Coffee: Even decaf can improve mood, brain health, and here's why - Medical News Today",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdTJ3TE5DcVc5R211SllBOHVmZkFNakpPWkpOUnRhSW5NMDBldkdLQ0w4ZF9TVGJ5R1U2TTVDM0g1YWhxQVRmTWhkUkQ3SVM1aFIxYXd2a01qejBtN1NjMGJ0QkROM1NMc3Nsc01jZ1J6elBaaldSSm1BckhIN2lVTWhkZnFSYjFhVUNMWlJCVXRuYV9M?oc=5",
-      "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Social media data helps AI flag potential risks of GLP-1 medications - Medical News Today",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeS03UV9YSnRlVWRMcDc1NzJQMWs0NVZjdlJndWNsalBTQ19GR0dHMW1VSGJONW1scVBLRWpJTWIwNll6V0ZaMnpMazlnRnpjdm14WEYwUGdORml4UGlfbW91aTlqbGM4aGkwOVpLNUNsZE9hQVBxZnQwbzJ1dVQ0aUIxWEFUOXBpamdSTTZLaEl0NHQ3am9jWmdXOFhQYWpCd0tSWjlsY3BzbDgxeDA3TG9fODB5UQ?oc=5",
-      "pubDate": "Mon, 13 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Aerobic, combined training most effective for reducing blood pressure - Medical News Today",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQjFhN05iaHdVclRoYi0xZGtHa2QxSUFhellrR0MzZnZPbS1Ja3JvSXJWaXJwVlZnbnNnRXZ4V3dIaF85MTFPeENvNFJBLTJSLVJzRndGZVZNZ2lLd1MxeEhjdkZUQ29VOTRwRHhGN2J0ajRBV01kZkx1SDhfRVg5ay1wWXNMNUVhUC1BQUZVWnBLSU5Nb0dib29xTnp3a3RkR2xwcnhITzd4aUdw?oc=5",
-      "pubDate": "Thu, 14 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "How does eating ultra-processed foods affect your muscles? - Medical News Today",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONjRFeXctQjg5eXRGX2JuSUdSNWJuVklrVTFDQzlnRlJSYXVnSHZpcnJPR3FQcXp6eFh2QVZZeDh3ZEpYOGEyZ1dIOGNaWHZFTjdSdmxOQ0FIaHJsc3YyRUNMRTVGTTVKelJxRmI5ZHlYMTB1QmE1cnM1QnpXdVdyRW9aYW9pZ29sZksyNnNJZ2d5eDZqUEVFSGlGcE9qM3VkUnNROUhJeWt4UQ?oc=5",
-      "pubDate": "Tue, 14 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "High-quality plant diets protect against Alzheimer’s, even when started late at life - Medical News Today",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc2Fmd21SS21vRUtNbFlPbktNaEtaeldYTU5BLVZzMi05eDRtQ0ZoeERnSWFTOHd0LVhPSTlucnB0NWttNV9saUY5SjNrVjVuUS11aTI4NVRHblJacnZ2SHZqbUoyY2xpT3Q2UFNFdnJjRHhuY0xPV2FRVlp6dF9fUTVtNWtVdjRpUVJ6dmRydEVPSkNocTVaM08ySHAtbkdzMnRHam5VNmxqNm82bzdTUUN1Q3pWZjA?oc=5",
-      "pubDate": "Fri, 10 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Purdue, Cook Medical build upon 50-year alliance - Purdue University",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcTl1eVR6bUFKWTI2TUJEVkZJaGZkZTZPOTFWSC02SkJYTlBGbTNmMXRqOEg4X0ZlNWtXa3JfM3FVZ1dUNklLRTJHQTFWY1pjek1zbTdIZWI5S1I3STBOYmVmRi1wWjhuaGNJMEFCTXZlWHg0MXZCX09yUTh5OXlmdERZSlhTWFhiQmEwd1NtZGU?oc=5",
-      "pubDate": "Thu, 07 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Eli Lilly gave extraordinary obesity drug access to a 79-year-old patient. Who was it? - statnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaW95MjB3ZHFsVEgyRlFhQzFnTUluQjFnT2YybzdyM2hucGxEVFAzcXBZbGdRODJ1dUN5OFZJd3FPNHk2ajRCaHhYejVydUNfaUJERU1kUkRFRENRcThkV01EQU5WZlFzM09lVGQwQk9fblIxS211bWt4eG9qdlNqOU00MEtQUTAzMXNEb3BGNUNGYUpHX05aVkNIUHRNN0RqOThnLUR0YnNRdTdZQmU0ZWduRQ?oc=5",
-      "pubDate": "Tue, 23 Jun 2026 08:41:45 GMT"
-    },
-    {
-      "title": "MRI end-points for clinical trials in ataxias: recommendations from the Ataxia Global Initiative MRI Biomarkers Working Group - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xdmVXcjk5NF8zRjg3Q2UzNS1vYVdFSDVhQ3p3cWF0bXlENkI2OHpNRkI2Z2tXVy1vRlRLSWxCU0J6YmFHek9SbGhKZ25JQkFZNWk3UDEyR0Fyck4tVFJF?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Clinical Trial Logistics Optimization Strategies - Marken.",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWmJEbWpIYkZCRjl5SVNDWTRwU1luSFdwSy1sTVVKdk5tZWkwaENlbDFPWjdDR3JrcjN6cEd0bDdmSnFiNDlPNnhFYnoyM1daTXFWSzlUQnhOWmZYaFhKR3J3eUhvYkZ3c3FXMEp4T2lYRnVieWJWYVZBd1R5a3EwOW93?oc=5",
-      "pubDate": "Sat, 20 Jun 2026 05:06:41 GMT"
-    },
-    {
-      "title": "QuidelOrtho looks to sell testing unit as PE circles healthcare companies - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWEE1QjhTVHd6V2x2X1NNR05qaTI0WUtLWXVpLTNQVmxPTkJPTVAzUnF5X2F4amxJeUo0TTF1TUVMdV90QW14WDR3d1RLbGFMd3FkZGpvRkpEVi13TTAzUVRwLTA1UzJ1Z1phcTZ5a1hMd3ZJUHhKam9MNDNndUdkSXZLYjg?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 10:00:00 GMT"
-    },
-    {
-      "title": "Lawmakers torn after Scott’s veto of healthcare bill – ABC22 &amp; FOX44 - MyChamplainValley.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc0MtOFYxWW9zMkdLOXY5Q2JkejlxUEJfdzJjTUxQNW9ydUpDdXc3WDVRcnl0ZWVfRDZRU0Z6dnZkRElsMDNIZ3VmUHhuUUtlblhlS3dsQWVBOENsVEtuU1lLb0QybE5YdExid2wzczdQQjVFMXpRMzZqb05lMU5zaFl3bDZ6S1R1dzJXSEQtZVVtS1F2LXFmYXZQMHVCRmJWS0ZR?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 20:54:43 GMT"
-    },
-    {
-      "title": "New program in Starr County to offer paid training for healthcare jobs - KRGV",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM0tJYUY4elQ0cXZGYmtFc2pWQVlaVk1JMWJZMFVTTkdIMkN2LW93aXVsR2FKZGV0c3V1UEE4NEdNb3VlLXF4TG5PZ2JCUHlmWEhHM3I0RGU4YV9TaGpKLWgwNjVFQU5jS0pRc0I0bG1Mc005VHZyeG9rLWRONi1UNlFNM2JBVnRuVHpxWkNoa0U3Z3YzOC12aE5TNG9fbHph?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 20:51:11 GMT"
-    },
-    {
-      "title": "Dayton teacher’s union wants healthcare for long-term subs - Dayton Daily News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLV9KV1JFMjRUVjRtdGNFR3lBTFBHYS1CbkN6VEVzWGQzdHFoOTdseU9XZ2hoVE8waVEzUlZjcFRZcHNuSW1HOFNDd0JKeEZtSFRnRXNBN3RUWUMzQWhrTFVOTW9sTHNCd296a0lrWnFReW94UGtVeHAwcGdxSDBnX0x6LVJGQTFDSU9Ydk82MmxnNjBq?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 10:13:34 GMT"
-    },
-    {
-      "title": "HER | For Taylor Pepper, women's health care is a calling - El Dorado News-Times",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMjBHWHNVNG9IV0doQ2JLbnhEQ3BZczVOYm1KN2FiZHU0YTRBRk14aWpXMnA3Rk9mMVFFQXdVU28zMHN1QjZfeGxlNXNPVVdLekNTV1IySEMyb2s2bEgzWWgtVDM1VmgxRXk4akpHM0ZkSGd6ZnFZY240ai13UnVCOUhCeVJyQThZQUtlNkdfQTB0SktzZTdJ?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 21:00:00 GMT"
-    },
-    {
-      "title": "Millions drop Obamacare health coverage after subsidies expire and costs rise - KTAR News 92.3 FM",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSXFMSkVSZkNVSTRGdnBacmdSYjVveVdZNzY3UnJSZHowcFVBV1lId2pUQlhCbEFqVEpOc05iNTFJNnNRUVp3NGwwZEJ2S3dTakxqY3BWQndTRERiQkFwaGVsZS1xenJiMEgwMVlIdVMxZVpkVmdxVWViVUJTc2llVTUtSXpCS0dVT3Z0akh3WV84Z1hXRU5pVmlLaW9lTFZwZktMYU5aT2VZcGdKNkJhSUFVMXJaMGxY?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 17:51:18 GMT"
-    },
-    {
-      "title": "California is getting ready to increase a health insurance tax. Will it affect your premium? - CalMatters",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONVlCTlN2ZE0wLXZVTWRaMElleW9NYXRkRV9fTlRNbi1LbS1UWXVCMFhVbkNXQ2pGc3FiMFE3c3JmRUxla1dJSVVKd2dGdThnVWhmM3BaU3lvLURMRkJTRUloTzhGZ3M5bDFfblRyRS1ka052M2s2ZWpwVUtpOGszRmZETEY?oc=5",
-      "pubDate": "Thu, 18 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "The U.S. healthcare system and the economy: Why costs and labor pressures are rising - U.S. Bank",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMUlwUzRxNWZsLTB3dFAxdGFXamNNQi1kSjkxeFI0c0JsWDZQWmZaU2g4MFZpZDUweFpHLWpLU0xMQ2J4ajl3bVU1UVFDNVJkdEhXRkZadDRHZXR1ZFN4TVlSemYwellNY1RPMDEyUm1wX3c0NVE1OEYzMXZtZGd4VlVuNUpXa0cwYXVWRVdfbmtNSnEwdGozWjlHSHVpY0FiUmNGcFE2TnRXUHhUZDZtQjl5MWtDVlE?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Heading into 2026 midterms, Americans back policies targeting lower healthcare costs - Ipsos",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nZVppbFIwdDZmZG9rQWhzSGVtb3RKOWliSzRuODBnUmRraFpxWVV3c1VjTG0xTFQydlRhS3FqRlh4RGQxaWZvNzRlb19tRXNLcXJrTnlTZ2ZzWU51MHJzN2VtZGw0WmF1OFU0cUJB?oc=5",
-      "pubDate": "Mon, 22 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Americans mostly blame insurers for rising healthcare costs, survey finds - Healthcare Dive",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa2ZMbXJ3MEl3VlFsbWtwVmZmbTRaQThsekVzSC0wSUxIdnJDSTRVZVRCeFRQMnl6TldmNHF5VW8zSlhHYzdxb3ZfWHJ0MkdoUll6RnJYbHlaWW1zeEhPMk82VjZNaURtVVh0cFFTbkV3Q2lnN0pMbEJ2eVdEblFTaXNZV1BxLTYyRXdKelVHWlYtWExKbWlHYU9MMS1HOHZK?oc=5",
-      "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "IMU Biosciences Selects Waters to Advance Breakthrough AI Immune Mapping Platform to Transform Early Diagnosis, Monitoring, and Precision Medicine - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPVlByZ005SlpzUXNvM0NRc3lIVkdGQnNIRG80NmpNNE52OWdVOXRNeTljNVlDSGVMTWtpRlgwNFE3aXMxX3pxRW96a1k1Z09pQWt5czhTZEZEa2JDcHJZNlJETnEwZUdvZmd1aVpFd3pEa0tacklJTGk0LWRCQ2U0RkFQUEJxUXBOMkcxamt2WlgxT2E4bTJlNDRrLUNtdC1SOU9OWWFDVW1rZWJCSkdXd1l3QWFON1Y0OW5jT00xdjg3cWlCc3JUczZMRWlHOVROQTZmNThpeE9iQmdubjB6R01mdTVQQjZmb2Zuc051TkpGTWFUWjRodzN4XzNqeWtsOV9XcjQyVXJHaDBrSEctU01KdkoxVW03RUdsMXVHZTUzNHVLTTZhODd1QlVZQQ?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 12:00:00 GMT"
-    },
-    {
-      "title": "UNC-Wilmington seeks approval for four-year medical school - North Carolina Health News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYTRWZVRBN0FQeEFvUTlEZDNDa1JXdU1BcEJmUlM4UVBtTnFmSEwtT0J0b3NpRkxsTi0wRTQ4MC1vTmtmT0RvQjdPWjllVWl0NTl2QzJYQUZvVlE2enFmRXpnYXFITEJnZkg0ZmxyTWdDazZyZVpkNEk5OG1ITHE3dXN2dlRUTFBRYXliVjVDTDR4TWdjbUF3SjdWcEM5aWdJaXhfb3RDbVY3OFdVazJZ?oc=5",
-      "pubDate": "Sat, 18 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "One bedtime habit may significantly reduce heart risks - Medical News Today",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb3NBd3gzcGdzZElackJRbXJ5UXdqV2lMQTI1bTNaMFA0aWh3c3ZLajZrLWQ1RkxkdDRaSkxHWldUaTNqeVlpTTNNbEFOMWhDdFh2ZEtpeUg0d2N3SnN2T0Q0RXVUNk42OW9yQ2ZPbGFzT1NfWDhRTE8zYlcyaEF2eFZHRUp2eUpBS2pRTmV0NXM4RFdrOTJ4N1dINER4UEVhZ1l5eEl3YTh1WW5tTEk0bGx6Uk1tU0RNSWUw?oc=5",
-      "pubDate": "Tue, 07 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Heart disease: 10 extra minutes of sleep per night may lower risk - Medical News Today",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSDdoTzB5MVJyclFYTkR5Y096c2JXRWZEZGxlUzZXYmlsZm8yb2V4b2dNZU5NTlVqNmJkekhQekh5cjNWWnVZZkNWN3VTUzdZZFgyVDg4Tk5DZGtMMUhIV0FQM2VEOW9WU1dOcnpmanBlcW5lN3hGQWdXM092ZWt6M0RnRklZQi1DWmpZNjZsUUljN0U?oc=5",
-      "pubDate": "Fri, 27 Mar 2026 07:00:00 GMT"
-    },
-    {
-      "title": "New pancreatic cancer pill shows promise in extending survival time: HealthLink - KING5.com",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOelZiNGcyZlIwY3RqX0YtMy11QXBDR0xPZDVKdDc3OW9teE44b3UyTXFXYkwxM0p4aV9SelBEMUN4dktveV9Wa1pldkdNcEpqVEkyWVJ6TzRjbzV0dkx3cGU1MnJtVzdCb0N6RUlYSlM0TnRLSi1pSWpxQkZGWUZtb3VOQkNNV2hoeVpiQUkyTWpKb0pyelF1OUdBZWc3Vk4zcVR4eGN0Yy1pN1lrMFkycWNxdTVhS1VNbnl5UG5qVTBFb3F0STM0OWZsblhkQVI0UkhTUFVRNDE3dVlOU25TZVQ5aXFDQlp4MnVpc1NFMms0ZXFKclFBVERzd2ZONVphMnc?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 02:32:00 GMT"
-    },
-    {
-      "title": "UK bookmarks Spain’s success in race to global clinical trials competitiveness - Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLWhZUXBRZ2FTdDZINVoyMVIyOWhQUXpBNFFRX0MwYWNoOWhaSzRVWFZ0TWV3WVBURkdCV1luT0JRUTBzTzh5US1mME1mNU5EQThwVnMtQVJPVG1ic2REb3NCNHg3OEtVZ01LajR6TmFfOWMxZmN2ZllSelNadk14YWZhaXpuVHBpWFdkdTRWbE9pRzd1?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 10:53:04 GMT"
-    },
-    {
-      "title": "Nvidia Owns This Under-the-Radar $20 Stock Poised to Disrupt a $1.8 Trillion Market - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMWdSREhvRmNSSXVFVVUxenBWYTFxMmxEZy13UVZER3JVNVhaVUs2S0o2QUhJdWFIbGprMkpnbDhYMk5ob3BkdkdRbF9Fa0dzN3otX2o2VnQ1d0ZocHZRMEtlMzZyZFRwZnY1djBuZUxkVGRMZXhpbjVrOXQ3aFJ6YWF0alFFYVFOUmIyRHNwMTRpX1ZERmdwMA?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 12:23:00 GMT"
-    },
-    {
-      "title": "New commentary urges patient-centered AI regulation in healthcare systems - News-Medical",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNzhoRkpwLXcxUUozZHdnTFBjR0RLdkhBR2dLRXFidlpQT1JUU2MwVjcwV19oeFkwdjlNZzQzUEdMb0l5ZHRzUnFocDJ5VTF3UDkzbWZReWRmLV9jZUNNa2d6NENqckF3Mld3ZjFpUEVsNGhuS1RHTjBkNHNfTW4xc2R3Tk9OcllCX2JON2NuTzBVb093aERabDRfN0ducFN0LTRmVjVMMFV3dmRZZFJ6czlZOFFQNnNGb1VCRm5R?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 19:53:00 GMT"
-    },
-    {
-      "title": "Binghamton University creates an open-source healthcare simulation repository - Binghamton University",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN00tZHV5MWN1aEx2LW1jS0k5N0lKNG1FQmJ3QW5GOE5UbzVDY2EwUHN0WHMta2Z6YlBtYTVTb1hMTzB3X3F6YnNGN3pCTDYtR1pydlVQS25FblA2T3VOQkxZVm1VY2ZhVTlFOVBEaEJKLTBvMVFyV2U5STU0SGt6XzRJcDBNZGw0NkxTRzU3T3Q0NFpFY0h1d0ZiYUxWN0EzRWR6SlRZM0FjZnVsYjhpYVUyUGxBSl9Z?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 17:23:56 GMT"
-    },
-    {
-      "title": "U.S. Adults' Ability to Afford Healthcare at a Five-Year Low - Gallup News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMTNOUmZNRWZuMW5BaE5IV0JuS0dnVDdCcTg4Wmp5OEtpM0FucFQ2eFl4clphV2k1cXhqT19BenNpMjloWl9TbWd0SmpfZF82VGxQWWxvYmtNbHJyQXRhVFFPUFU3RjN6S2xUMzc0bTZ0Q3Z3a29QYjBoZkdyT0JYcUlXWDVKUklJMjFMWEU4NTQ?oc=5",
-      "pubDate": "Thu, 18 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Patients Have Spoken: 5 Hard Truths About Healthcare Patient Experience in the Age of AI - Salesforce",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWHNrU3JtSUZWR3U5MFJiQXRUSWhZMWFrOERoRXpqVXpxOGJIWkppZjlsbC1ZdWpMdXFkZ1dRRW8wREtZLUdPOTBTckNwLTk3MEtWeXc5cGgxR3pEUmNCVUZkN0dhbzI2YXdhbmFvbjE3X0hDREkxOEx1QmxRNi1kXzRvVUlCdw?oc=5",
-      "pubDate": "Wed, 24 Jun 2026 14:45:14 GMT"
-    },
-    {
-      "title": "NYC Health + Hospitals and MetroPlusHealth Recognized Among New York's Top Healthcare Organizations by City and State New York - NYC Health + Hospitals",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQX3Y5Z1diZ2pMSlBBZDktd0JaRzJseE1HSWVRWEZBMVg3aC1VNDJqeEZVdE1NcGxRS3FnUkhrMVZRcy04b09vUm1FS0NPOHJ2cF85dnJzb0MxRnFMMkJoYTFSUnM2QlFPSzIyVzhEMnBlQ3lJQ21Vcjk5Z0NzQ0hCZHNkNFh2ZnA2c21OS2Y5M2swNGJrMjNWWHBXcWc0N3daV29MSlpMdm5mVzZSWnFocTN0OUs0TGZqbnZSanItdjhLRjJHQkw4WENnOFhkSmdkTEQ3ZzZyamRyOU5yWWJQWmNIdFMxSzNVMW44dGdsS0xxaGpYRlVtQWNBMnpoY3hXbFdzSGdn?oc=5",
-      "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Standing up to rising prescription drug costs increases access to breakthrough medications - Healthcare Dive",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdnJTQVlQUHpXUVZ2S29PU05VbGFmaDhaN3FzeWUxMDJCMFFDdW9DUmtINWs2UjZmWlVDdkhSRHctSXBvUTFwbk5wNHduZHpJX0wxVnlJdFBoM1RMXy1reWZPRVFndkdBb0hwbWFJWnFlaWs0cURoQjZyNC1zUjAwTkVaRUNaMlBnTW5yclZuTWNqR3ZpVWpEV0s3emV1dFFYOGdueEF3VnhtVmNQT0FlQ2Z0SzlyaS1JSjdMXw?oc=5",
-      "pubDate": "Tue, 07 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "3 new studies point to promising ways to reduce stroke risk - Medical News Today",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVjUtRDZUcnNaal81dWhrZmsxTzBzV3N0c1I2NXhZZmJEYmowV1N3bDNORVlldllsVXlPd0RTZ214QlA4VnV2aklocHlLeGNEQ2FqRmJDZ0tPdHJfbUJzdDRIcDctVG5IUWV2VWxnZjdod1pBNC1yUUVSNFowNWttaEF5R2JpODBIM3MwaWZBNzNLX0xsZ3dRcW9OMA?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 09:17:14 GMT"
-    },
-    {
-      "title": "Trump administration orders US health programs to move away from overdose prevention - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaHFYbWFha05qN2xVNGE1X1dmQ1hibWxaYWNKaVR2QlFtMHpqVV8wVGhrSmZQUXFlV0FaRTlXOV8yV1JuT3lEQ0xWa3dVYlgwY0lRcXgyaU5WSkR3dVlVeW04VGFadUxIOThGazIxdnMzblBiTTA0YVEwTjMxRkRuck1zaGNlLUhZREljLVo3Q0pPSlU3b2tQLW0ybE1COU92UkEzaWNn?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 21:22:00 GMT"
-    },
-    {
-      "title": "Are Medical Schools Doing Enough to Teach Clinical AI? - Medscape",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN2s3cl9WM0xGcVNHb3pYNWw1LVdrWkc5NDNrNGFET2R0dWt2dmlaYkY0NU53cEMtNms4ZGFxejAzRmVaM2ZTa0ZyQkd5SmN0WjVIak9vN2JyMVZsWDdZOWNQY0ZhT3hDb2NCU3lONmgwSXdCMHAwZmlSNXpvTnl2TjdReWV1R3ZWSnltcW5TWnBBR1pNa2NPV0NnUFVlR0tzbnNOdEc0UVFXdDhtcnVvRnRFalpGNkM4?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 06:20:49 GMT"
-    },
-    {
-      "title": "Trump and Kennedy Seek To Relax Safeguards for AI Healthcare Tools - KFF Health News",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNejJsRnNoQlJtaHJFOFhHOVM0cDJLY2dKYlFDNGtpS0ZVcW44Z3JtZVB2eXh2VGdndUh5VVFOSnU4d2NqTHhSeWZUcHFhLWdNZ19tRy1JLXM2b1NWRkZSeS1SRzNmdnNhNjl4QVl0UWNTN3R5MVpsRVVxSW5LN0hPN0NZV0tQbWhVRzJrNnhaTDZ1YnJaanBLLVdINjh2bWJEWHFZeFlfOUVTdmFpTVhlN0xvY2g3ZXhqbkUxQnA5dC14Y2p6MUs4VGZ6N3U?oc=5",
-      "pubDate": "Wed, 13 May 2026 07:00:00 GMT"
-    },
-    {
-      "title": "How To Make a High-Deductible Health Plan Work for You - KFF Health News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWVaNlBGWUpBcGh0Z3JJaVd5V3hzQ0dzaGswNWVRckdaQ1FRLVFaT2RpZTg4TWhZNzNQbXRrTG9YQnRpeGRRY18wVS03MFc0bnZHT0lFMFRibVp4Z1NXMkJYZ09JYUI1NEx0eVhUT0xkMmFJb2dkUk9iMkp2eUVtSGwyMDAwN3l3R3I0azBib2ZYZGhMX3pQR2FESmNwTFJMUmNnYWltSzBKR3VZSkFXTmRBMFFpUQ?oc=5",
-      "pubDate": "Mon, 13 Apr 2026 07:00:00 GMT"
-    },
-    {
-      "title": "Millions dropped ObamaCare plans after subsidies ended - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRlRsUmtrVUNOZ25TRzZic1ZLRG9UekY3X3UtZzdsN0ZIbUhvYTF5aGh5UGwySldsSzVZWXhNVUZTUTdWYlVWN2U2d2VkMDE4RllfcjNkcHZCMWtVcXVJTV9lRnl0UWotNFpjRTJ4SThzSXAtSU9CeVhoVHhsNE5ma0dB0gGHAUFVX3lxTE1tZm8wRkVocUFKZFFFMEJDUUJsZlF4ODZkNWtNcUZTc0hyZlZlcGFKamRLQXdUdTZ3LWY1cnZuSjNqUlZjaWpZVFVBSXFLZU13Tlh5S2J4dVhpV1l4UjdxbmMzMEh5M3Boc3Y1N2pVR2l4VkxXQXZNMVpuTFpGSU55SW9uRzZqTQ?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 17:16:00 GMT"
-    },
-    {
-      "title": "The sky is not falling. Americans are getting healthier. - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZGNYVndZZnB0ay1fTk5IUG12TGU3QXhwNkZuZkMtdGhwSkJzR0NlMzBuYUhUclhqNmRWZVZjUmJWREJxM1luNmV4bC1YMVV4OWI4cF9PRC1WX1JuQm9XVXpSNDctV3ZBVWluYVF5dnNPal9jdFM1LUhvbE1ib2xDTzcxNUlZUEnSAYwBQVVfeXFMTUxndVNJRXZXdVI2NmlHWllfMDh5bU1VY2FuSkZ3RDdRalVJMTloMkx4WFlZZFRldjNwNXFqMXpnZk5LWG1JZHFabDlneGJ6U1FaWDBTRzB3cmFGYTFtcjJaU0ZBOXpmZkxtV052d0JLY1YxZ1dfYW53NDhwVUdfbFhtcGJfeW94bEpQWXc?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 18:00:00 GMT"
-    },
-    {
-      "title": "Maryland health insurers want to raise premiums an average 13.7% for individual plans in 2027 - Maryland Matters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdWgxVXdUTjA3VlByNFQzSlYyZDRLdURLblZHUnBjNUpmWG5iS3B4bnMwNkQtVEpZb3pCTEdVaUFDaWtXN2QydlE0ZkVKbFk5THBnM3BmTEpkWWt2a3RhZ2JrSzFUR1RCem1heldaclMwOUQydW16NzdKTTdGcUpUY0JYajhVMjFlY280RkdRa3RTSVdiWlc4ZlZDU2pXbWhjZ0pkdjA4eHFBZERIR3d5MndHRDkyOTZpOTBNa1pwanloY3FBS0FHb0dJN04?oc=5",
-      "pubDate": "Fri, 26 Jun 2026 20:31:28 GMT"
     }
   ]
 }
